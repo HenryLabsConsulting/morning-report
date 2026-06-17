@@ -1,0 +1,2362 @@
+[
+  {
+    "id": "HCP-I-00001",
+    "job_id": "HCP-J-00002",
+    "total": 347.93,
+    "balance": 347.93,
+    "status": "open",
+    "issued_at": "2026-05-11T15:00:00Z"
+  },
+  {
+    "id": "HCP-I-00002",
+    "job_id": "HCP-J-00003",
+    "total": 394.28,
+    "balance": 394.28,
+    "status": "overdue",
+    "issued_at": "2026-05-11T10:30:00Z"
+  },
+  {
+    "id": "HCP-I-00003",
+    "job_id": "HCP-J-00004",
+    "total": 404.23,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-11T11:00:00Z"
+  },
+  {
+    "id": "HCP-I-00004",
+    "job_id": "HCP-J-00005",
+    "total": 416.91,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-11T12:30:00Z"
+  },
+  {
+    "id": "HCP-I-00005",
+    "job_id": "HCP-J-00006",
+    "total": 256.6,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-11T16:30:00Z"
+  },
+  {
+    "id": "HCP-I-00006",
+    "job_id": "HCP-J-00007",
+    "total": 1353.93,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-11T14:30:00Z"
+  },
+  {
+    "id": "HCP-I-00007",
+    "job_id": "HCP-J-00008",
+    "total": 322.23,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-11T15:00:00Z"
+  },
+  {
+    "id": "HCP-I-00008",
+    "job_id": "HCP-J-00009",
+    "total": 341.32,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-11T12:30:00Z"
+  },
+  {
+    "id": "HCP-I-00009",
+    "job_id": "HCP-J-00010",
+    "total": 310.94,
+    "balance": 310.94,
+    "status": "overdue",
+    "issued_at": "2026-05-11T10:30:00Z"
+  },
+  {
+    "id": "HCP-I-00010",
+    "job_id": "HCP-J-00012",
+    "total": 369.47,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-11T14:00:00Z"
+  },
+  {
+    "id": "HCP-I-00011",
+    "job_id": "HCP-J-00013",
+    "total": 359.09,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-11T18:30:00Z"
+  },
+  {
+    "id": "HCP-I-00012",
+    "job_id": "HCP-J-00014",
+    "total": 553.32,
+    "balance": 553.32,
+    "status": "overdue",
+    "issued_at": "2026-05-11T15:00:00Z"
+  },
+  {
+    "id": "HCP-I-00013",
+    "job_id": "HCP-J-00016",
+    "total": 173.58,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-12T12:30:00Z"
+  },
+  {
+    "id": "HCP-I-00014",
+    "job_id": "HCP-J-00018",
+    "total": 418.24,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-12T13:30:00Z"
+  },
+  {
+    "id": "HCP-I-00015",
+    "job_id": "HCP-J-00019",
+    "total": 225.33,
+    "balance": 225.33,
+    "status": "overdue",
+    "issued_at": "2026-05-12T14:00:00Z"
+  },
+  {
+    "id": "HCP-I-00016",
+    "job_id": "HCP-J-00020",
+    "total": 202.78,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-12T12:00:00Z"
+  },
+  {
+    "id": "HCP-I-00017",
+    "job_id": "HCP-J-00021",
+    "total": 230.2,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-12T18:00:00Z"
+  },
+  {
+    "id": "HCP-I-00018",
+    "job_id": "HCP-J-00023",
+    "total": 599.57,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-12T13:00:00Z"
+  },
+  {
+    "id": "HCP-I-00019",
+    "job_id": "HCP-J-00025",
+    "total": 356.46,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-12T12:30:00Z"
+  },
+  {
+    "id": "HCP-I-00020",
+    "job_id": "HCP-J-00026",
+    "total": 1257.46,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-12T12:00:00Z"
+  },
+  {
+    "id": "HCP-I-00021",
+    "job_id": "HCP-J-00027",
+    "total": 473.92,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-12T14:30:00Z"
+  },
+  {
+    "id": "HCP-I-00022",
+    "job_id": "HCP-J-00028",
+    "total": 1222.59,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-13T15:30:00Z"
+  },
+  {
+    "id": "HCP-I-00023",
+    "job_id": "HCP-J-00029",
+    "total": 272.1,
+    "balance": 272.1,
+    "status": "overdue",
+    "issued_at": "2026-05-13T10:30:00Z"
+  },
+  {
+    "id": "HCP-I-00024",
+    "job_id": "HCP-J-00030",
+    "total": 488.43,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-13T16:00:00Z"
+  },
+  {
+    "id": "HCP-I-00025",
+    "job_id": "HCP-J-00031",
+    "total": 304.9,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-13T13:30:00Z"
+  },
+  {
+    "id": "HCP-I-00026",
+    "job_id": "HCP-J-00033",
+    "total": 228.59,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-13T12:30:00Z"
+  },
+  {
+    "id": "HCP-I-00027",
+    "job_id": "HCP-J-00034",
+    "total": 203.4,
+    "balance": 203.4,
+    "status": "open",
+    "issued_at": "2026-05-13T17:30:00Z"
+  },
+  {
+    "id": "HCP-I-00028",
+    "job_id": "HCP-J-00035",
+    "total": 188.4,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-13T18:30:00Z"
+  },
+  {
+    "id": "HCP-I-00029",
+    "job_id": "HCP-J-00036",
+    "total": 359.65,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-13T18:00:00Z"
+  },
+  {
+    "id": "HCP-I-00030",
+    "job_id": "HCP-J-00037",
+    "total": 1422.22,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-13T17:30:00Z"
+  },
+  {
+    "id": "HCP-I-00031",
+    "job_id": "HCP-J-00038",
+    "total": 515.09,
+    "balance": 515.09,
+    "status": "overdue",
+    "issued_at": "2026-05-13T17:00:00Z"
+  },
+  {
+    "id": "HCP-I-00032",
+    "job_id": "HCP-J-00041",
+    "total": 509.84,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-14T10:00:00Z"
+  },
+  {
+    "id": "HCP-I-00033",
+    "job_id": "HCP-J-00042",
+    "total": 309.12,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-14T18:30:00Z"
+  },
+  {
+    "id": "HCP-I-00034",
+    "job_id": "HCP-J-00043",
+    "total": 308.29,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-14T18:00:00Z"
+  },
+  {
+    "id": "HCP-I-00035",
+    "job_id": "HCP-J-00044",
+    "total": 525.99,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-14T18:30:00Z"
+  },
+  {
+    "id": "HCP-I-00036",
+    "job_id": "HCP-J-00045",
+    "total": 201.53,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-14T17:30:00Z"
+  },
+  {
+    "id": "HCP-I-00037",
+    "job_id": "HCP-J-00047",
+    "total": 432.3,
+    "balance": 432.3,
+    "status": "open",
+    "issued_at": "2026-05-14T15:30:00Z"
+  },
+  {
+    "id": "HCP-I-00038",
+    "job_id": "HCP-J-00048",
+    "total": 321.72,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-14T13:00:00Z"
+  },
+  {
+    "id": "HCP-I-00039",
+    "job_id": "HCP-J-00049",
+    "total": 990.84,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-14T10:00:00Z"
+  },
+  {
+    "id": "HCP-I-00040",
+    "job_id": "HCP-J-00050",
+    "total": 534.82,
+    "balance": 534.82,
+    "status": "overdue",
+    "issued_at": "2026-05-14T16:30:00Z"
+  },
+  {
+    "id": "HCP-I-00041",
+    "job_id": "HCP-J-00051",
+    "total": 1182.1,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-14T16:00:00Z"
+  },
+  {
+    "id": "HCP-I-00042",
+    "job_id": "HCP-J-00052",
+    "total": 296.02,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-14T18:00:00Z"
+  },
+  {
+    "id": "HCP-I-00043",
+    "job_id": "HCP-J-00053",
+    "total": 334.69,
+    "balance": 334.69,
+    "status": "overdue",
+    "issued_at": "2026-05-14T12:30:00Z"
+  },
+  {
+    "id": "HCP-I-00044",
+    "job_id": "HCP-J-00056",
+    "total": 240.41,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-15T14:30:00Z"
+  },
+  {
+    "id": "HCP-I-00045",
+    "job_id": "HCP-J-00057",
+    "total": 197.84,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-15T10:00:00Z"
+  },
+  {
+    "id": "HCP-I-00046",
+    "job_id": "HCP-J-00058",
+    "total": 1050.05,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-15T13:30:00Z"
+  },
+  {
+    "id": "HCP-I-00047",
+    "job_id": "HCP-J-00060",
+    "total": 185.28,
+    "balance": 185.28,
+    "status": "overdue",
+    "issued_at": "2026-05-15T14:30:00Z"
+  },
+  {
+    "id": "HCP-I-00048",
+    "job_id": "HCP-J-00061",
+    "total": 256.6,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-15T14:30:00Z"
+  },
+  {
+    "id": "HCP-I-00049",
+    "job_id": "HCP-J-00062",
+    "total": 188.33,
+    "balance": 188.33,
+    "status": "overdue",
+    "issued_at": "2026-05-15T15:00:00Z"
+  },
+  {
+    "id": "HCP-I-00050",
+    "job_id": "HCP-J-00063",
+    "total": 222.07,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-15T10:30:00Z"
+  },
+  {
+    "id": "HCP-I-00051",
+    "job_id": "HCP-J-00064",
+    "total": 480.84,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-15T17:00:00Z"
+  },
+  {
+    "id": "HCP-I-00052",
+    "job_id": "HCP-J-00066",
+    "total": 576.98,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-15T15:00:00Z"
+  },
+  {
+    "id": "HCP-I-00053",
+    "job_id": "HCP-J-00067",
+    "total": 374.34,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-15T16:00:00Z"
+  },
+  {
+    "id": "HCP-I-00054",
+    "job_id": "HCP-J-00068",
+    "total": 335.91,
+    "balance": 335.91,
+    "status": "overdue",
+    "issued_at": "2026-05-15T17:00:00Z"
+  },
+  {
+    "id": "HCP-I-00055",
+    "job_id": "HCP-J-00070",
+    "total": 204.18,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-15T16:00:00Z"
+  },
+  {
+    "id": "HCP-I-00056",
+    "job_id": "HCP-J-00071",
+    "total": 579.73,
+    "balance": 579.73,
+    "status": "open",
+    "issued_at": "2026-05-16T10:30:00Z"
+  },
+  {
+    "id": "HCP-I-00057",
+    "job_id": "HCP-J-00073",
+    "total": 217.05,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-16T16:00:00Z"
+  },
+  {
+    "id": "HCP-I-00058",
+    "job_id": "HCP-J-00074",
+    "total": 204.78,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-16T12:00:00Z"
+  },
+  {
+    "id": "HCP-I-00059",
+    "job_id": "HCP-J-00077",
+    "total": 1325.8,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-17T12:00:00Z"
+  },
+  {
+    "id": "HCP-I-00060",
+    "job_id": "HCP-J-00078",
+    "total": 356.88,
+    "balance": 356.88,
+    "status": "overdue",
+    "issued_at": "2026-05-17T15:30:00Z"
+  },
+  {
+    "id": "HCP-I-00061",
+    "job_id": "HCP-J-00080",
+    "total": 477.4,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-17T17:30:00Z"
+  },
+  {
+    "id": "HCP-I-00062",
+    "job_id": "HCP-J-00081",
+    "total": 461.11,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-18T15:30:00Z"
+  },
+  {
+    "id": "HCP-I-00063",
+    "job_id": "HCP-J-00085",
+    "total": 339.93,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-18T13:00:00Z"
+  },
+  {
+    "id": "HCP-I-00064",
+    "job_id": "HCP-J-00086",
+    "total": 171.95,
+    "balance": 171.95,
+    "status": "overdue",
+    "issued_at": "2026-05-18T17:30:00Z"
+  },
+  {
+    "id": "HCP-I-00065",
+    "job_id": "HCP-J-00089",
+    "total": 326.89,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-18T17:00:00Z"
+  },
+  {
+    "id": "HCP-I-00066",
+    "job_id": "HCP-J-00090",
+    "total": 289.81,
+    "balance": 289.81,
+    "status": "open",
+    "issued_at": "2026-05-18T12:00:00Z"
+  },
+  {
+    "id": "HCP-I-00067",
+    "job_id": "HCP-J-00091",
+    "total": 346.18,
+    "balance": 346.18,
+    "status": "overdue",
+    "issued_at": "2026-05-19T13:30:00Z"
+  },
+  {
+    "id": "HCP-I-00068",
+    "job_id": "HCP-J-00092",
+    "total": 498.9,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-19T12:00:00Z"
+  },
+  {
+    "id": "HCP-I-00069",
+    "job_id": "HCP-J-00093",
+    "total": 458.86,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-19T18:00:00Z"
+  },
+  {
+    "id": "HCP-I-00070",
+    "job_id": "HCP-J-00094",
+    "total": 1307.74,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-19T11:30:00Z"
+  },
+  {
+    "id": "HCP-I-00071",
+    "job_id": "HCP-J-00095",
+    "total": 358.44,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-19T17:00:00Z"
+  },
+  {
+    "id": "HCP-I-00072",
+    "job_id": "HCP-J-00096",
+    "total": 246.71,
+    "balance": 246.71,
+    "status": "overdue",
+    "issued_at": "2026-05-19T17:00:00Z"
+  },
+  {
+    "id": "HCP-I-00073",
+    "job_id": "HCP-J-00097",
+    "total": 343.85,
+    "balance": 343.85,
+    "status": "open",
+    "issued_at": "2026-05-19T13:30:00Z"
+  },
+  {
+    "id": "HCP-I-00074",
+    "job_id": "HCP-J-00098",
+    "total": 242.1,
+    "balance": 242.1,
+    "status": "open",
+    "issued_at": "2026-05-19T10:30:00Z"
+  },
+  {
+    "id": "HCP-I-00075",
+    "job_id": "HCP-J-00099",
+    "total": 381.19,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-19T18:30:00Z"
+  },
+  {
+    "id": "HCP-I-00076",
+    "job_id": "HCP-J-00100",
+    "total": 1133.98,
+    "balance": 1133.98,
+    "status": "overdue",
+    "issued_at": "2026-05-19T12:30:00Z"
+  },
+  {
+    "id": "HCP-I-00077",
+    "job_id": "HCP-J-00103",
+    "total": 442.08,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-19T11:30:00Z"
+  },
+  {
+    "id": "HCP-I-00078",
+    "job_id": "HCP-J-00104",
+    "total": 276.81,
+    "balance": 276.81,
+    "status": "overdue",
+    "issued_at": "2026-05-19T16:00:00Z"
+  },
+  {
+    "id": "HCP-I-00079",
+    "job_id": "HCP-J-00105",
+    "total": 276.3,
+    "balance": 276.3,
+    "status": "open",
+    "issued_at": "2026-05-19T16:30:00Z"
+  },
+  {
+    "id": "HCP-I-00080",
+    "job_id": "HCP-J-00106",
+    "total": 199.87,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-20T17:30:00Z"
+  },
+  {
+    "id": "HCP-I-00081",
+    "job_id": "HCP-J-00107",
+    "total": 607.52,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-20T18:00:00Z"
+  },
+  {
+    "id": "HCP-I-00082",
+    "job_id": "HCP-J-00108",
+    "total": 1101.3,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-20T11:00:00Z"
+  },
+  {
+    "id": "HCP-I-00083",
+    "job_id": "HCP-J-00109",
+    "total": 230.32,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-20T15:30:00Z"
+  },
+  {
+    "id": "HCP-I-00084",
+    "job_id": "HCP-J-00110",
+    "total": 252.5,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-20T17:30:00Z"
+  },
+  {
+    "id": "HCP-I-00085",
+    "job_id": "HCP-J-00111",
+    "total": 1027.15,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-20T17:00:00Z"
+  },
+  {
+    "id": "HCP-I-00086",
+    "job_id": "HCP-J-00113",
+    "total": 216.79,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-20T18:30:00Z"
+  },
+  {
+    "id": "HCP-I-00087",
+    "job_id": "HCP-J-00114",
+    "total": 241.73,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-20T15:30:00Z"
+  },
+  {
+    "id": "HCP-I-00088",
+    "job_id": "HCP-J-00115",
+    "total": 177.4,
+    "balance": 177.4,
+    "status": "overdue",
+    "issued_at": "2026-05-20T16:30:00Z"
+  },
+  {
+    "id": "HCP-I-00089",
+    "job_id": "HCP-J-00117",
+    "total": 1346.98,
+    "balance": 1346.98,
+    "status": "open",
+    "issued_at": "2026-05-21T11:00:00Z"
+  },
+  {
+    "id": "HCP-I-00090",
+    "job_id": "HCP-J-00119",
+    "total": 328.14,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-21T10:00:00Z"
+  },
+  {
+    "id": "HCP-I-00091",
+    "job_id": "HCP-J-00121",
+    "total": 399.09,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-21T10:30:00Z"
+  },
+  {
+    "id": "HCP-I-00092",
+    "job_id": "HCP-J-00122",
+    "total": 305.29,
+    "balance": 305.29,
+    "status": "open",
+    "issued_at": "2026-05-21T18:30:00Z"
+  },
+  {
+    "id": "HCP-I-00093",
+    "job_id": "HCP-J-00123",
+    "total": 442.84,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-21T10:00:00Z"
+  },
+  {
+    "id": "HCP-I-00094",
+    "job_id": "HCP-J-00124",
+    "total": 231.56,
+    "balance": 231.56,
+    "status": "overdue",
+    "issued_at": "2026-05-21T13:00:00Z"
+  },
+  {
+    "id": "HCP-I-00095",
+    "job_id": "HCP-J-00125",
+    "total": 343.12,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-21T13:00:00Z"
+  },
+  {
+    "id": "HCP-I-00096",
+    "job_id": "HCP-J-00126",
+    "total": 276.69,
+    "balance": 276.69,
+    "status": "overdue",
+    "issued_at": "2026-05-21T17:30:00Z"
+  },
+  {
+    "id": "HCP-I-00097",
+    "job_id": "HCP-J-00127",
+    "total": 229.67,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-21T17:00:00Z"
+  },
+  {
+    "id": "HCP-I-00098",
+    "job_id": "HCP-J-00128",
+    "total": 513.49,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-21T13:00:00Z"
+  },
+  {
+    "id": "HCP-I-00099",
+    "job_id": "HCP-J-00131",
+    "total": 446.52,
+    "balance": 446.52,
+    "status": "overdue",
+    "issued_at": "2026-05-21T17:00:00Z"
+  },
+  {
+    "id": "HCP-I-00100",
+    "job_id": "HCP-J-00134",
+    "total": 459.75,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-22T16:30:00Z"
+  },
+  {
+    "id": "HCP-I-00101",
+    "job_id": "HCP-J-00136",
+    "total": 431.45,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-22T11:00:00Z"
+  },
+  {
+    "id": "HCP-I-00102",
+    "job_id": "HCP-J-00137",
+    "total": 191.93,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-22T14:30:00Z"
+  },
+  {
+    "id": "HCP-I-00103",
+    "job_id": "HCP-J-00138",
+    "total": 252.64,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-22T10:00:00Z"
+  },
+  {
+    "id": "HCP-I-00104",
+    "job_id": "HCP-J-00139",
+    "total": 476.16,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-22T16:30:00Z"
+  },
+  {
+    "id": "HCP-I-00105",
+    "job_id": "HCP-J-00141",
+    "total": 293.67,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-22T18:30:00Z"
+  },
+  {
+    "id": "HCP-I-00106",
+    "job_id": "HCP-J-00142",
+    "total": 409.95,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-22T15:00:00Z"
+  },
+  {
+    "id": "HCP-I-00107",
+    "job_id": "HCP-J-00143",
+    "total": 516.13,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-22T14:00:00Z"
+  },
+  {
+    "id": "HCP-I-00108",
+    "job_id": "HCP-J-00144",
+    "total": 193.77,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-22T14:00:00Z"
+  },
+  {
+    "id": "HCP-I-00109",
+    "job_id": "HCP-J-00146",
+    "total": 995.03,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-22T14:00:00Z"
+  },
+  {
+    "id": "HCP-I-00110",
+    "job_id": "HCP-J-00151",
+    "total": 288.67,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-23T18:30:00Z"
+  },
+  {
+    "id": "HCP-I-00111",
+    "job_id": "HCP-J-00152",
+    "total": 517.61,
+    "balance": 517.61,
+    "status": "overdue",
+    "issued_at": "2026-05-23T14:30:00Z"
+  },
+  {
+    "id": "HCP-I-00112",
+    "job_id": "HCP-J-00154",
+    "total": 208.91,
+    "balance": 208.91,
+    "status": "overdue",
+    "issued_at": "2026-05-24T16:00:00Z"
+  },
+  {
+    "id": "HCP-I-00113",
+    "job_id": "HCP-J-00155",
+    "total": 417.75,
+    "balance": 417.75,
+    "status": "overdue",
+    "issued_at": "2026-05-24T12:30:00Z"
+  },
+  {
+    "id": "HCP-I-00114",
+    "job_id": "HCP-J-00156",
+    "total": 1253.34,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-24T18:30:00Z"
+  },
+  {
+    "id": "HCP-I-00115",
+    "job_id": "HCP-J-00159",
+    "total": 516.26,
+    "balance": 516.26,
+    "status": "open",
+    "issued_at": "2026-05-25T11:30:00Z"
+  },
+  {
+    "id": "HCP-I-00116",
+    "job_id": "HCP-J-00161",
+    "total": 362.52,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-25T13:30:00Z"
+  },
+  {
+    "id": "HCP-I-00117",
+    "job_id": "HCP-J-00163",
+    "total": 1294.63,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-25T17:00:00Z"
+  },
+  {
+    "id": "HCP-I-00118",
+    "job_id": "HCP-J-00164",
+    "total": 367.95,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-25T13:30:00Z"
+  },
+  {
+    "id": "HCP-I-00119",
+    "job_id": "HCP-J-00166",
+    "total": 371.27,
+    "balance": 371.27,
+    "status": "open",
+    "issued_at": "2026-05-25T14:00:00Z"
+  },
+  {
+    "id": "HCP-I-00120",
+    "job_id": "HCP-J-00168",
+    "total": 209.67,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-26T13:30:00Z"
+  },
+  {
+    "id": "HCP-I-00121",
+    "job_id": "HCP-J-00169",
+    "total": 265.61,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-26T12:00:00Z"
+  },
+  {
+    "id": "HCP-I-00122",
+    "job_id": "HCP-J-00170",
+    "total": 250.88,
+    "balance": 250.88,
+    "status": "overdue",
+    "issued_at": "2026-05-26T15:30:00Z"
+  },
+  {
+    "id": "HCP-I-00123",
+    "job_id": "HCP-J-00171",
+    "total": 296.44,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-26T13:30:00Z"
+  },
+  {
+    "id": "HCP-I-00124",
+    "job_id": "HCP-J-00172",
+    "total": 419.76,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-26T16:00:00Z"
+  },
+  {
+    "id": "HCP-I-00125",
+    "job_id": "HCP-J-00173",
+    "total": 219.6,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-26T11:00:00Z"
+  },
+  {
+    "id": "HCP-I-00126",
+    "job_id": "HCP-J-00174",
+    "total": 197.24,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-26T18:00:00Z"
+  },
+  {
+    "id": "HCP-I-00127",
+    "job_id": "HCP-J-00175",
+    "total": 569.58,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-26T15:00:00Z"
+  },
+  {
+    "id": "HCP-I-00128",
+    "job_id": "HCP-J-00176",
+    "total": 174.6,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-26T18:00:00Z"
+  },
+  {
+    "id": "HCP-I-00129",
+    "job_id": "HCP-J-00177",
+    "total": 220.68,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-26T17:00:00Z"
+  },
+  {
+    "id": "HCP-I-00130",
+    "job_id": "HCP-J-00178",
+    "total": 212.77,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-26T11:00:00Z"
+  },
+  {
+    "id": "HCP-I-00131",
+    "job_id": "HCP-J-00179",
+    "total": 513.33,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-26T15:30:00Z"
+  },
+  {
+    "id": "HCP-I-00132",
+    "job_id": "HCP-J-00181",
+    "total": 578.79,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-27T18:00:00Z"
+  },
+  {
+    "id": "HCP-I-00133",
+    "job_id": "HCP-J-00182",
+    "total": 224.93,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-27T17:30:00Z"
+  },
+  {
+    "id": "HCP-I-00134",
+    "job_id": "HCP-J-00183",
+    "total": 270.12,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-27T15:30:00Z"
+  },
+  {
+    "id": "HCP-I-00135",
+    "job_id": "HCP-J-00184",
+    "total": 304.54,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-27T16:00:00Z"
+  },
+  {
+    "id": "HCP-I-00136",
+    "job_id": "HCP-J-00186",
+    "total": 467.43,
+    "balance": 467.43,
+    "status": "open",
+    "issued_at": "2026-05-27T15:00:00Z"
+  },
+  {
+    "id": "HCP-I-00137",
+    "job_id": "HCP-J-00187",
+    "total": 316.61,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-27T15:00:00Z"
+  },
+  {
+    "id": "HCP-I-00138",
+    "job_id": "HCP-J-00190",
+    "total": 308.69,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-27T12:00:00Z"
+  },
+  {
+    "id": "HCP-I-00139",
+    "job_id": "HCP-J-00191",
+    "total": 312.53,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-27T11:30:00Z"
+  },
+  {
+    "id": "HCP-I-00140",
+    "job_id": "HCP-J-00192",
+    "total": 369.41,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-27T11:30:00Z"
+  },
+  {
+    "id": "HCP-I-00141",
+    "job_id": "HCP-J-00196",
+    "total": 391.41,
+    "balance": 391.41,
+    "status": "open",
+    "issued_at": "2026-05-28T11:30:00Z"
+  },
+  {
+    "id": "HCP-I-00142",
+    "job_id": "HCP-J-00199",
+    "total": 197.32,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-28T15:00:00Z"
+  },
+  {
+    "id": "HCP-I-00143",
+    "job_id": "HCP-J-00200",
+    "total": 603.27,
+    "balance": 603.27,
+    "status": "open",
+    "issued_at": "2026-05-28T10:00:00Z"
+  },
+  {
+    "id": "HCP-I-00144",
+    "job_id": "HCP-J-00201",
+    "total": 1029.76,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-28T13:30:00Z"
+  },
+  {
+    "id": "HCP-I-00145",
+    "job_id": "HCP-J-00202",
+    "total": 408.11,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-28T15:30:00Z"
+  },
+  {
+    "id": "HCP-I-00146",
+    "job_id": "HCP-J-00203",
+    "total": 235.49,
+    "balance": 235.49,
+    "status": "overdue",
+    "issued_at": "2026-05-28T18:30:00Z"
+  },
+  {
+    "id": "HCP-I-00147",
+    "job_id": "HCP-J-00205",
+    "total": 502.25,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-28T16:30:00Z"
+  },
+  {
+    "id": "HCP-I-00148",
+    "job_id": "HCP-J-00207",
+    "total": 239.02,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-28T12:30:00Z"
+  },
+  {
+    "id": "HCP-I-00149",
+    "job_id": "HCP-J-00208",
+    "total": 516.18,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-29T11:00:00Z"
+  },
+  {
+    "id": "HCP-I-00150",
+    "job_id": "HCP-J-00210",
+    "total": 532.59,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-29T11:00:00Z"
+  },
+  {
+    "id": "HCP-I-00151",
+    "job_id": "HCP-J-00211",
+    "total": 1264.47,
+    "balance": 1264.47,
+    "status": "overdue",
+    "issued_at": "2026-05-29T16:30:00Z"
+  },
+  {
+    "id": "HCP-I-00152",
+    "job_id": "HCP-J-00212",
+    "total": 529.12,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-29T17:00:00Z"
+  },
+  {
+    "id": "HCP-I-00153",
+    "job_id": "HCP-J-00213",
+    "total": 296.12,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-29T12:00:00Z"
+  },
+  {
+    "id": "HCP-I-00154",
+    "job_id": "HCP-J-00214",
+    "total": 505.96,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-29T15:00:00Z"
+  },
+  {
+    "id": "HCP-I-00155",
+    "job_id": "HCP-J-00215",
+    "total": 272.1,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-29T14:00:00Z"
+  },
+  {
+    "id": "HCP-I-00156",
+    "job_id": "HCP-J-00218",
+    "total": 469.83,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-29T15:00:00Z"
+  },
+  {
+    "id": "HCP-I-00157",
+    "job_id": "HCP-J-00219",
+    "total": 242.54,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-29T14:30:00Z"
+  },
+  {
+    "id": "HCP-I-00158",
+    "job_id": "HCP-J-00222",
+    "total": 314.09,
+    "balance": 314.09,
+    "status": "overdue",
+    "issued_at": "2026-05-30T15:00:00Z"
+  },
+  {
+    "id": "HCP-I-00159",
+    "job_id": "HCP-J-00223",
+    "total": 427.67,
+    "balance": 427.67,
+    "status": "overdue",
+    "issued_at": "2026-05-30T16:00:00Z"
+  },
+  {
+    "id": "HCP-I-00160",
+    "job_id": "HCP-J-00224",
+    "total": 241.07,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-30T16:30:00Z"
+  },
+  {
+    "id": "HCP-I-00161",
+    "job_id": "HCP-J-00225",
+    "total": 325.12,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-30T16:00:00Z"
+  },
+  {
+    "id": "HCP-I-00162",
+    "job_id": "HCP-J-00226",
+    "total": 1289.47,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-30T17:00:00Z"
+  },
+  {
+    "id": "HCP-I-00163",
+    "job_id": "HCP-J-00229",
+    "total": 329.86,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-05-31T15:30:00Z"
+  },
+  {
+    "id": "HCP-I-00164",
+    "job_id": "HCP-J-00230",
+    "total": 329.78,
+    "balance": 329.78,
+    "status": "overdue",
+    "issued_at": "2026-05-31T11:30:00Z"
+  },
+  {
+    "id": "HCP-I-00165",
+    "job_id": "HCP-J-00231",
+    "total": 494.41,
+    "balance": 494.41,
+    "status": "overdue",
+    "issued_at": "2026-05-31T15:00:00Z"
+  },
+  {
+    "id": "HCP-I-00166",
+    "job_id": "HCP-J-00233",
+    "total": 989.63,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-01T12:30:00Z"
+  },
+  {
+    "id": "HCP-I-00167",
+    "job_id": "HCP-J-00234",
+    "total": 436.92,
+    "balance": 436.92,
+    "status": "overdue",
+    "issued_at": "2026-06-01T11:00:00Z"
+  },
+  {
+    "id": "HCP-I-00168",
+    "job_id": "HCP-J-00235",
+    "total": 236.51,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-01T18:30:00Z"
+  },
+  {
+    "id": "HCP-I-00169",
+    "job_id": "HCP-J-00236",
+    "total": 204.48,
+    "balance": 204.48,
+    "status": "open",
+    "issued_at": "2026-06-01T13:30:00Z"
+  },
+  {
+    "id": "HCP-I-00170",
+    "job_id": "HCP-J-00237",
+    "total": 173.88,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-01T14:00:00Z"
+  },
+  {
+    "id": "HCP-I-00171",
+    "job_id": "HCP-J-00238",
+    "total": 232.32,
+    "balance": 232.32,
+    "status": "overdue",
+    "issued_at": "2026-06-01T12:00:00Z"
+  },
+  {
+    "id": "HCP-I-00172",
+    "job_id": "HCP-J-00239",
+    "total": 214.18,
+    "balance": 214.18,
+    "status": "overdue",
+    "issued_at": "2026-06-01T16:00:00Z"
+  },
+  {
+    "id": "HCP-I-00173",
+    "job_id": "HCP-J-00240",
+    "total": 359.08,
+    "balance": 359.08,
+    "status": "open",
+    "issued_at": "2026-06-01T18:00:00Z"
+  },
+  {
+    "id": "HCP-I-00174",
+    "job_id": "HCP-J-00242",
+    "total": 346.22,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-01T18:30:00Z"
+  },
+  {
+    "id": "HCP-I-00175",
+    "job_id": "HCP-J-00244",
+    "total": 540.85,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-01T14:00:00Z"
+  },
+  {
+    "id": "HCP-I-00176",
+    "job_id": "HCP-J-00245",
+    "total": 379.73,
+    "balance": 379.73,
+    "status": "overdue",
+    "issued_at": "2026-06-01T13:00:00Z"
+  },
+  {
+    "id": "HCP-I-00177",
+    "job_id": "HCP-J-00246",
+    "total": 1066.98,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-01T15:00:00Z"
+  },
+  {
+    "id": "HCP-I-00178",
+    "job_id": "HCP-J-00247",
+    "total": 187.25,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-02T10:00:00Z"
+  },
+  {
+    "id": "HCP-I-00179",
+    "job_id": "HCP-J-00248",
+    "total": 252.23,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-02T11:30:00Z"
+  },
+  {
+    "id": "HCP-I-00180",
+    "job_id": "HCP-J-00249",
+    "total": 218.01,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-02T12:00:00Z"
+  },
+  {
+    "id": "HCP-I-00181",
+    "job_id": "HCP-J-00251",
+    "total": 220.98,
+    "balance": 220.98,
+    "status": "overdue",
+    "issued_at": "2026-06-02T18:00:00Z"
+  },
+  {
+    "id": "HCP-I-00182",
+    "job_id": "HCP-J-00252",
+    "total": 269.34,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-02T18:30:00Z"
+  },
+  {
+    "id": "HCP-I-00183",
+    "job_id": "HCP-J-00253",
+    "total": 1328.43,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-02T16:00:00Z"
+  },
+  {
+    "id": "HCP-I-00184",
+    "job_id": "HCP-J-00254",
+    "total": 411.56,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-02T12:00:00Z"
+  },
+  {
+    "id": "HCP-I-00185",
+    "job_id": "HCP-J-00255",
+    "total": 212.69,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-02T12:30:00Z"
+  },
+  {
+    "id": "HCP-I-00186",
+    "job_id": "HCP-J-00256",
+    "total": 596.35,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-03T11:30:00Z"
+  },
+  {
+    "id": "HCP-I-00187",
+    "job_id": "HCP-J-00258",
+    "total": 1180.17,
+    "balance": 1180.17,
+    "status": "overdue",
+    "issued_at": "2026-06-03T14:30:00Z"
+  },
+  {
+    "id": "HCP-I-00188",
+    "job_id": "HCP-J-00259",
+    "total": 401.98,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-03T18:30:00Z"
+  },
+  {
+    "id": "HCP-I-00189",
+    "job_id": "HCP-J-00261",
+    "total": 228.03,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-03T11:00:00Z"
+  },
+  {
+    "id": "HCP-I-00190",
+    "job_id": "HCP-J-00262",
+    "total": 1257.2,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-03T18:30:00Z"
+  },
+  {
+    "id": "HCP-I-00191",
+    "job_id": "HCP-J-00264",
+    "total": 316.61,
+    "balance": 316.61,
+    "status": "overdue",
+    "issued_at": "2026-06-03T14:30:00Z"
+  },
+  {
+    "id": "HCP-I-00192",
+    "job_id": "HCP-J-00265",
+    "total": 1180.0,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-03T14:00:00Z"
+  },
+  {
+    "id": "HCP-I-00193",
+    "job_id": "HCP-J-00266",
+    "total": 281.6,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-03T18:00:00Z"
+  },
+  {
+    "id": "HCP-I-00194",
+    "job_id": "HCP-J-00267",
+    "total": 295.75,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-03T13:30:00Z"
+  },
+  {
+    "id": "HCP-I-00195",
+    "job_id": "HCP-J-00269",
+    "total": 226.3,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-03T16:00:00Z"
+  },
+  {
+    "id": "HCP-I-00196",
+    "job_id": "HCP-J-00272",
+    "total": 413.65,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-04T18:30:00Z"
+  },
+  {
+    "id": "HCP-I-00197",
+    "job_id": "HCP-J-00273",
+    "total": 218.79,
+    "balance": 218.79,
+    "status": "open",
+    "issued_at": "2026-06-04T18:30:00Z"
+  },
+  {
+    "id": "HCP-I-00198",
+    "job_id": "HCP-J-00274",
+    "total": 228.46,
+    "balance": 228.46,
+    "status": "open",
+    "issued_at": "2026-06-04T17:00:00Z"
+  },
+  {
+    "id": "HCP-I-00199",
+    "job_id": "HCP-J-00275",
+    "total": 566.9,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-04T12:30:00Z"
+  },
+  {
+    "id": "HCP-I-00200",
+    "job_id": "HCP-J-00276",
+    "total": 376.95,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-04T13:30:00Z"
+  },
+  {
+    "id": "HCP-I-00201",
+    "job_id": "HCP-J-00277",
+    "total": 308.65,
+    "balance": 308.65,
+    "status": "open",
+    "issued_at": "2026-06-04T14:30:00Z"
+  },
+  {
+    "id": "HCP-I-00202",
+    "job_id": "HCP-J-00278",
+    "total": 388.37,
+    "balance": 388.37,
+    "status": "overdue",
+    "issued_at": "2026-06-04T15:00:00Z"
+  },
+  {
+    "id": "HCP-I-00203",
+    "job_id": "HCP-J-00279",
+    "total": 363.24,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-04T10:30:00Z"
+  },
+  {
+    "id": "HCP-I-00204",
+    "job_id": "HCP-J-00280",
+    "total": 1245.3,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-04T17:00:00Z"
+  },
+  {
+    "id": "HCP-I-00205",
+    "job_id": "HCP-J-00281",
+    "total": 443.92,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-04T15:00:00Z"
+  },
+  {
+    "id": "HCP-I-00206",
+    "job_id": "HCP-J-00282",
+    "total": 361.63,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-04T17:30:00Z"
+  },
+  {
+    "id": "HCP-I-00207",
+    "job_id": "HCP-J-00283",
+    "total": 243.42,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-04T11:00:00Z"
+  },
+  {
+    "id": "HCP-I-00208",
+    "job_id": "HCP-J-00284",
+    "total": 211.84,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-04T10:00:00Z"
+  },
+  {
+    "id": "HCP-I-00209",
+    "job_id": "HCP-J-00285",
+    "total": 201.61,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-05T13:30:00Z"
+  },
+  {
+    "id": "HCP-I-00210",
+    "job_id": "HCP-J-00286",
+    "total": 544.85,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-05T13:30:00Z"
+  },
+  {
+    "id": "HCP-I-00211",
+    "job_id": "HCP-J-00287",
+    "total": 247.0,
+    "balance": 247.0,
+    "status": "open",
+    "issued_at": "2026-06-05T15:00:00Z"
+  },
+  {
+    "id": "HCP-I-00212",
+    "job_id": "HCP-J-00288",
+    "total": 228.95,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-05T12:30:00Z"
+  },
+  {
+    "id": "HCP-I-00213",
+    "job_id": "HCP-J-00289",
+    "total": 1260.26,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-05T12:00:00Z"
+  },
+  {
+    "id": "HCP-I-00214",
+    "job_id": "HCP-J-00290",
+    "total": 1202.07,
+    "balance": 1202.07,
+    "status": "overdue",
+    "issued_at": "2026-06-05T17:00:00Z"
+  },
+  {
+    "id": "HCP-I-00215",
+    "job_id": "HCP-J-00291",
+    "total": 373.76,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-05T11:00:00Z"
+  },
+  {
+    "id": "HCP-I-00216",
+    "job_id": "HCP-J-00293",
+    "total": 217.9,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-05T16:30:00Z"
+  },
+  {
+    "id": "HCP-I-00217",
+    "job_id": "HCP-J-00294",
+    "total": 281.76,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-05T14:00:00Z"
+  },
+  {
+    "id": "HCP-I-00218",
+    "job_id": "HCP-J-00296",
+    "total": 296.36,
+    "balance": 296.36,
+    "status": "open",
+    "issued_at": "2026-06-05T14:00:00Z"
+  },
+  {
+    "id": "HCP-I-00219",
+    "job_id": "HCP-J-00297",
+    "total": 237.4,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-05T11:00:00Z"
+  },
+  {
+    "id": "HCP-I-00220",
+    "job_id": "HCP-J-00298",
+    "total": 184.43,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-05T15:00:00Z"
+  },
+  {
+    "id": "HCP-I-00221",
+    "job_id": "HCP-J-00300",
+    "total": 350.54,
+    "balance": 350.54,
+    "status": "overdue",
+    "issued_at": "2026-06-06T11:00:00Z"
+  },
+  {
+    "id": "HCP-I-00222",
+    "job_id": "HCP-J-00301",
+    "total": 215.25,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-06T18:30:00Z"
+  },
+  {
+    "id": "HCP-I-00223",
+    "job_id": "HCP-J-00302",
+    "total": 227.43,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-06T13:30:00Z"
+  },
+  {
+    "id": "HCP-I-00224",
+    "job_id": "HCP-J-00307",
+    "total": 519.16,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-07T15:00:00Z"
+  },
+  {
+    "id": "HCP-I-00225",
+    "job_id": "HCP-J-00308",
+    "total": 221.94,
+    "balance": 221.94,
+    "status": "overdue",
+    "issued_at": "2026-06-07T13:00:00Z"
+  },
+  {
+    "id": "HCP-I-00226",
+    "job_id": "HCP-J-00310",
+    "total": 523.01,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-07T10:30:00Z"
+  },
+  {
+    "id": "HCP-I-00227",
+    "job_id": "HCP-J-00311",
+    "total": 228.85,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-07T13:30:00Z"
+  },
+  {
+    "id": "HCP-I-00228",
+    "job_id": "HCP-J-00312",
+    "total": 492.92,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-07T14:30:00Z"
+  },
+  {
+    "id": "HCP-I-00229",
+    "job_id": "HCP-J-00314",
+    "total": 579.67,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-08T14:30:00Z"
+  },
+  {
+    "id": "HCP-I-00230",
+    "job_id": "HCP-J-00315",
+    "total": 364.73,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-08T12:00:00Z"
+  },
+  {
+    "id": "HCP-I-00231",
+    "job_id": "HCP-J-00316",
+    "total": 223.25,
+    "balance": 223.25,
+    "status": "open",
+    "issued_at": "2026-06-08T12:00:00Z"
+  },
+  {
+    "id": "HCP-I-00232",
+    "job_id": "HCP-J-00317",
+    "total": 507.79,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-08T12:30:00Z"
+  },
+  {
+    "id": "HCP-I-00233",
+    "job_id": "HCP-J-00319",
+    "total": 980.4,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-08T17:00:00Z"
+  },
+  {
+    "id": "HCP-I-00234",
+    "job_id": "HCP-J-00320",
+    "total": 232.19,
+    "balance": 232.19,
+    "status": "overdue",
+    "issued_at": "2026-06-08T17:30:00Z"
+  },
+  {
+    "id": "HCP-I-00235",
+    "job_id": "HCP-J-00321",
+    "total": 341.56,
+    "balance": 341.56,
+    "status": "overdue",
+    "issued_at": "2026-06-08T13:00:00Z"
+  },
+  {
+    "id": "HCP-I-00236",
+    "job_id": "HCP-J-00322",
+    "total": 570.46,
+    "balance": 570.46,
+    "status": "open",
+    "issued_at": "2026-06-08T13:30:00Z"
+  },
+  {
+    "id": "HCP-I-00237",
+    "job_id": "HCP-J-00323",
+    "total": 573.25,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-08T14:00:00Z"
+  },
+  {
+    "id": "HCP-I-00238",
+    "job_id": "HCP-J-00325",
+    "total": 259.0,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-09T14:30:00Z"
+  },
+  {
+    "id": "HCP-I-00239",
+    "job_id": "HCP-J-00326",
+    "total": 1037.63,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-09T18:00:00Z"
+  },
+  {
+    "id": "HCP-I-00240",
+    "job_id": "HCP-J-00327",
+    "total": 240.57,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-09T17:30:00Z"
+  },
+  {
+    "id": "HCP-I-00241",
+    "job_id": "HCP-J-00329",
+    "total": 451.06,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-09T16:30:00Z"
+  },
+  {
+    "id": "HCP-I-00242",
+    "job_id": "HCP-J-00330",
+    "total": 429.79,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-09T12:00:00Z"
+  },
+  {
+    "id": "HCP-I-00243",
+    "job_id": "HCP-J-00331",
+    "total": 371.6,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-09T12:00:00Z"
+  },
+  {
+    "id": "HCP-I-00244",
+    "job_id": "HCP-J-00333",
+    "total": 1043.71,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-09T10:30:00Z"
+  },
+  {
+    "id": "HCP-I-00245",
+    "job_id": "HCP-J-00334",
+    "total": 500.8,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-09T12:00:00Z"
+  },
+  {
+    "id": "HCP-I-00246",
+    "job_id": "HCP-J-00336",
+    "total": 204.34,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-09T11:30:00Z"
+  },
+  {
+    "id": "HCP-I-00247",
+    "job_id": "HCP-J-00338",
+    "total": 339.14,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-10T12:00:00Z"
+  },
+  {
+    "id": "HCP-I-00248",
+    "job_id": "HCP-J-00340",
+    "total": 499.25,
+    "balance": 499.25,
+    "status": "overdue",
+    "issued_at": "2026-06-10T18:30:00Z"
+  },
+  {
+    "id": "HCP-I-00249",
+    "job_id": "HCP-J-00341",
+    "total": 299.18,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-10T13:30:00Z"
+  },
+  {
+    "id": "HCP-I-00250",
+    "job_id": "HCP-J-00343",
+    "total": 1193.25,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-10T11:30:00Z"
+  },
+  {
+    "id": "HCP-I-00251",
+    "job_id": "HCP-J-00344",
+    "total": 1241.75,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-10T10:00:00Z"
+  },
+  {
+    "id": "HCP-I-00252",
+    "job_id": "HCP-J-00345",
+    "total": 1441.44,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-10T12:30:00Z"
+  },
+  {
+    "id": "HCP-I-00253",
+    "job_id": "HCP-J-00346",
+    "total": 320.49,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-10T14:00:00Z"
+  },
+  {
+    "id": "HCP-I-00254",
+    "job_id": "HCP-J-00347",
+    "total": 282.69,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-10T16:00:00Z"
+  },
+  {
+    "id": "HCP-I-00255",
+    "job_id": "HCP-J-00350",
+    "total": 348.15,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-10T17:00:00Z"
+  },
+  {
+    "id": "HCP-I-00256",
+    "job_id": "HCP-J-00352",
+    "total": 194.41,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-10T17:00:00Z"
+  },
+  {
+    "id": "HCP-I-00257",
+    "job_id": "HCP-J-00353",
+    "total": 388.59,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-11T17:00:00Z"
+  },
+  {
+    "id": "HCP-I-00258",
+    "job_id": "HCP-J-00354",
+    "total": 242.04,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-11T12:00:00Z"
+  },
+  {
+    "id": "HCP-I-00259",
+    "job_id": "HCP-J-00355",
+    "total": 222.76,
+    "balance": 222.76,
+    "status": "open",
+    "issued_at": "2026-06-11T12:30:00Z"
+  },
+  {
+    "id": "HCP-I-00260",
+    "job_id": "HCP-J-00356",
+    "total": 340.36,
+    "balance": 340.36,
+    "status": "overdue",
+    "issued_at": "2026-06-11T11:30:00Z"
+  },
+  {
+    "id": "HCP-I-00261",
+    "job_id": "HCP-J-00357",
+    "total": 198.18,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-11T18:30:00Z"
+  },
+  {
+    "id": "HCP-I-00262",
+    "job_id": "HCP-J-00359",
+    "total": 238.97,
+    "balance": 238.97,
+    "status": "open",
+    "issued_at": "2026-06-11T17:30:00Z"
+  },
+  {
+    "id": "HCP-I-00263",
+    "job_id": "HCP-J-00360",
+    "total": 379.17,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-11T16:00:00Z"
+  },
+  {
+    "id": "HCP-I-00264",
+    "job_id": "HCP-J-00363",
+    "total": 243.11,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-11T13:00:00Z"
+  },
+  {
+    "id": "HCP-I-00265",
+    "job_id": "HCP-J-00364",
+    "total": 236.28,
+    "balance": 236.28,
+    "status": "overdue",
+    "issued_at": "2026-06-11T15:30:00Z"
+  },
+  {
+    "id": "HCP-I-00266",
+    "job_id": "HCP-J-00365",
+    "total": 196.91,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-11T17:00:00Z"
+  },
+  {
+    "id": "HCP-I-00267",
+    "job_id": "HCP-J-00366",
+    "total": 420.76,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-11T18:00:00Z"
+  },
+  {
+    "id": "HCP-I-00268",
+    "job_id": "HCP-J-00367",
+    "total": 195.57,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-11T10:30:00Z"
+  },
+  {
+    "id": "HCP-I-00269",
+    "job_id": "HCP-J-00368",
+    "total": 231.05,
+    "balance": 231.05,
+    "status": "open",
+    "issued_at": "2026-06-11T15:00:00Z"
+  },
+  {
+    "id": "HCP-I-00270",
+    "job_id": "HCP-J-00369",
+    "total": 257.52,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-12T15:00:00Z"
+  },
+  {
+    "id": "HCP-I-00271",
+    "job_id": "HCP-J-00370",
+    "total": 1172.88,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-12T15:00:00Z"
+  },
+  {
+    "id": "HCP-I-00272",
+    "job_id": "HCP-J-00371",
+    "total": 286.67,
+    "balance": 286.67,
+    "status": "overdue",
+    "issued_at": "2026-06-12T10:30:00Z"
+  },
+  {
+    "id": "HCP-I-00273",
+    "job_id": "HCP-J-00373",
+    "total": 238.2,
+    "balance": 238.2,
+    "status": "overdue",
+    "issued_at": "2026-06-12T15:30:00Z"
+  },
+  {
+    "id": "HCP-I-00274",
+    "job_id": "HCP-J-00374",
+    "total": 552.91,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-12T17:00:00Z"
+  },
+  {
+    "id": "HCP-I-00275",
+    "job_id": "HCP-J-00375",
+    "total": 344.72,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-12T16:00:00Z"
+  },
+  {
+    "id": "HCP-I-00276",
+    "job_id": "HCP-J-00379",
+    "total": 192.38,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-12T13:30:00Z"
+  },
+  {
+    "id": "HCP-I-00277",
+    "job_id": "HCP-J-00380",
+    "total": 220.66,
+    "balance": 220.66,
+    "status": "open",
+    "issued_at": "2026-06-12T18:30:00Z"
+  },
+  {
+    "id": "HCP-I-00278",
+    "job_id": "HCP-J-00381",
+    "total": 1008.81,
+    "balance": 1008.81,
+    "status": "open",
+    "issued_at": "2026-06-12T18:00:00Z"
+  },
+  {
+    "id": "HCP-I-00279",
+    "job_id": "HCP-J-00382",
+    "total": 1144.75,
+    "balance": 1144.75,
+    "status": "overdue",
+    "issued_at": "2026-06-13T15:30:00Z"
+  },
+  {
+    "id": "HCP-I-00280",
+    "job_id": "HCP-J-00383",
+    "total": 236.81,
+    "balance": 236.81,
+    "status": "overdue",
+    "issued_at": "2026-06-13T15:30:00Z"
+  },
+  {
+    "id": "HCP-I-00281",
+    "job_id": "HCP-J-00384",
+    "total": 531.24,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-13T16:00:00Z"
+  },
+  {
+    "id": "HCP-I-00282",
+    "job_id": "HCP-J-00389",
+    "total": 170.0,
+    "balance": 170.0,
+    "status": "open",
+    "issued_at": "2026-06-14T10:30:00Z"
+  },
+  {
+    "id": "HCP-I-00283",
+    "job_id": "HCP-J-00390",
+    "total": 1133.29,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-14T10:30:00Z"
+  },
+  {
+    "id": "HCP-I-00284",
+    "job_id": "HCP-J-00391",
+    "total": 317.4,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-15T13:00:00Z"
+  },
+  {
+    "id": "HCP-I-00285",
+    "job_id": "HCP-J-00392",
+    "total": 539.2,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-15T10:00:00Z"
+  },
+  {
+    "id": "HCP-I-00286",
+    "job_id": "HCP-J-00393",
+    "total": 328.71,
+    "balance": 328.71,
+    "status": "open",
+    "issued_at": "2026-06-15T14:00:00Z"
+  },
+  {
+    "id": "HCP-I-00287",
+    "job_id": "HCP-J-00394",
+    "total": 277.48,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-15T15:30:00Z"
+  },
+  {
+    "id": "HCP-I-00288",
+    "job_id": "HCP-J-00395",
+    "total": 616.44,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-15T10:30:00Z"
+  },
+  {
+    "id": "HCP-I-00289",
+    "job_id": "HCP-J-00396",
+    "total": 268.8,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-15T15:30:00Z"
+  },
+  {
+    "id": "HCP-I-00290",
+    "job_id": "HCP-J-00397",
+    "total": 314.89,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-15T16:30:00Z"
+  },
+  {
+    "id": "HCP-I-00291",
+    "job_id": "HCP-J-00398",
+    "total": 217.86,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-15T10:30:00Z"
+  },
+  {
+    "id": "HCP-I-00292",
+    "job_id": "HCP-J-00399",
+    "total": 1185.51,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-15T14:00:00Z"
+  },
+  {
+    "id": "HCP-I-00293",
+    "job_id": "HCP-J-00400",
+    "total": 441.29,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-15T12:00:00Z"
+  },
+  {
+    "id": "HCP-I-00294",
+    "job_id": "HCP-J-00403",
+    "total": 322.2,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-15T13:00:00Z"
+  },
+  {
+    "id": "HCP-I-00295",
+    "job_id": "HCP-J-00405",
+    "total": 190.33,
+    "balance": 0.0,
+    "status": "paid",
+    "issued_at": "2026-06-15T10:30:00Z"
+  }
+]

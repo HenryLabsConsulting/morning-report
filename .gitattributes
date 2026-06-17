@@ -1,0 +1,4 @@
+# Normalize line endings to LF so Docker builds work when cloned on Linux.
+* text=auto eol=lf
+*.png binary
+*.svg text eol=lf

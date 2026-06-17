@@ -1,0 +1,5338 @@
+[
+  {
+    "id": "RC-00001",
+    "direction": "inbound",
+    "from_number": "+16165553202",
+    "duration_sec": 282,
+    "result": "missed",
+    "started_at": "2026-05-11T11:12:00Z"
+  },
+  {
+    "id": "RC-00002",
+    "direction": "outbound",
+    "from_number": "+16165551361",
+    "duration_sec": 229,
+    "result": "info",
+    "started_at": "2026-05-11T09:13:00Z"
+  },
+  {
+    "id": "RC-00003",
+    "direction": "inbound",
+    "from_number": "+16165552525",
+    "duration_sec": 170,
+    "result": "missed",
+    "started_at": "2026-05-11T09:04:00Z"
+  },
+  {
+    "id": "RC-00004",
+    "direction": "inbound",
+    "from_number": "+16165557739",
+    "duration_sec": 28,
+    "result": "voicemail",
+    "started_at": "2026-05-11T10:25:00Z"
+  },
+  {
+    "id": "RC-00005",
+    "direction": "inbound",
+    "from_number": "+16165558580",
+    "duration_sec": 161,
+    "result": "booked",
+    "started_at": "2026-05-11T12:26:00Z"
+  },
+  {
+    "id": "RC-00006",
+    "direction": "outbound",
+    "from_number": "+16165551562",
+    "duration_sec": 196,
+    "result": "booked",
+    "started_at": "2026-05-11T17:42:00Z"
+  },
+  {
+    "id": "RC-00007",
+    "direction": "inbound",
+    "from_number": "+16165556323",
+    "duration_sec": 174,
+    "result": "missed",
+    "started_at": "2026-05-11T14:14:00Z"
+  },
+  {
+    "id": "RC-00008",
+    "direction": "outbound",
+    "from_number": "+16165554241",
+    "duration_sec": 290,
+    "result": "booked",
+    "started_at": "2026-05-11T18:49:00Z"
+  },
+  {
+    "id": "RC-00009",
+    "direction": "inbound",
+    "from_number": "+16165555688",
+    "duration_sec": 420,
+    "result": "booked",
+    "started_at": "2026-05-11T11:51:00Z"
+  },
+  {
+    "id": "RC-00010",
+    "direction": "inbound",
+    "from_number": "+16165551364",
+    "duration_sec": 156,
+    "result": "booked",
+    "started_at": "2026-05-11T18:09:00Z"
+  },
+  {
+    "id": "RC-00011",
+    "direction": "outbound",
+    "from_number": "+16165554491",
+    "duration_sec": 145,
+    "result": "booked",
+    "started_at": "2026-05-11T15:31:00Z"
+  },
+  {
+    "id": "RC-00012",
+    "direction": "outbound",
+    "from_number": "+16165558317",
+    "duration_sec": 279,
+    "result": "booked",
+    "started_at": "2026-05-11T13:39:00Z"
+  },
+  {
+    "id": "RC-00013",
+    "direction": "outbound",
+    "from_number": "+16165552039",
+    "duration_sec": 192,
+    "result": "booked",
+    "started_at": "2026-05-11T17:09:00Z"
+  },
+  {
+    "id": "RC-00014",
+    "direction": "outbound",
+    "from_number": "+16165554764",
+    "duration_sec": 206,
+    "result": "booked",
+    "started_at": "2026-05-11T10:08:00Z"
+  },
+  {
+    "id": "RC-00015",
+    "direction": "outbound",
+    "from_number": "+16165557428",
+    "duration_sec": 238,
+    "result": "info",
+    "started_at": "2026-05-11T17:07:00Z"
+  },
+  {
+    "id": "RC-00016",
+    "direction": "inbound",
+    "from_number": "+16165552160",
+    "duration_sec": 191,
+    "result": "voicemail",
+    "started_at": "2026-05-11T18:12:00Z"
+  },
+  {
+    "id": "RC-00017",
+    "direction": "outbound",
+    "from_number": "+16165559775",
+    "duration_sec": 308,
+    "result": "booked",
+    "started_at": "2026-05-11T17:29:00Z"
+  },
+  {
+    "id": "RC-00018",
+    "direction": "inbound",
+    "from_number": "+16165558417",
+    "duration_sec": 222,
+    "result": "booked",
+    "started_at": "2026-05-11T08:03:00Z"
+  },
+  {
+    "id": "RC-00019",
+    "direction": "inbound",
+    "from_number": "+16165555783",
+    "duration_sec": 56,
+    "result": "info",
+    "started_at": "2026-05-11T17:40:00Z"
+  },
+  {
+    "id": "RC-00020",
+    "direction": "outbound",
+    "from_number": "+16165558733",
+    "duration_sec": 254,
+    "result": "booked",
+    "started_at": "2026-05-11T18:34:00Z"
+  },
+  {
+    "id": "RC-00021",
+    "direction": "inbound",
+    "from_number": "+16165556864",
+    "duration_sec": 156,
+    "result": "info",
+    "started_at": "2026-05-11T08:29:00Z"
+  },
+  {
+    "id": "RC-00022",
+    "direction": "inbound",
+    "from_number": "+16165556987",
+    "duration_sec": 46,
+    "result": "voicemail",
+    "started_at": "2026-05-12T17:45:00Z"
+  },
+  {
+    "id": "RC-00023",
+    "direction": "outbound",
+    "from_number": "+16165552713",
+    "duration_sec": 298,
+    "result": "info",
+    "started_at": "2026-05-12T12:25:00Z"
+  },
+  {
+    "id": "RC-00024",
+    "direction": "inbound",
+    "from_number": "+16165552340",
+    "duration_sec": 218,
+    "result": "booked",
+    "started_at": "2026-05-12T07:45:00Z"
+  },
+  {
+    "id": "RC-00025",
+    "direction": "inbound",
+    "from_number": "+16165555496",
+    "duration_sec": 276,
+    "result": "booked",
+    "started_at": "2026-05-12T18:19:00Z"
+  },
+  {
+    "id": "RC-00026",
+    "direction": "inbound",
+    "from_number": "+16165554486",
+    "duration_sec": 141,
+    "result": "booked",
+    "started_at": "2026-05-12T16:40:00Z"
+  },
+  {
+    "id": "RC-00027",
+    "direction": "outbound",
+    "from_number": "+16165554216",
+    "duration_sec": 190,
+    "result": "booked",
+    "started_at": "2026-05-12T10:29:00Z"
+  },
+  {
+    "id": "RC-00028",
+    "direction": "outbound",
+    "from_number": "+16165551089",
+    "duration_sec": 98,
+    "result": "missed",
+    "started_at": "2026-05-12T09:24:00Z"
+  },
+  {
+    "id": "RC-00029",
+    "direction": "inbound",
+    "from_number": "+16165558768",
+    "duration_sec": 196,
+    "result": "booked",
+    "started_at": "2026-05-12T08:14:00Z"
+  },
+  {
+    "id": "RC-00030",
+    "direction": "inbound",
+    "from_number": "+16165554549",
+    "duration_sec": 147,
+    "result": "booked",
+    "started_at": "2026-05-12T15:03:00Z"
+  },
+  {
+    "id": "RC-00031",
+    "direction": "inbound",
+    "from_number": "+16165552423",
+    "duration_sec": 180,
+    "result": "missed",
+    "started_at": "2026-05-12T14:09:00Z"
+  },
+  {
+    "id": "RC-00032",
+    "direction": "inbound",
+    "from_number": "+16165557528",
+    "duration_sec": 275,
+    "result": "booked",
+    "started_at": "2026-05-12T12:45:00Z"
+  },
+  {
+    "id": "RC-00033",
+    "direction": "outbound",
+    "from_number": "+16165557113",
+    "duration_sec": 387,
+    "result": "booked",
+    "started_at": "2026-05-12T13:24:00Z"
+  },
+  {
+    "id": "RC-00034",
+    "direction": "inbound",
+    "from_number": "+16165559191",
+    "duration_sec": 110,
+    "result": "info",
+    "started_at": "2026-05-12T08:16:00Z"
+  },
+  {
+    "id": "RC-00035",
+    "direction": "outbound",
+    "from_number": "+16165556494",
+    "duration_sec": 165,
+    "result": "voicemail",
+    "started_at": "2026-05-12T13:05:00Z"
+  },
+  {
+    "id": "RC-00036",
+    "direction": "inbound",
+    "from_number": "+16165559988",
+    "duration_sec": 214,
+    "result": "voicemail",
+    "started_at": "2026-05-12T13:40:00Z"
+  },
+  {
+    "id": "RC-00037",
+    "direction": "inbound",
+    "from_number": "+16165555530",
+    "duration_sec": 126,
+    "result": "booked",
+    "started_at": "2026-05-12T16:42:00Z"
+  },
+  {
+    "id": "RC-00038",
+    "direction": "inbound",
+    "from_number": "+16165552661",
+    "duration_sec": 183,
+    "result": "info",
+    "started_at": "2026-05-12T14:04:00Z"
+  },
+  {
+    "id": "RC-00039",
+    "direction": "inbound",
+    "from_number": "+16165558630",
+    "duration_sec": 252,
+    "result": "booked",
+    "started_at": "2026-05-12T07:44:00Z"
+  },
+  {
+    "id": "RC-00040",
+    "direction": "inbound",
+    "from_number": "+16165551241",
+    "duration_sec": 86,
+    "result": "voicemail",
+    "started_at": "2026-05-12T07:37:00Z"
+  },
+  {
+    "id": "RC-00041",
+    "direction": "outbound",
+    "from_number": "+16165555581",
+    "duration_sec": 148,
+    "result": "voicemail",
+    "started_at": "2026-05-12T08:03:00Z"
+  },
+  {
+    "id": "RC-00042",
+    "direction": "inbound",
+    "from_number": "+16165555541",
+    "duration_sec": 213,
+    "result": "booked",
+    "started_at": "2026-05-12T13:46:00Z"
+  },
+  {
+    "id": "RC-00043",
+    "direction": "inbound",
+    "from_number": "+16165555974",
+    "duration_sec": 188,
+    "result": "booked",
+    "started_at": "2026-05-12T08:09:00Z"
+  },
+  {
+    "id": "RC-00044",
+    "direction": "inbound",
+    "from_number": "+16165558578",
+    "duration_sec": 248,
+    "result": "booked",
+    "started_at": "2026-05-12T09:53:00Z"
+  },
+  {
+    "id": "RC-00045",
+    "direction": "inbound",
+    "from_number": "+16165556046",
+    "duration_sec": 118,
+    "result": "info",
+    "started_at": "2026-05-12T12:28:00Z"
+  },
+  {
+    "id": "RC-00046",
+    "direction": "inbound",
+    "from_number": "+16165551811",
+    "duration_sec": 333,
+    "result": "booked",
+    "started_at": "2026-05-13T13:50:00Z"
+  },
+  {
+    "id": "RC-00047",
+    "direction": "inbound",
+    "from_number": "+16165551272",
+    "duration_sec": 77,
+    "result": "info",
+    "started_at": "2026-05-13T07:27:00Z"
+  },
+  {
+    "id": "RC-00048",
+    "direction": "inbound",
+    "from_number": "+16165552129",
+    "duration_sec": 277,
+    "result": "info",
+    "started_at": "2026-05-13T10:48:00Z"
+  },
+  {
+    "id": "RC-00049",
+    "direction": "inbound",
+    "from_number": "+16165552308",
+    "duration_sec": 246,
+    "result": "booked",
+    "started_at": "2026-05-13T07:00:00Z"
+  },
+  {
+    "id": "RC-00050",
+    "direction": "inbound",
+    "from_number": "+16165554593",
+    "duration_sec": 153,
+    "result": "booked",
+    "started_at": "2026-05-13T09:59:00Z"
+  },
+  {
+    "id": "RC-00051",
+    "direction": "inbound",
+    "from_number": "+16165551600",
+    "duration_sec": 126,
+    "result": "booked",
+    "started_at": "2026-05-13T11:11:00Z"
+  },
+  {
+    "id": "RC-00052",
+    "direction": "inbound",
+    "from_number": "+16165559719",
+    "duration_sec": 199,
+    "result": "info",
+    "started_at": "2026-05-13T07:05:00Z"
+  },
+  {
+    "id": "RC-00053",
+    "direction": "inbound",
+    "from_number": "+16165557519",
+    "duration_sec": 182,
+    "result": "missed",
+    "started_at": "2026-05-13T16:35:00Z"
+  },
+  {
+    "id": "RC-00054",
+    "direction": "inbound",
+    "from_number": "+16165559534",
+    "duration_sec": 218,
+    "result": "missed",
+    "started_at": "2026-05-13T11:51:00Z"
+  },
+  {
+    "id": "RC-00055",
+    "direction": "inbound",
+    "from_number": "+16165555773",
+    "duration_sec": 112,
+    "result": "booked",
+    "started_at": "2026-05-13T15:34:00Z"
+  },
+  {
+    "id": "RC-00056",
+    "direction": "inbound",
+    "from_number": "+16165551850",
+    "duration_sec": 239,
+    "result": "booked",
+    "started_at": "2026-05-13T18:01:00Z"
+  },
+  {
+    "id": "RC-00057",
+    "direction": "inbound",
+    "from_number": "+16165554854",
+    "duration_sec": 238,
+    "result": "voicemail",
+    "started_at": "2026-05-13T16:08:00Z"
+  },
+  {
+    "id": "RC-00058",
+    "direction": "outbound",
+    "from_number": "+16165552778",
+    "duration_sec": 330,
+    "result": "info",
+    "started_at": "2026-05-13T08:23:00Z"
+  },
+  {
+    "id": "RC-00059",
+    "direction": "inbound",
+    "from_number": "+16165558356",
+    "duration_sec": 147,
+    "result": "booked",
+    "started_at": "2026-05-13T09:27:00Z"
+  },
+  {
+    "id": "RC-00060",
+    "direction": "outbound",
+    "from_number": "+16165551655",
+    "duration_sec": 53,
+    "result": "booked",
+    "started_at": "2026-05-13T12:31:00Z"
+  },
+  {
+    "id": "RC-00061",
+    "direction": "inbound",
+    "from_number": "+16165551914",
+    "duration_sec": 277,
+    "result": "voicemail",
+    "started_at": "2026-05-13T09:57:00Z"
+  },
+  {
+    "id": "RC-00062",
+    "direction": "inbound",
+    "from_number": "+16165556324",
+    "duration_sec": 60,
+    "result": "info",
+    "started_at": "2026-05-13T16:37:00Z"
+  },
+  {
+    "id": "RC-00063",
+    "direction": "inbound",
+    "from_number": "+16165554157",
+    "duration_sec": 238,
+    "result": "booked",
+    "started_at": "2026-05-13T14:33:00Z"
+  },
+  {
+    "id": "RC-00064",
+    "direction": "inbound",
+    "from_number": "+16165553347",
+    "duration_sec": 298,
+    "result": "voicemail",
+    "started_at": "2026-05-13T07:10:00Z"
+  },
+  {
+    "id": "RC-00065",
+    "direction": "inbound",
+    "from_number": "+16165556266",
+    "duration_sec": 73,
+    "result": "booked",
+    "started_at": "2026-05-13T13:42:00Z"
+  },
+  {
+    "id": "RC-00066",
+    "direction": "inbound",
+    "from_number": "+16165559544",
+    "duration_sec": 176,
+    "result": "info",
+    "started_at": "2026-05-14T10:34:00Z"
+  },
+  {
+    "id": "RC-00067",
+    "direction": "outbound",
+    "from_number": "+16165558463",
+    "duration_sec": 176,
+    "result": "missed",
+    "started_at": "2026-05-14T11:43:00Z"
+  },
+  {
+    "id": "RC-00068",
+    "direction": "inbound",
+    "from_number": "+16165553888",
+    "duration_sec": 178,
+    "result": "voicemail",
+    "started_at": "2026-05-14T14:27:00Z"
+  },
+  {
+    "id": "RC-00069",
+    "direction": "inbound",
+    "from_number": "+16165553412",
+    "duration_sec": 244,
+    "result": "booked",
+    "started_at": "2026-05-14T10:44:00Z"
+  },
+  {
+    "id": "RC-00070",
+    "direction": "inbound",
+    "from_number": "+16165554631",
+    "duration_sec": 123,
+    "result": "missed",
+    "started_at": "2026-05-14T10:50:00Z"
+  },
+  {
+    "id": "RC-00071",
+    "direction": "outbound",
+    "from_number": "+16165556876",
+    "duration_sec": 184,
+    "result": "booked",
+    "started_at": "2026-05-14T10:00:00Z"
+  },
+  {
+    "id": "RC-00072",
+    "direction": "inbound",
+    "from_number": "+16165554300",
+    "duration_sec": 15,
+    "result": "missed",
+    "started_at": "2026-05-14T08:40:00Z"
+  },
+  {
+    "id": "RC-00073",
+    "direction": "inbound",
+    "from_number": "+16165554521",
+    "duration_sec": 126,
+    "result": "booked",
+    "started_at": "2026-05-14T12:28:00Z"
+  },
+  {
+    "id": "RC-00074",
+    "direction": "inbound",
+    "from_number": "+16165559606",
+    "duration_sec": 108,
+    "result": "missed",
+    "started_at": "2026-05-14T09:27:00Z"
+  },
+  {
+    "id": "RC-00075",
+    "direction": "inbound",
+    "from_number": "+16165557460",
+    "duration_sec": 310,
+    "result": "voicemail",
+    "started_at": "2026-05-14T12:34:00Z"
+  },
+  {
+    "id": "RC-00076",
+    "direction": "inbound",
+    "from_number": "+16165556723",
+    "duration_sec": 130,
+    "result": "missed",
+    "started_at": "2026-05-14T17:22:00Z"
+  },
+  {
+    "id": "RC-00077",
+    "direction": "inbound",
+    "from_number": "+16165555822",
+    "duration_sec": 156,
+    "result": "booked",
+    "started_at": "2026-05-14T18:45:00Z"
+  },
+  {
+    "id": "RC-00078",
+    "direction": "outbound",
+    "from_number": "+16165551546",
+    "duration_sec": 165,
+    "result": "missed",
+    "started_at": "2026-05-14T17:00:00Z"
+  },
+  {
+    "id": "RC-00079",
+    "direction": "inbound",
+    "from_number": "+16165551581",
+    "duration_sec": 181,
+    "result": "voicemail",
+    "started_at": "2026-05-14T15:28:00Z"
+  },
+  {
+    "id": "RC-00080",
+    "direction": "inbound",
+    "from_number": "+16165552881",
+    "duration_sec": 293,
+    "result": "booked",
+    "started_at": "2026-05-14T08:00:00Z"
+  },
+  {
+    "id": "RC-00081",
+    "direction": "inbound",
+    "from_number": "+16165558166",
+    "duration_sec": 234,
+    "result": "booked",
+    "started_at": "2026-05-14T14:55:00Z"
+  },
+  {
+    "id": "RC-00082",
+    "direction": "inbound",
+    "from_number": "+16165556499",
+    "duration_sec": 241,
+    "result": "booked",
+    "started_at": "2026-05-14T13:36:00Z"
+  },
+  {
+    "id": "RC-00083",
+    "direction": "inbound",
+    "from_number": "+16165559446",
+    "duration_sec": 151,
+    "result": "info",
+    "started_at": "2026-05-14T10:44:00Z"
+  },
+  {
+    "id": "RC-00084",
+    "direction": "inbound",
+    "from_number": "+16165556991",
+    "duration_sec": 142,
+    "result": "booked",
+    "started_at": "2026-05-14T18:04:00Z"
+  },
+  {
+    "id": "RC-00085",
+    "direction": "outbound",
+    "from_number": "+16165555496",
+    "duration_sec": 264,
+    "result": "booked",
+    "started_at": "2026-05-14T16:49:00Z"
+  },
+  {
+    "id": "RC-00086",
+    "direction": "outbound",
+    "from_number": "+16165557247",
+    "duration_sec": 26,
+    "result": "booked",
+    "started_at": "2026-05-14T15:33:00Z"
+  },
+  {
+    "id": "RC-00087",
+    "direction": "inbound",
+    "from_number": "+16165559957",
+    "duration_sec": 197,
+    "result": "missed",
+    "started_at": "2026-05-14T11:51:00Z"
+  },
+  {
+    "id": "RC-00088",
+    "direction": "inbound",
+    "from_number": "+16165559940",
+    "duration_sec": 278,
+    "result": "booked",
+    "started_at": "2026-05-14T07:19:00Z"
+  },
+  {
+    "id": "RC-00089",
+    "direction": "inbound",
+    "from_number": "+16165555793",
+    "duration_sec": 151,
+    "result": "missed",
+    "started_at": "2026-05-14T08:58:00Z"
+  },
+  {
+    "id": "RC-00090",
+    "direction": "inbound",
+    "from_number": "+16165552427",
+    "duration_sec": 280,
+    "result": "booked",
+    "started_at": "2026-05-14T12:26:00Z"
+  },
+  {
+    "id": "RC-00091",
+    "direction": "inbound",
+    "from_number": "+16165552408",
+    "duration_sec": 230,
+    "result": "info",
+    "started_at": "2026-05-14T07:14:00Z"
+  },
+  {
+    "id": "RC-00092",
+    "direction": "inbound",
+    "from_number": "+16165558645",
+    "duration_sec": 205,
+    "result": "booked",
+    "started_at": "2026-05-14T13:52:00Z"
+  },
+  {
+    "id": "RC-00093",
+    "direction": "inbound",
+    "from_number": "+16165556592",
+    "duration_sec": 143,
+    "result": "booked",
+    "started_at": "2026-05-14T12:39:00Z"
+  },
+  {
+    "id": "RC-00094",
+    "direction": "outbound",
+    "from_number": "+16165558428",
+    "duration_sec": 378,
+    "result": "info",
+    "started_at": "2026-05-14T15:09:00Z"
+  },
+  {
+    "id": "RC-00095",
+    "direction": "inbound",
+    "from_number": "+16165559802",
+    "duration_sec": 215,
+    "result": "info",
+    "started_at": "2026-05-14T18:03:00Z"
+  },
+  {
+    "id": "RC-00096",
+    "direction": "inbound",
+    "from_number": "+16165556325",
+    "duration_sec": 278,
+    "result": "booked",
+    "started_at": "2026-05-14T12:15:00Z"
+  },
+  {
+    "id": "RC-00097",
+    "direction": "outbound",
+    "from_number": "+16165556563",
+    "duration_sec": 295,
+    "result": "booked",
+    "started_at": "2026-05-15T16:11:00Z"
+  },
+  {
+    "id": "RC-00098",
+    "direction": "inbound",
+    "from_number": "+16165553103",
+    "duration_sec": 302,
+    "result": "missed",
+    "started_at": "2026-05-15T10:47:00Z"
+  },
+  {
+    "id": "RC-00099",
+    "direction": "inbound",
+    "from_number": "+16165559614",
+    "duration_sec": 265,
+    "result": "booked",
+    "started_at": "2026-05-15T09:44:00Z"
+  },
+  {
+    "id": "RC-00100",
+    "direction": "inbound",
+    "from_number": "+16165554807",
+    "duration_sec": 185,
+    "result": "info",
+    "started_at": "2026-05-15T11:19:00Z"
+  },
+  {
+    "id": "RC-00101",
+    "direction": "outbound",
+    "from_number": "+16165556897",
+    "duration_sec": 190,
+    "result": "booked",
+    "started_at": "2026-05-15T15:00:00Z"
+  },
+  {
+    "id": "RC-00102",
+    "direction": "outbound",
+    "from_number": "+16165556399",
+    "duration_sec": 160,
+    "result": "voicemail",
+    "started_at": "2026-05-15T07:10:00Z"
+  },
+  {
+    "id": "RC-00103",
+    "direction": "inbound",
+    "from_number": "+16165552246",
+    "duration_sec": 270,
+    "result": "missed",
+    "started_at": "2026-05-15T10:27:00Z"
+  },
+  {
+    "id": "RC-00104",
+    "direction": "outbound",
+    "from_number": "+16165553557",
+    "duration_sec": 213,
+    "result": "missed",
+    "started_at": "2026-05-15T10:26:00Z"
+  },
+  {
+    "id": "RC-00105",
+    "direction": "inbound",
+    "from_number": "+16165552712",
+    "duration_sec": 254,
+    "result": "booked",
+    "started_at": "2026-05-15T10:36:00Z"
+  },
+  {
+    "id": "RC-00106",
+    "direction": "inbound",
+    "from_number": "+16165558589",
+    "duration_sec": 121,
+    "result": "info",
+    "started_at": "2026-05-15T15:11:00Z"
+  },
+  {
+    "id": "RC-00107",
+    "direction": "outbound",
+    "from_number": "+16165557793",
+    "duration_sec": 163,
+    "result": "booked",
+    "started_at": "2026-05-15T17:12:00Z"
+  },
+  {
+    "id": "RC-00108",
+    "direction": "inbound",
+    "from_number": "+16165555444",
+    "duration_sec": 273,
+    "result": "booked",
+    "started_at": "2026-05-15T12:04:00Z"
+  },
+  {
+    "id": "RC-00109",
+    "direction": "inbound",
+    "from_number": "+16165556251",
+    "duration_sec": 129,
+    "result": "booked",
+    "started_at": "2026-05-15T08:43:00Z"
+  },
+  {
+    "id": "RC-00110",
+    "direction": "outbound",
+    "from_number": "+16165557440",
+    "duration_sec": 179,
+    "result": "booked",
+    "started_at": "2026-05-15T16:31:00Z"
+  },
+  {
+    "id": "RC-00111",
+    "direction": "inbound",
+    "from_number": "+16165559488",
+    "duration_sec": 136,
+    "result": "booked",
+    "started_at": "2026-05-15T09:52:00Z"
+  },
+  {
+    "id": "RC-00112",
+    "direction": "inbound",
+    "from_number": "+16165552979",
+    "duration_sec": 177,
+    "result": "booked",
+    "started_at": "2026-05-15T09:18:00Z"
+  },
+  {
+    "id": "RC-00113",
+    "direction": "inbound",
+    "from_number": "+16165554364",
+    "duration_sec": 100,
+    "result": "voicemail",
+    "started_at": "2026-05-15T07:59:00Z"
+  },
+  {
+    "id": "RC-00114",
+    "direction": "inbound",
+    "from_number": "+16165552930",
+    "duration_sec": 258,
+    "result": "info",
+    "started_at": "2026-05-15T12:13:00Z"
+  },
+  {
+    "id": "RC-00115",
+    "direction": "inbound",
+    "from_number": "+16165555512",
+    "duration_sec": 185,
+    "result": "info",
+    "started_at": "2026-05-15T08:13:00Z"
+  },
+  {
+    "id": "RC-00116",
+    "direction": "inbound",
+    "from_number": "+16165558598",
+    "duration_sec": 144,
+    "result": "booked",
+    "started_at": "2026-05-15T14:18:00Z"
+  },
+  {
+    "id": "RC-00117",
+    "direction": "inbound",
+    "from_number": "+16165553195",
+    "duration_sec": 176,
+    "result": "booked",
+    "started_at": "2026-05-15T10:07:00Z"
+  },
+  {
+    "id": "RC-00118",
+    "direction": "inbound",
+    "from_number": "+16165552700",
+    "duration_sec": 195,
+    "result": "booked",
+    "started_at": "2026-05-15T17:31:00Z"
+  },
+  {
+    "id": "RC-00119",
+    "direction": "outbound",
+    "from_number": "+16165554182",
+    "duration_sec": 216,
+    "result": "info",
+    "started_at": "2026-05-15T10:58:00Z"
+  },
+  {
+    "id": "RC-00120",
+    "direction": "inbound",
+    "from_number": "+16165556388",
+    "duration_sec": 174,
+    "result": "info",
+    "started_at": "2026-05-15T12:18:00Z"
+  },
+  {
+    "id": "RC-00121",
+    "direction": "outbound",
+    "from_number": "+16165554704",
+    "duration_sec": 21,
+    "result": "missed",
+    "started_at": "2026-05-15T09:52:00Z"
+  },
+  {
+    "id": "RC-00122",
+    "direction": "inbound",
+    "from_number": "+16165558688",
+    "duration_sec": 243,
+    "result": "booked",
+    "started_at": "2026-05-16T18:41:00Z"
+  },
+  {
+    "id": "RC-00123",
+    "direction": "inbound",
+    "from_number": "+16165555826",
+    "duration_sec": 185,
+    "result": "booked",
+    "started_at": "2026-05-16T09:47:00Z"
+  },
+  {
+    "id": "RC-00124",
+    "direction": "inbound",
+    "from_number": "+16165557617",
+    "duration_sec": 219,
+    "result": "info",
+    "started_at": "2026-05-16T11:40:00Z"
+  },
+  {
+    "id": "RC-00125",
+    "direction": "inbound",
+    "from_number": "+16165558143",
+    "duration_sec": 264,
+    "result": "booked",
+    "started_at": "2026-05-16T16:14:00Z"
+  },
+  {
+    "id": "RC-00126",
+    "direction": "outbound",
+    "from_number": "+16165555908",
+    "duration_sec": 297,
+    "result": "voicemail",
+    "started_at": "2026-05-16T11:17:00Z"
+  },
+  {
+    "id": "RC-00127",
+    "direction": "inbound",
+    "from_number": "+16165553882",
+    "duration_sec": 78,
+    "result": "voicemail",
+    "started_at": "2026-05-16T15:22:00Z"
+  },
+  {
+    "id": "RC-00128",
+    "direction": "inbound",
+    "from_number": "+16165559056",
+    "duration_sec": 122,
+    "result": "booked",
+    "started_at": "2026-05-16T08:46:00Z"
+  },
+  {
+    "id": "RC-00129",
+    "direction": "outbound",
+    "from_number": "+16165553487",
+    "duration_sec": 174,
+    "result": "booked",
+    "started_at": "2026-05-16T15:01:00Z"
+  },
+  {
+    "id": "RC-00130",
+    "direction": "inbound",
+    "from_number": "+16165552455",
+    "duration_sec": 106,
+    "result": "booked",
+    "started_at": "2026-05-16T08:52:00Z"
+  },
+  {
+    "id": "RC-00131",
+    "direction": "outbound",
+    "from_number": "+16165555465",
+    "duration_sec": 114,
+    "result": "missed",
+    "started_at": "2026-05-16T13:32:00Z"
+  },
+  {
+    "id": "RC-00132",
+    "direction": "outbound",
+    "from_number": "+16165554780",
+    "duration_sec": 170,
+    "result": "booked",
+    "started_at": "2026-05-16T18:59:00Z"
+  },
+  {
+    "id": "RC-00133",
+    "direction": "inbound",
+    "from_number": "+16165555820",
+    "duration_sec": 289,
+    "result": "booked",
+    "started_at": "2026-05-17T14:47:00Z"
+  },
+  {
+    "id": "RC-00134",
+    "direction": "inbound",
+    "from_number": "+16165551957",
+    "duration_sec": 191,
+    "result": "info",
+    "started_at": "2026-05-17T16:51:00Z"
+  },
+  {
+    "id": "RC-00135",
+    "direction": "inbound",
+    "from_number": "+16165551217",
+    "duration_sec": 193,
+    "result": "booked",
+    "started_at": "2026-05-17T14:02:00Z"
+  },
+  {
+    "id": "RC-00136",
+    "direction": "inbound",
+    "from_number": "+16165551237",
+    "duration_sec": 139,
+    "result": "booked",
+    "started_at": "2026-05-17T10:43:00Z"
+  },
+  {
+    "id": "RC-00137",
+    "direction": "inbound",
+    "from_number": "+16165556281",
+    "duration_sec": 82,
+    "result": "voicemail",
+    "started_at": "2026-05-17T11:45:00Z"
+  },
+  {
+    "id": "RC-00138",
+    "direction": "inbound",
+    "from_number": "+16165558045",
+    "duration_sec": 191,
+    "result": "booked",
+    "started_at": "2026-05-18T09:56:00Z"
+  },
+  {
+    "id": "RC-00139",
+    "direction": "inbound",
+    "from_number": "+16165551237",
+    "duration_sec": 241,
+    "result": "voicemail",
+    "started_at": "2026-05-18T07:27:00Z"
+  },
+  {
+    "id": "RC-00140",
+    "direction": "inbound",
+    "from_number": "+16165552759",
+    "duration_sec": 180,
+    "result": "booked",
+    "started_at": "2026-05-18T14:32:00Z"
+  },
+  {
+    "id": "RC-00141",
+    "direction": "inbound",
+    "from_number": "+16165558019",
+    "duration_sec": 74,
+    "result": "booked",
+    "started_at": "2026-05-18T15:47:00Z"
+  },
+  {
+    "id": "RC-00142",
+    "direction": "inbound",
+    "from_number": "+16165558379",
+    "duration_sec": 240,
+    "result": "missed",
+    "started_at": "2026-05-18T09:21:00Z"
+  },
+  {
+    "id": "RC-00143",
+    "direction": "inbound",
+    "from_number": "+16165559392",
+    "duration_sec": 187,
+    "result": "missed",
+    "started_at": "2026-05-18T13:18:00Z"
+  },
+  {
+    "id": "RC-00144",
+    "direction": "inbound",
+    "from_number": "+16165555130",
+    "duration_sec": 243,
+    "result": "booked",
+    "started_at": "2026-05-18T10:59:00Z"
+  },
+  {
+    "id": "RC-00145",
+    "direction": "outbound",
+    "from_number": "+16165558417",
+    "duration_sec": 202,
+    "result": "missed",
+    "started_at": "2026-05-18T17:34:00Z"
+  },
+  {
+    "id": "RC-00146",
+    "direction": "inbound",
+    "from_number": "+16165553711",
+    "duration_sec": 131,
+    "result": "booked",
+    "started_at": "2026-05-18T15:08:00Z"
+  },
+  {
+    "id": "RC-00147",
+    "direction": "inbound",
+    "from_number": "+16165553973",
+    "duration_sec": 15,
+    "result": "voicemail",
+    "started_at": "2026-05-18T09:38:00Z"
+  },
+  {
+    "id": "RC-00148",
+    "direction": "inbound",
+    "from_number": "+16165551431",
+    "duration_sec": 161,
+    "result": "booked",
+    "started_at": "2026-05-18T14:51:00Z"
+  },
+  {
+    "id": "RC-00149",
+    "direction": "inbound",
+    "from_number": "+16165557465",
+    "duration_sec": 170,
+    "result": "booked",
+    "started_at": "2026-05-18T14:38:00Z"
+  },
+  {
+    "id": "RC-00150",
+    "direction": "inbound",
+    "from_number": "+16165555296",
+    "duration_sec": 196,
+    "result": "info",
+    "started_at": "2026-05-18T10:03:00Z"
+  },
+  {
+    "id": "RC-00151",
+    "direction": "outbound",
+    "from_number": "+16165556987",
+    "duration_sec": 278,
+    "result": "info",
+    "started_at": "2026-05-18T13:16:00Z"
+  },
+  {
+    "id": "RC-00152",
+    "direction": "inbound",
+    "from_number": "+16165552913",
+    "duration_sec": 145,
+    "result": "voicemail",
+    "started_at": "2026-05-19T17:57:00Z"
+  },
+  {
+    "id": "RC-00153",
+    "direction": "inbound",
+    "from_number": "+16165559495",
+    "duration_sec": 146,
+    "result": "booked",
+    "started_at": "2026-05-19T16:50:00Z"
+  },
+  {
+    "id": "RC-00154",
+    "direction": "inbound",
+    "from_number": "+16165556166",
+    "duration_sec": 120,
+    "result": "booked",
+    "started_at": "2026-05-19T16:59:00Z"
+  },
+  {
+    "id": "RC-00155",
+    "direction": "outbound",
+    "from_number": "+16165554365",
+    "duration_sec": 188,
+    "result": "booked",
+    "started_at": "2026-05-19T16:57:00Z"
+  },
+  {
+    "id": "RC-00156",
+    "direction": "outbound",
+    "from_number": "+16165556782",
+    "duration_sec": 91,
+    "result": "voicemail",
+    "started_at": "2026-05-19T13:12:00Z"
+  },
+  {
+    "id": "RC-00157",
+    "direction": "inbound",
+    "from_number": "+16165553106",
+    "duration_sec": 195,
+    "result": "voicemail",
+    "started_at": "2026-05-19T09:08:00Z"
+  },
+  {
+    "id": "RC-00158",
+    "direction": "outbound",
+    "from_number": "+16165553753",
+    "duration_sec": 340,
+    "result": "booked",
+    "started_at": "2026-05-19T18:50:00Z"
+  },
+  {
+    "id": "RC-00159",
+    "direction": "inbound",
+    "from_number": "+16165555832",
+    "duration_sec": 263,
+    "result": "voicemail",
+    "started_at": "2026-05-19T17:30:00Z"
+  },
+  {
+    "id": "RC-00160",
+    "direction": "inbound",
+    "from_number": "+16165555930",
+    "duration_sec": 82,
+    "result": "booked",
+    "started_at": "2026-05-19T16:41:00Z"
+  },
+  {
+    "id": "RC-00161",
+    "direction": "inbound",
+    "from_number": "+16165557823",
+    "duration_sec": 252,
+    "result": "booked",
+    "started_at": "2026-05-19T08:13:00Z"
+  },
+  {
+    "id": "RC-00162",
+    "direction": "inbound",
+    "from_number": "+16165556021",
+    "duration_sec": 180,
+    "result": "missed",
+    "started_at": "2026-05-19T15:05:00Z"
+  },
+  {
+    "id": "RC-00163",
+    "direction": "inbound",
+    "from_number": "+16165558746",
+    "duration_sec": 131,
+    "result": "voicemail",
+    "started_at": "2026-05-19T13:28:00Z"
+  },
+  {
+    "id": "RC-00164",
+    "direction": "inbound",
+    "from_number": "+16165556044",
+    "duration_sec": 354,
+    "result": "voicemail",
+    "started_at": "2026-05-19T07:49:00Z"
+  },
+  {
+    "id": "RC-00165",
+    "direction": "inbound",
+    "from_number": "+16165557923",
+    "duration_sec": 165,
+    "result": "voicemail",
+    "started_at": "2026-05-19T11:30:00Z"
+  },
+  {
+    "id": "RC-00166",
+    "direction": "inbound",
+    "from_number": "+16165557797",
+    "duration_sec": 236,
+    "result": "missed",
+    "started_at": "2026-05-19T17:55:00Z"
+  },
+  {
+    "id": "RC-00167",
+    "direction": "inbound",
+    "from_number": "+16165553103",
+    "duration_sec": 209,
+    "result": "booked",
+    "started_at": "2026-05-19T14:02:00Z"
+  },
+  {
+    "id": "RC-00168",
+    "direction": "inbound",
+    "from_number": "+16165551976",
+    "duration_sec": 15,
+    "result": "voicemail",
+    "started_at": "2026-05-19T09:58:00Z"
+  },
+  {
+    "id": "RC-00169",
+    "direction": "inbound",
+    "from_number": "+16165552203",
+    "duration_sec": 136,
+    "result": "voicemail",
+    "started_at": "2026-05-19T09:10:00Z"
+  },
+  {
+    "id": "RC-00170",
+    "direction": "inbound",
+    "from_number": "+16165559937",
+    "duration_sec": 271,
+    "result": "missed",
+    "started_at": "2026-05-19T10:08:00Z"
+  },
+  {
+    "id": "RC-00171",
+    "direction": "inbound",
+    "from_number": "+16165558192",
+    "duration_sec": 60,
+    "result": "booked",
+    "started_at": "2026-05-19T14:53:00Z"
+  },
+  {
+    "id": "RC-00172",
+    "direction": "outbound",
+    "from_number": "+16165555338",
+    "duration_sec": 157,
+    "result": "info",
+    "started_at": "2026-05-19T16:30:00Z"
+  },
+  {
+    "id": "RC-00173",
+    "direction": "inbound",
+    "from_number": "+16165552177",
+    "duration_sec": 252,
+    "result": "info",
+    "started_at": "2026-05-19T14:59:00Z"
+  },
+  {
+    "id": "RC-00174",
+    "direction": "outbound",
+    "from_number": "+16165559543",
+    "duration_sec": 280,
+    "result": "info",
+    "started_at": "2026-05-19T16:50:00Z"
+  },
+  {
+    "id": "RC-00175",
+    "direction": "inbound",
+    "from_number": "+16165555264",
+    "duration_sec": 255,
+    "result": "missed",
+    "started_at": "2026-05-19T11:02:00Z"
+  },
+  {
+    "id": "RC-00176",
+    "direction": "outbound",
+    "from_number": "+16165555694",
+    "duration_sec": 110,
+    "result": "info",
+    "started_at": "2026-05-19T10:55:00Z"
+  },
+  {
+    "id": "RC-00177",
+    "direction": "outbound",
+    "from_number": "+16165553136",
+    "duration_sec": 194,
+    "result": "booked",
+    "started_at": "2026-05-19T07:15:00Z"
+  },
+  {
+    "id": "RC-00178",
+    "direction": "inbound",
+    "from_number": "+16165559904",
+    "duration_sec": 257,
+    "result": "voicemail",
+    "started_at": "2026-05-19T12:38:00Z"
+  },
+  {
+    "id": "RC-00179",
+    "direction": "inbound",
+    "from_number": "+16165557269",
+    "duration_sec": 223,
+    "result": "booked",
+    "started_at": "2026-05-19T09:23:00Z"
+  },
+  {
+    "id": "RC-00180",
+    "direction": "outbound",
+    "from_number": "+16165559986",
+    "duration_sec": 214,
+    "result": "info",
+    "started_at": "2026-05-20T10:02:00Z"
+  },
+  {
+    "id": "RC-00181",
+    "direction": "outbound",
+    "from_number": "+16165556766",
+    "duration_sec": 180,
+    "result": "booked",
+    "started_at": "2026-05-20T16:39:00Z"
+  },
+  {
+    "id": "RC-00182",
+    "direction": "inbound",
+    "from_number": "+16165555102",
+    "duration_sec": 163,
+    "result": "info",
+    "started_at": "2026-05-20T13:49:00Z"
+  },
+  {
+    "id": "RC-00183",
+    "direction": "inbound",
+    "from_number": "+16165557784",
+    "duration_sec": 177,
+    "result": "missed",
+    "started_at": "2026-05-20T08:21:00Z"
+  },
+  {
+    "id": "RC-00184",
+    "direction": "inbound",
+    "from_number": "+16165554023",
+    "duration_sec": 167,
+    "result": "info",
+    "started_at": "2026-05-20T10:36:00Z"
+  },
+  {
+    "id": "RC-00185",
+    "direction": "inbound",
+    "from_number": "+16165552844",
+    "duration_sec": 177,
+    "result": "booked",
+    "started_at": "2026-05-20T07:28:00Z"
+  },
+  {
+    "id": "RC-00186",
+    "direction": "outbound",
+    "from_number": "+16165554306",
+    "duration_sec": 141,
+    "result": "voicemail",
+    "started_at": "2026-05-20T17:56:00Z"
+  },
+  {
+    "id": "RC-00187",
+    "direction": "outbound",
+    "from_number": "+16165555131",
+    "duration_sec": 185,
+    "result": "missed",
+    "started_at": "2026-05-20T16:33:00Z"
+  },
+  {
+    "id": "RC-00188",
+    "direction": "inbound",
+    "from_number": "+16165553024",
+    "duration_sec": 252,
+    "result": "info",
+    "started_at": "2026-05-20T09:21:00Z"
+  },
+  {
+    "id": "RC-00189",
+    "direction": "inbound",
+    "from_number": "+16165559630",
+    "duration_sec": 125,
+    "result": "booked",
+    "started_at": "2026-05-20T14:59:00Z"
+  },
+  {
+    "id": "RC-00190",
+    "direction": "outbound",
+    "from_number": "+16165559177",
+    "duration_sec": 193,
+    "result": "missed",
+    "started_at": "2026-05-20T18:33:00Z"
+  },
+  {
+    "id": "RC-00191",
+    "direction": "outbound",
+    "from_number": "+16165559800",
+    "duration_sec": 318,
+    "result": "info",
+    "started_at": "2026-05-20T08:59:00Z"
+  },
+  {
+    "id": "RC-00192",
+    "direction": "inbound",
+    "from_number": "+16165551042",
+    "duration_sec": 267,
+    "result": "booked",
+    "started_at": "2026-05-20T09:02:00Z"
+  },
+  {
+    "id": "RC-00193",
+    "direction": "inbound",
+    "from_number": "+16165554350",
+    "duration_sec": 149,
+    "result": "missed",
+    "started_at": "2026-05-20T08:56:00Z"
+  },
+  {
+    "id": "RC-00194",
+    "direction": "inbound",
+    "from_number": "+16165554690",
+    "duration_sec": 157,
+    "result": "voicemail",
+    "started_at": "2026-05-20T14:55:00Z"
+  },
+  {
+    "id": "RC-00195",
+    "direction": "inbound",
+    "from_number": "+16165559218",
+    "duration_sec": 117,
+    "result": "booked",
+    "started_at": "2026-05-20T15:22:00Z"
+  },
+  {
+    "id": "RC-00196",
+    "direction": "inbound",
+    "from_number": "+16165553091",
+    "duration_sec": 254,
+    "result": "booked",
+    "started_at": "2026-05-20T10:35:00Z"
+  },
+  {
+    "id": "RC-00197",
+    "direction": "inbound",
+    "from_number": "+16165559016",
+    "duration_sec": 284,
+    "result": "voicemail",
+    "started_at": "2026-05-20T18:43:00Z"
+  },
+  {
+    "id": "RC-00198",
+    "direction": "inbound",
+    "from_number": "+16165553916",
+    "duration_sec": 101,
+    "result": "info",
+    "started_at": "2026-05-21T07:52:00Z"
+  },
+  {
+    "id": "RC-00199",
+    "direction": "inbound",
+    "from_number": "+16165559302",
+    "duration_sec": 309,
+    "result": "missed",
+    "started_at": "2026-05-21T12:36:00Z"
+  },
+  {
+    "id": "RC-00200",
+    "direction": "inbound",
+    "from_number": "+16165552889",
+    "duration_sec": 282,
+    "result": "booked",
+    "started_at": "2026-05-21T11:45:00Z"
+  },
+  {
+    "id": "RC-00201",
+    "direction": "inbound",
+    "from_number": "+16165559389",
+    "duration_sec": 177,
+    "result": "booked",
+    "started_at": "2026-05-21T07:11:00Z"
+  },
+  {
+    "id": "RC-00202",
+    "direction": "inbound",
+    "from_number": "+16165554412",
+    "duration_sec": 47,
+    "result": "booked",
+    "started_at": "2026-05-21T10:58:00Z"
+  },
+  {
+    "id": "RC-00203",
+    "direction": "inbound",
+    "from_number": "+16165555296",
+    "duration_sec": 95,
+    "result": "booked",
+    "started_at": "2026-05-21T13:14:00Z"
+  },
+  {
+    "id": "RC-00204",
+    "direction": "inbound",
+    "from_number": "+16165557013",
+    "duration_sec": 127,
+    "result": "missed",
+    "started_at": "2026-05-21T07:15:00Z"
+  },
+  {
+    "id": "RC-00205",
+    "direction": "inbound",
+    "from_number": "+16165557412",
+    "duration_sec": 156,
+    "result": "booked",
+    "started_at": "2026-05-21T07:53:00Z"
+  },
+  {
+    "id": "RC-00206",
+    "direction": "inbound",
+    "from_number": "+16165555680",
+    "duration_sec": 231,
+    "result": "missed",
+    "started_at": "2026-05-21T17:00:00Z"
+  },
+  {
+    "id": "RC-00207",
+    "direction": "inbound",
+    "from_number": "+16165554007",
+    "duration_sec": 192,
+    "result": "info",
+    "started_at": "2026-05-21T16:33:00Z"
+  },
+  {
+    "id": "RC-00208",
+    "direction": "inbound",
+    "from_number": "+16165555179",
+    "duration_sec": 21,
+    "result": "voicemail",
+    "started_at": "2026-05-21T17:10:00Z"
+  },
+  {
+    "id": "RC-00209",
+    "direction": "inbound",
+    "from_number": "+16165553367",
+    "duration_sec": 224,
+    "result": "missed",
+    "started_at": "2026-05-21T17:21:00Z"
+  },
+  {
+    "id": "RC-00210",
+    "direction": "inbound",
+    "from_number": "+16165553720",
+    "duration_sec": 233,
+    "result": "booked",
+    "started_at": "2026-05-21T09:18:00Z"
+  },
+  {
+    "id": "RC-00211",
+    "direction": "outbound",
+    "from_number": "+16165554304",
+    "duration_sec": 207,
+    "result": "missed",
+    "started_at": "2026-05-21T08:23:00Z"
+  },
+  {
+    "id": "RC-00212",
+    "direction": "inbound",
+    "from_number": "+16165556420",
+    "duration_sec": 117,
+    "result": "missed",
+    "started_at": "2026-05-21T10:39:00Z"
+  },
+  {
+    "id": "RC-00213",
+    "direction": "outbound",
+    "from_number": "+16165555600",
+    "duration_sec": 210,
+    "result": "info",
+    "started_at": "2026-05-21T16:25:00Z"
+  },
+  {
+    "id": "RC-00214",
+    "direction": "inbound",
+    "from_number": "+16165558433",
+    "duration_sec": 15,
+    "result": "info",
+    "started_at": "2026-05-21T10:40:00Z"
+  },
+  {
+    "id": "RC-00215",
+    "direction": "inbound",
+    "from_number": "+16165559489",
+    "duration_sec": 174,
+    "result": "booked",
+    "started_at": "2026-05-21T09:24:00Z"
+  },
+  {
+    "id": "RC-00216",
+    "direction": "inbound",
+    "from_number": "+16165554445",
+    "duration_sec": 246,
+    "result": "voicemail",
+    "started_at": "2026-05-21T16:14:00Z"
+  },
+  {
+    "id": "RC-00217",
+    "direction": "inbound",
+    "from_number": "+16165555591",
+    "duration_sec": 192,
+    "result": "info",
+    "started_at": "2026-05-21T18:12:00Z"
+  },
+  {
+    "id": "RC-00218",
+    "direction": "inbound",
+    "from_number": "+16165557858",
+    "duration_sec": 348,
+    "result": "booked",
+    "started_at": "2026-05-21T18:40:00Z"
+  },
+  {
+    "id": "RC-00219",
+    "direction": "inbound",
+    "from_number": "+16165553289",
+    "duration_sec": 223,
+    "result": "booked",
+    "started_at": "2026-05-21T08:29:00Z"
+  },
+  {
+    "id": "RC-00220",
+    "direction": "outbound",
+    "from_number": "+16165553087",
+    "duration_sec": 153,
+    "result": "booked",
+    "started_at": "2026-05-21T10:10:00Z"
+  },
+  {
+    "id": "RC-00221",
+    "direction": "inbound",
+    "from_number": "+16165551805",
+    "duration_sec": 268,
+    "result": "voicemail",
+    "started_at": "2026-05-21T14:39:00Z"
+  },
+  {
+    "id": "RC-00222",
+    "direction": "inbound",
+    "from_number": "+16165554200",
+    "duration_sec": 83,
+    "result": "booked",
+    "started_at": "2026-05-22T08:08:00Z"
+  },
+  {
+    "id": "RC-00223",
+    "direction": "outbound",
+    "from_number": "+16165555469",
+    "duration_sec": 203,
+    "result": "booked",
+    "started_at": "2026-05-22T17:33:00Z"
+  },
+  {
+    "id": "RC-00224",
+    "direction": "inbound",
+    "from_number": "+16165556661",
+    "duration_sec": 205,
+    "result": "booked",
+    "started_at": "2026-05-22T07:42:00Z"
+  },
+  {
+    "id": "RC-00225",
+    "direction": "inbound",
+    "from_number": "+16165557734",
+    "duration_sec": 240,
+    "result": "info",
+    "started_at": "2026-05-22T16:44:00Z"
+  },
+  {
+    "id": "RC-00226",
+    "direction": "inbound",
+    "from_number": "+16165559723",
+    "duration_sec": 189,
+    "result": "booked",
+    "started_at": "2026-05-22T08:05:00Z"
+  },
+  {
+    "id": "RC-00227",
+    "direction": "inbound",
+    "from_number": "+16165552497",
+    "duration_sec": 259,
+    "result": "missed",
+    "started_at": "2026-05-22T09:51:00Z"
+  },
+  {
+    "id": "RC-00228",
+    "direction": "inbound",
+    "from_number": "+16165559977",
+    "duration_sec": 132,
+    "result": "booked",
+    "started_at": "2026-05-22T07:57:00Z"
+  },
+  {
+    "id": "RC-00229",
+    "direction": "outbound",
+    "from_number": "+16165557425",
+    "duration_sec": 154,
+    "result": "booked",
+    "started_at": "2026-05-22T18:25:00Z"
+  },
+  {
+    "id": "RC-00230",
+    "direction": "inbound",
+    "from_number": "+16165551522",
+    "duration_sec": 293,
+    "result": "booked",
+    "started_at": "2026-05-22T10:10:00Z"
+  },
+  {
+    "id": "RC-00231",
+    "direction": "inbound",
+    "from_number": "+16165556679",
+    "duration_sec": 222,
+    "result": "booked",
+    "started_at": "2026-05-22T09:54:00Z"
+  },
+  {
+    "id": "RC-00232",
+    "direction": "inbound",
+    "from_number": "+16165554154",
+    "duration_sec": 163,
+    "result": "info",
+    "started_at": "2026-05-22T17:53:00Z"
+  },
+  {
+    "id": "RC-00233",
+    "direction": "outbound",
+    "from_number": "+16165557379",
+    "duration_sec": 225,
+    "result": "booked",
+    "started_at": "2026-05-22T07:45:00Z"
+  },
+  {
+    "id": "RC-00234",
+    "direction": "inbound",
+    "from_number": "+16165559654",
+    "duration_sec": 253,
+    "result": "booked",
+    "started_at": "2026-05-22T07:11:00Z"
+  },
+  {
+    "id": "RC-00235",
+    "direction": "inbound",
+    "from_number": "+16165555923",
+    "duration_sec": 127,
+    "result": "info",
+    "started_at": "2026-05-22T11:12:00Z"
+  },
+  {
+    "id": "RC-00236",
+    "direction": "inbound",
+    "from_number": "+16165557924",
+    "duration_sec": 297,
+    "result": "booked",
+    "started_at": "2026-05-22T13:19:00Z"
+  },
+  {
+    "id": "RC-00237",
+    "direction": "inbound",
+    "from_number": "+16165554433",
+    "duration_sec": 147,
+    "result": "voicemail",
+    "started_at": "2026-05-22T08:25:00Z"
+  },
+  {
+    "id": "RC-00238",
+    "direction": "inbound",
+    "from_number": "+16165554933",
+    "duration_sec": 385,
+    "result": "voicemail",
+    "started_at": "2026-05-22T13:55:00Z"
+  },
+  {
+    "id": "RC-00239",
+    "direction": "inbound",
+    "from_number": "+16165551666",
+    "duration_sec": 192,
+    "result": "booked",
+    "started_at": "2026-05-22T10:46:00Z"
+  },
+  {
+    "id": "RC-00240",
+    "direction": "inbound",
+    "from_number": "+16165555127",
+    "duration_sec": 306,
+    "result": "booked",
+    "started_at": "2026-05-22T13:47:00Z"
+  },
+  {
+    "id": "RC-00241",
+    "direction": "inbound",
+    "from_number": "+16165553108",
+    "duration_sec": 133,
+    "result": "booked",
+    "started_at": "2026-05-22T15:08:00Z"
+  },
+  {
+    "id": "RC-00242",
+    "direction": "inbound",
+    "from_number": "+16165556822",
+    "duration_sec": 197,
+    "result": "booked",
+    "started_at": "2026-05-22T07:51:00Z"
+  },
+  {
+    "id": "RC-00243",
+    "direction": "inbound",
+    "from_number": "+16165557289",
+    "duration_sec": 162,
+    "result": "booked",
+    "started_at": "2026-05-22T10:45:00Z"
+  },
+  {
+    "id": "RC-00244",
+    "direction": "inbound",
+    "from_number": "+16165552613",
+    "duration_sec": 370,
+    "result": "booked",
+    "started_at": "2026-05-23T17:52:00Z"
+  },
+  {
+    "id": "RC-00245",
+    "direction": "inbound",
+    "from_number": "+16165557572",
+    "duration_sec": 284,
+    "result": "info",
+    "started_at": "2026-05-23T08:40:00Z"
+  },
+  {
+    "id": "RC-00246",
+    "direction": "outbound",
+    "from_number": "+16165553495",
+    "duration_sec": 275,
+    "result": "booked",
+    "started_at": "2026-05-23T08:52:00Z"
+  },
+  {
+    "id": "RC-00247",
+    "direction": "inbound",
+    "from_number": "+16165557625",
+    "duration_sec": 162,
+    "result": "missed",
+    "started_at": "2026-05-23T10:14:00Z"
+  },
+  {
+    "id": "RC-00248",
+    "direction": "inbound",
+    "from_number": "+16165554610",
+    "duration_sec": 81,
+    "result": "booked",
+    "started_at": "2026-05-23T14:28:00Z"
+  },
+  {
+    "id": "RC-00249",
+    "direction": "inbound",
+    "from_number": "+16165554080",
+    "duration_sec": 63,
+    "result": "voicemail",
+    "started_at": "2026-05-23T13:45:00Z"
+  },
+  {
+    "id": "RC-00250",
+    "direction": "inbound",
+    "from_number": "+16165552545",
+    "duration_sec": 153,
+    "result": "missed",
+    "started_at": "2026-05-23T13:10:00Z"
+  },
+  {
+    "id": "RC-00251",
+    "direction": "inbound",
+    "from_number": "+16165556129",
+    "duration_sec": 364,
+    "result": "missed",
+    "started_at": "2026-05-23T12:41:00Z"
+  },
+  {
+    "id": "RC-00252",
+    "direction": "inbound",
+    "from_number": "+16165558056",
+    "duration_sec": 150,
+    "result": "missed",
+    "started_at": "2026-05-24T14:55:00Z"
+  },
+  {
+    "id": "RC-00253",
+    "direction": "inbound",
+    "from_number": "+16165557888",
+    "duration_sec": 375,
+    "result": "booked",
+    "started_at": "2026-05-24T15:52:00Z"
+  },
+  {
+    "id": "RC-00254",
+    "direction": "inbound",
+    "from_number": "+16165554009",
+    "duration_sec": 152,
+    "result": "booked",
+    "started_at": "2026-05-24T08:49:00Z"
+  },
+  {
+    "id": "RC-00255",
+    "direction": "inbound",
+    "from_number": "+16165558356",
+    "duration_sec": 185,
+    "result": "missed",
+    "started_at": "2026-05-24T10:26:00Z"
+  },
+  {
+    "id": "RC-00256",
+    "direction": "inbound",
+    "from_number": "+16165551619",
+    "duration_sec": 179,
+    "result": "info",
+    "started_at": "2026-05-24T14:09:00Z"
+  },
+  {
+    "id": "RC-00257",
+    "direction": "inbound",
+    "from_number": "+16165557417",
+    "duration_sec": 111,
+    "result": "booked",
+    "started_at": "2026-05-24T18:15:00Z"
+  },
+  {
+    "id": "RC-00258",
+    "direction": "inbound",
+    "from_number": "+16165554428",
+    "duration_sec": 206,
+    "result": "info",
+    "started_at": "2026-05-24T14:32:00Z"
+  },
+  {
+    "id": "RC-00259",
+    "direction": "inbound",
+    "from_number": "+16165553502",
+    "duration_sec": 239,
+    "result": "booked",
+    "started_at": "2026-05-25T07:00:00Z"
+  },
+  {
+    "id": "RC-00260",
+    "direction": "inbound",
+    "from_number": "+16165558323",
+    "duration_sec": 200,
+    "result": "voicemail",
+    "started_at": "2026-05-25T15:17:00Z"
+  },
+  {
+    "id": "RC-00261",
+    "direction": "inbound",
+    "from_number": "+16165552717",
+    "duration_sec": 147,
+    "result": "voicemail",
+    "started_at": "2026-05-25T17:35:00Z"
+  },
+  {
+    "id": "RC-00262",
+    "direction": "inbound",
+    "from_number": "+16165556805",
+    "duration_sec": 287,
+    "result": "voicemail",
+    "started_at": "2026-05-25T13:46:00Z"
+  },
+  {
+    "id": "RC-00263",
+    "direction": "inbound",
+    "from_number": "+16165557907",
+    "duration_sec": 252,
+    "result": "booked",
+    "started_at": "2026-05-25T14:33:00Z"
+  },
+  {
+    "id": "RC-00264",
+    "direction": "inbound",
+    "from_number": "+16165553913",
+    "duration_sec": 304,
+    "result": "booked",
+    "started_at": "2026-05-25T10:38:00Z"
+  },
+  {
+    "id": "RC-00265",
+    "direction": "inbound",
+    "from_number": "+16165557090",
+    "duration_sec": 301,
+    "result": "booked",
+    "started_at": "2026-05-25T08:42:00Z"
+  },
+  {
+    "id": "RC-00266",
+    "direction": "inbound",
+    "from_number": "+16165559789",
+    "duration_sec": 209,
+    "result": "missed",
+    "started_at": "2026-05-25T07:52:00Z"
+  },
+  {
+    "id": "RC-00267",
+    "direction": "inbound",
+    "from_number": "+16165553671",
+    "duration_sec": 302,
+    "result": "voicemail",
+    "started_at": "2026-05-25T09:12:00Z"
+  },
+  {
+    "id": "RC-00268",
+    "direction": "inbound",
+    "from_number": "+16165552827",
+    "duration_sec": 165,
+    "result": "booked",
+    "started_at": "2026-05-25T17:39:00Z"
+  },
+  {
+    "id": "RC-00269",
+    "direction": "inbound",
+    "from_number": "+16165555927",
+    "duration_sec": 158,
+    "result": "info",
+    "started_at": "2026-05-25T14:12:00Z"
+  },
+  {
+    "id": "RC-00270",
+    "direction": "outbound",
+    "from_number": "+16165552619",
+    "duration_sec": 221,
+    "result": "booked",
+    "started_at": "2026-05-25T12:32:00Z"
+  },
+  {
+    "id": "RC-00271",
+    "direction": "outbound",
+    "from_number": "+16165555856",
+    "duration_sec": 205,
+    "result": "voicemail",
+    "started_at": "2026-05-25T18:03:00Z"
+  },
+  {
+    "id": "RC-00272",
+    "direction": "inbound",
+    "from_number": "+16165555443",
+    "duration_sec": 236,
+    "result": "booked",
+    "started_at": "2026-05-25T11:17:00Z"
+  },
+  {
+    "id": "RC-00273",
+    "direction": "inbound",
+    "from_number": "+16165551592",
+    "duration_sec": 167,
+    "result": "voicemail",
+    "started_at": "2026-05-25T09:57:00Z"
+  },
+  {
+    "id": "RC-00274",
+    "direction": "inbound",
+    "from_number": "+16165559959",
+    "duration_sec": 71,
+    "result": "booked",
+    "started_at": "2026-05-25T14:16:00Z"
+  },
+  {
+    "id": "RC-00275",
+    "direction": "inbound",
+    "from_number": "+16165559437",
+    "duration_sec": 132,
+    "result": "info",
+    "started_at": "2026-05-25T13:29:00Z"
+  },
+  {
+    "id": "RC-00276",
+    "direction": "inbound",
+    "from_number": "+16165551325",
+    "duration_sec": 194,
+    "result": "info",
+    "started_at": "2026-05-26T09:45:00Z"
+  },
+  {
+    "id": "RC-00277",
+    "direction": "inbound",
+    "from_number": "+16165558750",
+    "duration_sec": 66,
+    "result": "booked",
+    "started_at": "2026-05-26T10:35:00Z"
+  },
+  {
+    "id": "RC-00278",
+    "direction": "outbound",
+    "from_number": "+16165553148",
+    "duration_sec": 309,
+    "result": "missed",
+    "started_at": "2026-05-26T18:47:00Z"
+  },
+  {
+    "id": "RC-00279",
+    "direction": "outbound",
+    "from_number": "+16165551084",
+    "duration_sec": 146,
+    "result": "voicemail",
+    "started_at": "2026-05-26T18:28:00Z"
+  },
+  {
+    "id": "RC-00280",
+    "direction": "outbound",
+    "from_number": "+16165554882",
+    "duration_sec": 218,
+    "result": "booked",
+    "started_at": "2026-05-26T07:09:00Z"
+  },
+  {
+    "id": "RC-00281",
+    "direction": "inbound",
+    "from_number": "+16165555678",
+    "duration_sec": 209,
+    "result": "booked",
+    "started_at": "2026-05-26T09:41:00Z"
+  },
+  {
+    "id": "RC-00282",
+    "direction": "inbound",
+    "from_number": "+16165553938",
+    "duration_sec": 153,
+    "result": "booked",
+    "started_at": "2026-05-26T14:37:00Z"
+  },
+  {
+    "id": "RC-00283",
+    "direction": "inbound",
+    "from_number": "+16165555358",
+    "duration_sec": 356,
+    "result": "info",
+    "started_at": "2026-05-26T17:00:00Z"
+  },
+  {
+    "id": "RC-00284",
+    "direction": "inbound",
+    "from_number": "+16165556046",
+    "duration_sec": 196,
+    "result": "voicemail",
+    "started_at": "2026-05-26T14:56:00Z"
+  },
+  {
+    "id": "RC-00285",
+    "direction": "inbound",
+    "from_number": "+16165558199",
+    "duration_sec": 241,
+    "result": "voicemail",
+    "started_at": "2026-05-26T09:06:00Z"
+  },
+  {
+    "id": "RC-00286",
+    "direction": "inbound",
+    "from_number": "+16165551438",
+    "duration_sec": 134,
+    "result": "voicemail",
+    "started_at": "2026-05-26T07:11:00Z"
+  },
+  {
+    "id": "RC-00287",
+    "direction": "inbound",
+    "from_number": "+16165556468",
+    "duration_sec": 250,
+    "result": "missed",
+    "started_at": "2026-05-26T14:40:00Z"
+  },
+  {
+    "id": "RC-00288",
+    "direction": "inbound",
+    "from_number": "+16165553774",
+    "duration_sec": 142,
+    "result": "booked",
+    "started_at": "2026-05-26T07:52:00Z"
+  },
+  {
+    "id": "RC-00289",
+    "direction": "outbound",
+    "from_number": "+16165559560",
+    "duration_sec": 266,
+    "result": "voicemail",
+    "started_at": "2026-05-26T11:44:00Z"
+  },
+  {
+    "id": "RC-00290",
+    "direction": "inbound",
+    "from_number": "+16165552750",
+    "duration_sec": 28,
+    "result": "info",
+    "started_at": "2026-05-26T13:48:00Z"
+  },
+  {
+    "id": "RC-00291",
+    "direction": "inbound",
+    "from_number": "+16165556581",
+    "duration_sec": 176,
+    "result": "booked",
+    "started_at": "2026-05-26T12:20:00Z"
+  },
+  {
+    "id": "RC-00292",
+    "direction": "inbound",
+    "from_number": "+16165558112",
+    "duration_sec": 122,
+    "result": "booked",
+    "started_at": "2026-05-26T15:46:00Z"
+  },
+  {
+    "id": "RC-00293",
+    "direction": "inbound",
+    "from_number": "+16165556621",
+    "duration_sec": 102,
+    "result": "voicemail",
+    "started_at": "2026-05-27T11:10:00Z"
+  },
+  {
+    "id": "RC-00294",
+    "direction": "inbound",
+    "from_number": "+16165554716",
+    "duration_sec": 63,
+    "result": "booked",
+    "started_at": "2026-05-27T17:50:00Z"
+  },
+  {
+    "id": "RC-00295",
+    "direction": "inbound",
+    "from_number": "+16165555030",
+    "duration_sec": 210,
+    "result": "voicemail",
+    "started_at": "2026-05-27T11:16:00Z"
+  },
+  {
+    "id": "RC-00296",
+    "direction": "inbound",
+    "from_number": "+16165558745",
+    "duration_sec": 204,
+    "result": "booked",
+    "started_at": "2026-05-27T18:25:00Z"
+  },
+  {
+    "id": "RC-00297",
+    "direction": "inbound",
+    "from_number": "+16165554761",
+    "duration_sec": 246,
+    "result": "voicemail",
+    "started_at": "2026-05-27T08:40:00Z"
+  },
+  {
+    "id": "RC-00298",
+    "direction": "inbound",
+    "from_number": "+16165554697",
+    "duration_sec": 163,
+    "result": "info",
+    "started_at": "2026-05-27T17:44:00Z"
+  },
+  {
+    "id": "RC-00299",
+    "direction": "inbound",
+    "from_number": "+16165554545",
+    "duration_sec": 319,
+    "result": "voicemail",
+    "started_at": "2026-05-27T09:35:00Z"
+  },
+  {
+    "id": "RC-00300",
+    "direction": "outbound",
+    "from_number": "+16165551288",
+    "duration_sec": 100,
+    "result": "info",
+    "started_at": "2026-05-27T09:53:00Z"
+  },
+  {
+    "id": "RC-00301",
+    "direction": "inbound",
+    "from_number": "+16165559433",
+    "duration_sec": 129,
+    "result": "booked",
+    "started_at": "2026-05-27T09:19:00Z"
+  },
+  {
+    "id": "RC-00302",
+    "direction": "inbound",
+    "from_number": "+16165553756",
+    "duration_sec": 139,
+    "result": "booked",
+    "started_at": "2026-05-27T14:59:00Z"
+  },
+  {
+    "id": "RC-00303",
+    "direction": "inbound",
+    "from_number": "+16165555368",
+    "duration_sec": 216,
+    "result": "booked",
+    "started_at": "2026-05-27T14:37:00Z"
+  },
+  {
+    "id": "RC-00304",
+    "direction": "inbound",
+    "from_number": "+16165557314",
+    "duration_sec": 251,
+    "result": "missed",
+    "started_at": "2026-05-27T10:04:00Z"
+  },
+  {
+    "id": "RC-00305",
+    "direction": "inbound",
+    "from_number": "+16165554369",
+    "duration_sec": 80,
+    "result": "booked",
+    "started_at": "2026-05-27T14:16:00Z"
+  },
+  {
+    "id": "RC-00306",
+    "direction": "inbound",
+    "from_number": "+16165554981",
+    "duration_sec": 242,
+    "result": "booked",
+    "started_at": "2026-05-27T09:01:00Z"
+  },
+  {
+    "id": "RC-00307",
+    "direction": "inbound",
+    "from_number": "+16165553481",
+    "duration_sec": 258,
+    "result": "booked",
+    "started_at": "2026-05-27T08:37:00Z"
+  },
+  {
+    "id": "RC-00308",
+    "direction": "inbound",
+    "from_number": "+16165552015",
+    "duration_sec": 267,
+    "result": "booked",
+    "started_at": "2026-05-27T15:42:00Z"
+  },
+  {
+    "id": "RC-00309",
+    "direction": "inbound",
+    "from_number": "+16165556272",
+    "duration_sec": 82,
+    "result": "info",
+    "started_at": "2026-05-27T11:17:00Z"
+  },
+  {
+    "id": "RC-00310",
+    "direction": "inbound",
+    "from_number": "+16165558584",
+    "duration_sec": 15,
+    "result": "info",
+    "started_at": "2026-05-27T09:40:00Z"
+  },
+  {
+    "id": "RC-00311",
+    "direction": "inbound",
+    "from_number": "+16165553225",
+    "duration_sec": 135,
+    "result": "missed",
+    "started_at": "2026-05-27T15:48:00Z"
+  },
+  {
+    "id": "RC-00312",
+    "direction": "outbound",
+    "from_number": "+16165551912",
+    "duration_sec": 176,
+    "result": "info",
+    "started_at": "2026-05-27T13:30:00Z"
+  },
+  {
+    "id": "RC-00313",
+    "direction": "inbound",
+    "from_number": "+16165559521",
+    "duration_sec": 286,
+    "result": "voicemail",
+    "started_at": "2026-05-27T18:31:00Z"
+  },
+  {
+    "id": "RC-00314",
+    "direction": "inbound",
+    "from_number": "+16165555609",
+    "duration_sec": 254,
+    "result": "info",
+    "started_at": "2026-05-27T08:32:00Z"
+  },
+  {
+    "id": "RC-00315",
+    "direction": "outbound",
+    "from_number": "+16165553691",
+    "duration_sec": 140,
+    "result": "voicemail",
+    "started_at": "2026-05-27T11:52:00Z"
+  },
+  {
+    "id": "RC-00316",
+    "direction": "inbound",
+    "from_number": "+16165552253",
+    "duration_sec": 223,
+    "result": "voicemail",
+    "started_at": "2026-05-27T07:30:00Z"
+  },
+  {
+    "id": "RC-00317",
+    "direction": "inbound",
+    "from_number": "+16165559853",
+    "duration_sec": 156,
+    "result": "info",
+    "started_at": "2026-05-28T10:35:00Z"
+  },
+  {
+    "id": "RC-00318",
+    "direction": "inbound",
+    "from_number": "+16165559214",
+    "duration_sec": 127,
+    "result": "info",
+    "started_at": "2026-05-28T17:36:00Z"
+  },
+  {
+    "id": "RC-00319",
+    "direction": "outbound",
+    "from_number": "+16165552470",
+    "duration_sec": 340,
+    "result": "booked",
+    "started_at": "2026-05-28T14:15:00Z"
+  },
+  {
+    "id": "RC-00320",
+    "direction": "inbound",
+    "from_number": "+16165552758",
+    "duration_sec": 247,
+    "result": "booked",
+    "started_at": "2026-05-28T11:50:00Z"
+  },
+  {
+    "id": "RC-00321",
+    "direction": "outbound",
+    "from_number": "+16165556466",
+    "duration_sec": 277,
+    "result": "booked",
+    "started_at": "2026-05-28T08:18:00Z"
+  },
+  {
+    "id": "RC-00322",
+    "direction": "inbound",
+    "from_number": "+16165552966",
+    "duration_sec": 135,
+    "result": "missed",
+    "started_at": "2026-05-28T15:15:00Z"
+  },
+  {
+    "id": "RC-00323",
+    "direction": "inbound",
+    "from_number": "+16165554793",
+    "duration_sec": 171,
+    "result": "booked",
+    "started_at": "2026-05-28T08:24:00Z"
+  },
+  {
+    "id": "RC-00324",
+    "direction": "inbound",
+    "from_number": "+16165558177",
+    "duration_sec": 155,
+    "result": "booked",
+    "started_at": "2026-05-28T08:12:00Z"
+  },
+  {
+    "id": "RC-00325",
+    "direction": "inbound",
+    "from_number": "+16165552295",
+    "duration_sec": 191,
+    "result": "booked",
+    "started_at": "2026-05-28T07:26:00Z"
+  },
+  {
+    "id": "RC-00326",
+    "direction": "inbound",
+    "from_number": "+16165553291",
+    "duration_sec": 141,
+    "result": "missed",
+    "started_at": "2026-05-28T10:48:00Z"
+  },
+  {
+    "id": "RC-00327",
+    "direction": "inbound",
+    "from_number": "+16165555786",
+    "duration_sec": 198,
+    "result": "voicemail",
+    "started_at": "2026-05-28T16:30:00Z"
+  },
+  {
+    "id": "RC-00328",
+    "direction": "outbound",
+    "from_number": "+16165557588",
+    "duration_sec": 200,
+    "result": "info",
+    "started_at": "2026-05-28T11:23:00Z"
+  },
+  {
+    "id": "RC-00329",
+    "direction": "inbound",
+    "from_number": "+16165557128",
+    "duration_sec": 314,
+    "result": "info",
+    "started_at": "2026-05-28T16:41:00Z"
+  },
+  {
+    "id": "RC-00330",
+    "direction": "inbound",
+    "from_number": "+16165553837",
+    "duration_sec": 127,
+    "result": "booked",
+    "started_at": "2026-05-28T11:08:00Z"
+  },
+  {
+    "id": "RC-00331",
+    "direction": "inbound",
+    "from_number": "+16165558467",
+    "duration_sec": 198,
+    "result": "booked",
+    "started_at": "2026-05-28T13:21:00Z"
+  },
+  {
+    "id": "RC-00332",
+    "direction": "inbound",
+    "from_number": "+16165553834",
+    "duration_sec": 108,
+    "result": "missed",
+    "started_at": "2026-05-28T10:38:00Z"
+  },
+  {
+    "id": "RC-00333",
+    "direction": "inbound",
+    "from_number": "+16165552783",
+    "duration_sec": 258,
+    "result": "voicemail",
+    "started_at": "2026-05-28T10:00:00Z"
+  },
+  {
+    "id": "RC-00334",
+    "direction": "inbound",
+    "from_number": "+16165555742",
+    "duration_sec": 75,
+    "result": "missed",
+    "started_at": "2026-05-28T15:47:00Z"
+  },
+  {
+    "id": "RC-00335",
+    "direction": "inbound",
+    "from_number": "+16165555607",
+    "duration_sec": 218,
+    "result": "info",
+    "started_at": "2026-05-28T08:34:00Z"
+  },
+  {
+    "id": "RC-00336",
+    "direction": "inbound",
+    "from_number": "+16165556251",
+    "duration_sec": 379,
+    "result": "booked",
+    "started_at": "2026-05-28T07:09:00Z"
+  },
+  {
+    "id": "RC-00337",
+    "direction": "inbound",
+    "from_number": "+16165559546",
+    "duration_sec": 229,
+    "result": "voicemail",
+    "started_at": "2026-05-28T18:12:00Z"
+  },
+  {
+    "id": "RC-00338",
+    "direction": "inbound",
+    "from_number": "+16165553547",
+    "duration_sec": 56,
+    "result": "booked",
+    "started_at": "2026-05-29T10:37:00Z"
+  },
+  {
+    "id": "RC-00339",
+    "direction": "inbound",
+    "from_number": "+16165556536",
+    "duration_sec": 136,
+    "result": "booked",
+    "started_at": "2026-05-29T10:30:00Z"
+  },
+  {
+    "id": "RC-00340",
+    "direction": "inbound",
+    "from_number": "+16165553183",
+    "duration_sec": 196,
+    "result": "booked",
+    "started_at": "2026-05-29T10:59:00Z"
+  },
+  {
+    "id": "RC-00341",
+    "direction": "inbound",
+    "from_number": "+16165558919",
+    "duration_sec": 160,
+    "result": "voicemail",
+    "started_at": "2026-05-29T09:30:00Z"
+  },
+  {
+    "id": "RC-00342",
+    "direction": "inbound",
+    "from_number": "+16165557183",
+    "duration_sec": 212,
+    "result": "missed",
+    "started_at": "2026-05-29T14:03:00Z"
+  },
+  {
+    "id": "RC-00343",
+    "direction": "inbound",
+    "from_number": "+16165556358",
+    "duration_sec": 234,
+    "result": "booked",
+    "started_at": "2026-05-29T09:37:00Z"
+  },
+  {
+    "id": "RC-00344",
+    "direction": "outbound",
+    "from_number": "+16165557455",
+    "duration_sec": 63,
+    "result": "booked",
+    "started_at": "2026-05-29T14:44:00Z"
+  },
+  {
+    "id": "RC-00345",
+    "direction": "inbound",
+    "from_number": "+16165552463",
+    "duration_sec": 212,
+    "result": "missed",
+    "started_at": "2026-05-29T11:12:00Z"
+  },
+  {
+    "id": "RC-00346",
+    "direction": "outbound",
+    "from_number": "+16165556221",
+    "duration_sec": 419,
+    "result": "missed",
+    "started_at": "2026-05-29T17:16:00Z"
+  },
+  {
+    "id": "RC-00347",
+    "direction": "outbound",
+    "from_number": "+16165557287",
+    "duration_sec": 190,
+    "result": "booked",
+    "started_at": "2026-05-29T10:03:00Z"
+  },
+  {
+    "id": "RC-00348",
+    "direction": "inbound",
+    "from_number": "+16165554856",
+    "duration_sec": 224,
+    "result": "voicemail",
+    "started_at": "2026-05-29T16:37:00Z"
+  },
+  {
+    "id": "RC-00349",
+    "direction": "inbound",
+    "from_number": "+16165552871",
+    "duration_sec": 250,
+    "result": "voicemail",
+    "started_at": "2026-05-29T12:22:00Z"
+  },
+  {
+    "id": "RC-00350",
+    "direction": "inbound",
+    "from_number": "+16165555078",
+    "duration_sec": 104,
+    "result": "booked",
+    "started_at": "2026-05-29T15:36:00Z"
+  },
+  {
+    "id": "RC-00351",
+    "direction": "inbound",
+    "from_number": "+16165551701",
+    "duration_sec": 331,
+    "result": "missed",
+    "started_at": "2026-05-29T18:38:00Z"
+  },
+  {
+    "id": "RC-00352",
+    "direction": "inbound",
+    "from_number": "+16165553077",
+    "duration_sec": 301,
+    "result": "missed",
+    "started_at": "2026-05-29T08:45:00Z"
+  },
+  {
+    "id": "RC-00353",
+    "direction": "inbound",
+    "from_number": "+16165558296",
+    "duration_sec": 252,
+    "result": "booked",
+    "started_at": "2026-05-29T09:17:00Z"
+  },
+  {
+    "id": "RC-00354",
+    "direction": "inbound",
+    "from_number": "+16165556243",
+    "duration_sec": 228,
+    "result": "missed",
+    "started_at": "2026-05-29T16:46:00Z"
+  },
+  {
+    "id": "RC-00355",
+    "direction": "inbound",
+    "from_number": "+16165559026",
+    "duration_sec": 239,
+    "result": "booked",
+    "started_at": "2026-05-29T16:12:00Z"
+  },
+  {
+    "id": "RC-00356",
+    "direction": "inbound",
+    "from_number": "+16165555188",
+    "duration_sec": 187,
+    "result": "booked",
+    "started_at": "2026-05-29T08:02:00Z"
+  },
+  {
+    "id": "RC-00357",
+    "direction": "outbound",
+    "from_number": "+16165551514",
+    "duration_sec": 112,
+    "result": "missed",
+    "started_at": "2026-05-29T14:16:00Z"
+  },
+  {
+    "id": "RC-00358",
+    "direction": "outbound",
+    "from_number": "+16165553195",
+    "duration_sec": 253,
+    "result": "info",
+    "started_at": "2026-05-29T10:40:00Z"
+  },
+  {
+    "id": "RC-00359",
+    "direction": "inbound",
+    "from_number": "+16165553999",
+    "duration_sec": 109,
+    "result": "booked",
+    "started_at": "2026-05-29T10:16:00Z"
+  },
+  {
+    "id": "RC-00360",
+    "direction": "outbound",
+    "from_number": "+16165557545",
+    "duration_sec": 164,
+    "result": "booked",
+    "started_at": "2026-05-30T10:11:00Z"
+  },
+  {
+    "id": "RC-00361",
+    "direction": "inbound",
+    "from_number": "+16165553061",
+    "duration_sec": 202,
+    "result": "booked",
+    "started_at": "2026-05-30T17:22:00Z"
+  },
+  {
+    "id": "RC-00362",
+    "direction": "inbound",
+    "from_number": "+16165559685",
+    "duration_sec": 199,
+    "result": "voicemail",
+    "started_at": "2026-05-30T07:59:00Z"
+  },
+  {
+    "id": "RC-00363",
+    "direction": "inbound",
+    "from_number": "+16165555860",
+    "duration_sec": 220,
+    "result": "missed",
+    "started_at": "2026-05-30T11:04:00Z"
+  },
+  {
+    "id": "RC-00364",
+    "direction": "inbound",
+    "from_number": "+16165556137",
+    "duration_sec": 214,
+    "result": "booked",
+    "started_at": "2026-05-30T10:33:00Z"
+  },
+  {
+    "id": "RC-00365",
+    "direction": "inbound",
+    "from_number": "+16165552001",
+    "duration_sec": 228,
+    "result": "booked",
+    "started_at": "2026-05-30T11:39:00Z"
+  },
+  {
+    "id": "RC-00366",
+    "direction": "inbound",
+    "from_number": "+16165552571",
+    "duration_sec": 241,
+    "result": "voicemail",
+    "started_at": "2026-05-30T15:05:00Z"
+  },
+  {
+    "id": "RC-00367",
+    "direction": "inbound",
+    "from_number": "+16165556299",
+    "duration_sec": 300,
+    "result": "booked",
+    "started_at": "2026-05-30T17:22:00Z"
+  },
+  {
+    "id": "RC-00368",
+    "direction": "inbound",
+    "from_number": "+16165559993",
+    "duration_sec": 243,
+    "result": "voicemail",
+    "started_at": "2026-05-30T14:45:00Z"
+  },
+  {
+    "id": "RC-00369",
+    "direction": "inbound",
+    "from_number": "+16165552265",
+    "duration_sec": 165,
+    "result": "missed",
+    "started_at": "2026-05-31T09:12:00Z"
+  },
+  {
+    "id": "RC-00370",
+    "direction": "inbound",
+    "from_number": "+16165552314",
+    "duration_sec": 152,
+    "result": "booked",
+    "started_at": "2026-05-31T12:46:00Z"
+  },
+  {
+    "id": "RC-00371",
+    "direction": "inbound",
+    "from_number": "+16165554549",
+    "duration_sec": 90,
+    "result": "booked",
+    "started_at": "2026-05-31T08:26:00Z"
+  },
+  {
+    "id": "RC-00372",
+    "direction": "inbound",
+    "from_number": "+16165555870",
+    "duration_sec": 188,
+    "result": "info",
+    "started_at": "2026-05-31T10:06:00Z"
+  },
+  {
+    "id": "RC-00373",
+    "direction": "inbound",
+    "from_number": "+16165557271",
+    "duration_sec": 279,
+    "result": "booked",
+    "started_at": "2026-05-31T15:18:00Z"
+  },
+  {
+    "id": "RC-00374",
+    "direction": "outbound",
+    "from_number": "+16165551039",
+    "duration_sec": 65,
+    "result": "booked",
+    "started_at": "2026-05-31T10:52:00Z"
+  },
+  {
+    "id": "RC-00375",
+    "direction": "inbound",
+    "from_number": "+16165556898",
+    "duration_sec": 162,
+    "result": "booked",
+    "started_at": "2026-05-31T14:17:00Z"
+  },
+  {
+    "id": "RC-00376",
+    "direction": "inbound",
+    "from_number": "+16165552532",
+    "duration_sec": 280,
+    "result": "booked",
+    "started_at": "2026-05-31T07:35:00Z"
+  },
+  {
+    "id": "RC-00377",
+    "direction": "inbound",
+    "from_number": "+16165552758",
+    "duration_sec": 212,
+    "result": "info",
+    "started_at": "2026-05-31T14:55:00Z"
+  },
+  {
+    "id": "RC-00378",
+    "direction": "inbound",
+    "from_number": "+16165557904",
+    "duration_sec": 109,
+    "result": "booked",
+    "started_at": "2026-06-01T08:29:00Z"
+  },
+  {
+    "id": "RC-00379",
+    "direction": "inbound",
+    "from_number": "+16165554972",
+    "duration_sec": 207,
+    "result": "booked",
+    "started_at": "2026-06-01T18:12:00Z"
+  },
+  {
+    "id": "RC-00380",
+    "direction": "inbound",
+    "from_number": "+16165555705",
+    "duration_sec": 173,
+    "result": "info",
+    "started_at": "2026-06-01T15:34:00Z"
+  },
+  {
+    "id": "RC-00381",
+    "direction": "outbound",
+    "from_number": "+16165551003",
+    "duration_sec": 256,
+    "result": "voicemail",
+    "started_at": "2026-06-01T13:22:00Z"
+  },
+  {
+    "id": "RC-00382",
+    "direction": "inbound",
+    "from_number": "+16165553310",
+    "duration_sec": 133,
+    "result": "booked",
+    "started_at": "2026-06-01T15:02:00Z"
+  },
+  {
+    "id": "RC-00383",
+    "direction": "inbound",
+    "from_number": "+16165551234",
+    "duration_sec": 147,
+    "result": "voicemail",
+    "started_at": "2026-06-01T07:16:00Z"
+  },
+  {
+    "id": "RC-00384",
+    "direction": "inbound",
+    "from_number": "+16165558629",
+    "duration_sec": 285,
+    "result": "booked",
+    "started_at": "2026-06-01T17:28:00Z"
+  },
+  {
+    "id": "RC-00385",
+    "direction": "inbound",
+    "from_number": "+16165552963",
+    "duration_sec": 167,
+    "result": "info",
+    "started_at": "2026-06-01T18:30:00Z"
+  },
+  {
+    "id": "RC-00386",
+    "direction": "inbound",
+    "from_number": "+16165556939",
+    "duration_sec": 201,
+    "result": "info",
+    "started_at": "2026-06-01T12:09:00Z"
+  },
+  {
+    "id": "RC-00387",
+    "direction": "outbound",
+    "from_number": "+16165558161",
+    "duration_sec": 111,
+    "result": "info",
+    "started_at": "2026-06-01T17:28:00Z"
+  },
+  {
+    "id": "RC-00388",
+    "direction": "outbound",
+    "from_number": "+16165554190",
+    "duration_sec": 60,
+    "result": "booked",
+    "started_at": "2026-06-01T08:50:00Z"
+  },
+  {
+    "id": "RC-00389",
+    "direction": "inbound",
+    "from_number": "+16165551430",
+    "duration_sec": 15,
+    "result": "booked",
+    "started_at": "2026-06-01T11:56:00Z"
+  },
+  {
+    "id": "RC-00390",
+    "direction": "inbound",
+    "from_number": "+16165559086",
+    "duration_sec": 177,
+    "result": "voicemail",
+    "started_at": "2026-06-01T12:51:00Z"
+  },
+  {
+    "id": "RC-00391",
+    "direction": "outbound",
+    "from_number": "+16165558797",
+    "duration_sec": 193,
+    "result": "booked",
+    "started_at": "2026-06-01T13:19:00Z"
+  },
+  {
+    "id": "RC-00392",
+    "direction": "inbound",
+    "from_number": "+16165557060",
+    "duration_sec": 306,
+    "result": "missed",
+    "started_at": "2026-06-01T08:40:00Z"
+  },
+  {
+    "id": "RC-00393",
+    "direction": "inbound",
+    "from_number": "+16165552187",
+    "duration_sec": 156,
+    "result": "missed",
+    "started_at": "2026-06-01T18:42:00Z"
+  },
+  {
+    "id": "RC-00394",
+    "direction": "outbound",
+    "from_number": "+16165555569",
+    "duration_sec": 105,
+    "result": "info",
+    "started_at": "2026-06-01T17:51:00Z"
+  },
+  {
+    "id": "RC-00395",
+    "direction": "inbound",
+    "from_number": "+16165555161",
+    "duration_sec": 132,
+    "result": "booked",
+    "started_at": "2026-06-01T14:41:00Z"
+  },
+  {
+    "id": "RC-00396",
+    "direction": "inbound",
+    "from_number": "+16165558729",
+    "duration_sec": 311,
+    "result": "missed",
+    "started_at": "2026-06-01T10:24:00Z"
+  },
+  {
+    "id": "RC-00397",
+    "direction": "inbound",
+    "from_number": "+16165552519",
+    "duration_sec": 201,
+    "result": "info",
+    "started_at": "2026-06-01T15:39:00Z"
+  },
+  {
+    "id": "RC-00398",
+    "direction": "inbound",
+    "from_number": "+16165552107",
+    "duration_sec": 128,
+    "result": "booked",
+    "started_at": "2026-06-01T14:52:00Z"
+  },
+  {
+    "id": "RC-00399",
+    "direction": "inbound",
+    "from_number": "+16165555610",
+    "duration_sec": 188,
+    "result": "missed",
+    "started_at": "2026-06-01T11:39:00Z"
+  },
+  {
+    "id": "RC-00400",
+    "direction": "outbound",
+    "from_number": "+16165553839",
+    "duration_sec": 183,
+    "result": "booked",
+    "started_at": "2026-06-01T16:27:00Z"
+  },
+  {
+    "id": "RC-00401",
+    "direction": "inbound",
+    "from_number": "+16165557359",
+    "duration_sec": 35,
+    "result": "booked",
+    "started_at": "2026-06-01T12:07:00Z"
+  },
+  {
+    "id": "RC-00402",
+    "direction": "outbound",
+    "from_number": "+16165558995",
+    "duration_sec": 109,
+    "result": "missed",
+    "started_at": "2026-06-01T07:10:00Z"
+  },
+  {
+    "id": "RC-00403",
+    "direction": "inbound",
+    "from_number": "+16165551333",
+    "duration_sec": 242,
+    "result": "missed",
+    "started_at": "2026-06-01T10:47:00Z"
+  },
+  {
+    "id": "RC-00404",
+    "direction": "inbound",
+    "from_number": "+16165557895",
+    "duration_sec": 286,
+    "result": "info",
+    "started_at": "2026-06-01T15:06:00Z"
+  },
+  {
+    "id": "RC-00405",
+    "direction": "outbound",
+    "from_number": "+16165553273",
+    "duration_sec": 113,
+    "result": "booked",
+    "started_at": "2026-06-02T18:20:00Z"
+  },
+  {
+    "id": "RC-00406",
+    "direction": "inbound",
+    "from_number": "+16165557631",
+    "duration_sec": 221,
+    "result": "booked",
+    "started_at": "2026-06-02T12:11:00Z"
+  },
+  {
+    "id": "RC-00407",
+    "direction": "inbound",
+    "from_number": "+16165557475",
+    "duration_sec": 93,
+    "result": "booked",
+    "started_at": "2026-06-02T13:51:00Z"
+  },
+  {
+    "id": "RC-00408",
+    "direction": "outbound",
+    "from_number": "+16165552144",
+    "duration_sec": 15,
+    "result": "booked",
+    "started_at": "2026-06-02T12:59:00Z"
+  },
+  {
+    "id": "RC-00409",
+    "direction": "outbound",
+    "from_number": "+16165556627",
+    "duration_sec": 224,
+    "result": "booked",
+    "started_at": "2026-06-02T08:11:00Z"
+  },
+  {
+    "id": "RC-00410",
+    "direction": "outbound",
+    "from_number": "+16165553913",
+    "duration_sec": 185,
+    "result": "booked",
+    "started_at": "2026-06-02T07:00:00Z"
+  },
+  {
+    "id": "RC-00411",
+    "direction": "outbound",
+    "from_number": "+16165554214",
+    "duration_sec": 215,
+    "result": "voicemail",
+    "started_at": "2026-06-02T09:34:00Z"
+  },
+  {
+    "id": "RC-00412",
+    "direction": "inbound",
+    "from_number": "+16165556189",
+    "duration_sec": 282,
+    "result": "voicemail",
+    "started_at": "2026-06-02T17:15:00Z"
+  },
+  {
+    "id": "RC-00413",
+    "direction": "inbound",
+    "from_number": "+16165552604",
+    "duration_sec": 130,
+    "result": "booked",
+    "started_at": "2026-06-02T15:50:00Z"
+  },
+  {
+    "id": "RC-00414",
+    "direction": "inbound",
+    "from_number": "+16165554113",
+    "duration_sec": 250,
+    "result": "booked",
+    "started_at": "2026-06-02T07:09:00Z"
+  },
+  {
+    "id": "RC-00415",
+    "direction": "inbound",
+    "from_number": "+16165556542",
+    "duration_sec": 142,
+    "result": "info",
+    "started_at": "2026-06-02T17:53:00Z"
+  },
+  {
+    "id": "RC-00416",
+    "direction": "inbound",
+    "from_number": "+16165553863",
+    "duration_sec": 264,
+    "result": "booked",
+    "started_at": "2026-06-02T13:20:00Z"
+  },
+  {
+    "id": "RC-00417",
+    "direction": "inbound",
+    "from_number": "+16165554840",
+    "duration_sec": 249,
+    "result": "booked",
+    "started_at": "2026-06-02T14:00:00Z"
+  },
+  {
+    "id": "RC-00418",
+    "direction": "inbound",
+    "from_number": "+16165553899",
+    "duration_sec": 241,
+    "result": "booked",
+    "started_at": "2026-06-02T12:45:00Z"
+  },
+  {
+    "id": "RC-00419",
+    "direction": "inbound",
+    "from_number": "+16165552117",
+    "duration_sec": 127,
+    "result": "voicemail",
+    "started_at": "2026-06-02T18:52:00Z"
+  },
+  {
+    "id": "RC-00420",
+    "direction": "inbound",
+    "from_number": "+16165551962",
+    "duration_sec": 73,
+    "result": "booked",
+    "started_at": "2026-06-03T07:27:00Z"
+  },
+  {
+    "id": "RC-00421",
+    "direction": "inbound",
+    "from_number": "+16165557475",
+    "duration_sec": 226,
+    "result": "booked",
+    "started_at": "2026-06-03T15:34:00Z"
+  },
+  {
+    "id": "RC-00422",
+    "direction": "inbound",
+    "from_number": "+16165556707",
+    "duration_sec": 197,
+    "result": "booked",
+    "started_at": "2026-06-03T08:43:00Z"
+  },
+  {
+    "id": "RC-00423",
+    "direction": "inbound",
+    "from_number": "+16165553784",
+    "duration_sec": 171,
+    "result": "missed",
+    "started_at": "2026-06-03T13:57:00Z"
+  },
+  {
+    "id": "RC-00424",
+    "direction": "inbound",
+    "from_number": "+16165552879",
+    "duration_sec": 171,
+    "result": "missed",
+    "started_at": "2026-06-03T17:23:00Z"
+  },
+  {
+    "id": "RC-00425",
+    "direction": "inbound",
+    "from_number": "+16165552731",
+    "duration_sec": 183,
+    "result": "info",
+    "started_at": "2026-06-03T15:51:00Z"
+  },
+  {
+    "id": "RC-00426",
+    "direction": "inbound",
+    "from_number": "+16165557421",
+    "duration_sec": 226,
+    "result": "booked",
+    "started_at": "2026-06-03T07:40:00Z"
+  },
+  {
+    "id": "RC-00427",
+    "direction": "inbound",
+    "from_number": "+16165552715",
+    "duration_sec": 161,
+    "result": "booked",
+    "started_at": "2026-06-03T18:44:00Z"
+  },
+  {
+    "id": "RC-00428",
+    "direction": "outbound",
+    "from_number": "+16165557239",
+    "duration_sec": 178,
+    "result": "booked",
+    "started_at": "2026-06-03T07:06:00Z"
+  },
+  {
+    "id": "RC-00429",
+    "direction": "inbound",
+    "from_number": "+16165553334",
+    "duration_sec": 200,
+    "result": "missed",
+    "started_at": "2026-06-03T14:11:00Z"
+  },
+  {
+    "id": "RC-00430",
+    "direction": "outbound",
+    "from_number": "+16165553478",
+    "duration_sec": 329,
+    "result": "voicemail",
+    "started_at": "2026-06-03T18:55:00Z"
+  },
+  {
+    "id": "RC-00431",
+    "direction": "outbound",
+    "from_number": "+16165554530",
+    "duration_sec": 215,
+    "result": "booked",
+    "started_at": "2026-06-03T07:44:00Z"
+  },
+  {
+    "id": "RC-00432",
+    "direction": "outbound",
+    "from_number": "+16165559466",
+    "duration_sec": 254,
+    "result": "booked",
+    "started_at": "2026-06-03T16:46:00Z"
+  },
+  {
+    "id": "RC-00433",
+    "direction": "inbound",
+    "from_number": "+16165558801",
+    "duration_sec": 232,
+    "result": "booked",
+    "started_at": "2026-06-03T13:36:00Z"
+  },
+  {
+    "id": "RC-00434",
+    "direction": "inbound",
+    "from_number": "+16165553070",
+    "duration_sec": 231,
+    "result": "info",
+    "started_at": "2026-06-03T11:34:00Z"
+  },
+  {
+    "id": "RC-00435",
+    "direction": "inbound",
+    "from_number": "+16165557386",
+    "duration_sec": 292,
+    "result": "info",
+    "started_at": "2026-06-03T09:10:00Z"
+  },
+  {
+    "id": "RC-00436",
+    "direction": "outbound",
+    "from_number": "+16165559815",
+    "duration_sec": 282,
+    "result": "booked",
+    "started_at": "2026-06-03T13:36:00Z"
+  },
+  {
+    "id": "RC-00437",
+    "direction": "inbound",
+    "from_number": "+16165557287",
+    "duration_sec": 286,
+    "result": "booked",
+    "started_at": "2026-06-03T08:46:00Z"
+  },
+  {
+    "id": "RC-00438",
+    "direction": "inbound",
+    "from_number": "+16165557864",
+    "duration_sec": 178,
+    "result": "info",
+    "started_at": "2026-06-03T10:54:00Z"
+  },
+  {
+    "id": "RC-00439",
+    "direction": "inbound",
+    "from_number": "+16165551006",
+    "duration_sec": 184,
+    "result": "booked",
+    "started_at": "2026-06-03T11:56:00Z"
+  },
+  {
+    "id": "RC-00440",
+    "direction": "inbound",
+    "from_number": "+16165552052",
+    "duration_sec": 121,
+    "result": "booked",
+    "started_at": "2026-06-03T11:59:00Z"
+  },
+  {
+    "id": "RC-00441",
+    "direction": "inbound",
+    "from_number": "+16165552981",
+    "duration_sec": 211,
+    "result": "booked",
+    "started_at": "2026-06-03T17:30:00Z"
+  },
+  {
+    "id": "RC-00442",
+    "direction": "outbound",
+    "from_number": "+16165555245",
+    "duration_sec": 248,
+    "result": "booked",
+    "started_at": "2026-06-03T13:17:00Z"
+  },
+  {
+    "id": "RC-00443",
+    "direction": "inbound",
+    "from_number": "+16165558069",
+    "duration_sec": 231,
+    "result": "booked",
+    "started_at": "2026-06-03T08:22:00Z"
+  },
+  {
+    "id": "RC-00444",
+    "direction": "inbound",
+    "from_number": "+16165558283",
+    "duration_sec": 126,
+    "result": "booked",
+    "started_at": "2026-06-03T07:47:00Z"
+  },
+  {
+    "id": "RC-00445",
+    "direction": "inbound",
+    "from_number": "+16165556613",
+    "duration_sec": 288,
+    "result": "voicemail",
+    "started_at": "2026-06-03T18:54:00Z"
+  },
+  {
+    "id": "RC-00446",
+    "direction": "inbound",
+    "from_number": "+16165552648",
+    "duration_sec": 197,
+    "result": "booked",
+    "started_at": "2026-06-03T11:26:00Z"
+  },
+  {
+    "id": "RC-00447",
+    "direction": "inbound",
+    "from_number": "+16165552460",
+    "duration_sec": 22,
+    "result": "booked",
+    "started_at": "2026-06-04T07:04:00Z"
+  },
+  {
+    "id": "RC-00448",
+    "direction": "inbound",
+    "from_number": "+16165552693",
+    "duration_sec": 190,
+    "result": "missed",
+    "started_at": "2026-06-04T14:12:00Z"
+  },
+  {
+    "id": "RC-00449",
+    "direction": "inbound",
+    "from_number": "+16165554411",
+    "duration_sec": 240,
+    "result": "booked",
+    "started_at": "2026-06-04T17:50:00Z"
+  },
+  {
+    "id": "RC-00450",
+    "direction": "inbound",
+    "from_number": "+16165551211",
+    "duration_sec": 197,
+    "result": "missed",
+    "started_at": "2026-06-04T16:02:00Z"
+  },
+  {
+    "id": "RC-00451",
+    "direction": "inbound",
+    "from_number": "+16165553543",
+    "duration_sec": 224,
+    "result": "booked",
+    "started_at": "2026-06-04T16:58:00Z"
+  },
+  {
+    "id": "RC-00452",
+    "direction": "inbound",
+    "from_number": "+16165554273",
+    "duration_sec": 160,
+    "result": "booked",
+    "started_at": "2026-06-04T15:38:00Z"
+  },
+  {
+    "id": "RC-00453",
+    "direction": "outbound",
+    "from_number": "+16165559472",
+    "duration_sec": 221,
+    "result": "booked",
+    "started_at": "2026-06-04T10:37:00Z"
+  },
+  {
+    "id": "RC-00454",
+    "direction": "inbound",
+    "from_number": "+16165557730",
+    "duration_sec": 250,
+    "result": "voicemail",
+    "started_at": "2026-06-04T10:22:00Z"
+  },
+  {
+    "id": "RC-00455",
+    "direction": "inbound",
+    "from_number": "+16165551296",
+    "duration_sec": 290,
+    "result": "voicemail",
+    "started_at": "2026-06-04T18:10:00Z"
+  },
+  {
+    "id": "RC-00456",
+    "direction": "inbound",
+    "from_number": "+16165559303",
+    "duration_sec": 243,
+    "result": "missed",
+    "started_at": "2026-06-04T13:15:00Z"
+  },
+  {
+    "id": "RC-00457",
+    "direction": "outbound",
+    "from_number": "+16165554468",
+    "duration_sec": 164,
+    "result": "booked",
+    "started_at": "2026-06-04T08:53:00Z"
+  },
+  {
+    "id": "RC-00458",
+    "direction": "inbound",
+    "from_number": "+16165555739",
+    "duration_sec": 189,
+    "result": "booked",
+    "started_at": "2026-06-04T16:51:00Z"
+  },
+  {
+    "id": "RC-00459",
+    "direction": "inbound",
+    "from_number": "+16165557181",
+    "duration_sec": 291,
+    "result": "voicemail",
+    "started_at": "2026-06-04T07:25:00Z"
+  },
+  {
+    "id": "RC-00460",
+    "direction": "outbound",
+    "from_number": "+16165556729",
+    "duration_sec": 180,
+    "result": "booked",
+    "started_at": "2026-06-04T16:44:00Z"
+  },
+  {
+    "id": "RC-00461",
+    "direction": "inbound",
+    "from_number": "+16165556218",
+    "duration_sec": 314,
+    "result": "booked",
+    "started_at": "2026-06-04T13:44:00Z"
+  },
+  {
+    "id": "RC-00462",
+    "direction": "inbound",
+    "from_number": "+16165554783",
+    "duration_sec": 122,
+    "result": "missed",
+    "started_at": "2026-06-04T08:24:00Z"
+  },
+  {
+    "id": "RC-00463",
+    "direction": "inbound",
+    "from_number": "+16165559368",
+    "duration_sec": 193,
+    "result": "voicemail",
+    "started_at": "2026-06-04T16:13:00Z"
+  },
+  {
+    "id": "RC-00464",
+    "direction": "inbound",
+    "from_number": "+16165555965",
+    "duration_sec": 221,
+    "result": "booked",
+    "started_at": "2026-06-04T15:08:00Z"
+  },
+  {
+    "id": "RC-00465",
+    "direction": "inbound",
+    "from_number": "+16165552591",
+    "duration_sec": 196,
+    "result": "booked",
+    "started_at": "2026-06-04T16:04:00Z"
+  },
+  {
+    "id": "RC-00466",
+    "direction": "inbound",
+    "from_number": "+16165558957",
+    "duration_sec": 268,
+    "result": "booked",
+    "started_at": "2026-06-04T16:08:00Z"
+  },
+  {
+    "id": "RC-00467",
+    "direction": "inbound",
+    "from_number": "+16165558125",
+    "duration_sec": 176,
+    "result": "booked",
+    "started_at": "2026-06-04T13:04:00Z"
+  },
+  {
+    "id": "RC-00468",
+    "direction": "outbound",
+    "from_number": "+16165558241",
+    "duration_sec": 217,
+    "result": "booked",
+    "started_at": "2026-06-04T15:11:00Z"
+  },
+  {
+    "id": "RC-00469",
+    "direction": "outbound",
+    "from_number": "+16165558791",
+    "duration_sec": 235,
+    "result": "info",
+    "started_at": "2026-06-04T07:20:00Z"
+  },
+  {
+    "id": "RC-00470",
+    "direction": "outbound",
+    "from_number": "+16165555792",
+    "duration_sec": 281,
+    "result": "booked",
+    "started_at": "2026-06-04T16:51:00Z"
+  },
+  {
+    "id": "RC-00471",
+    "direction": "inbound",
+    "from_number": "+16165556212",
+    "duration_sec": 133,
+    "result": "booked",
+    "started_at": "2026-06-04T08:52:00Z"
+  },
+  {
+    "id": "RC-00472",
+    "direction": "inbound",
+    "from_number": "+16165552907",
+    "duration_sec": 232,
+    "result": "booked",
+    "started_at": "2026-06-04T16:49:00Z"
+  },
+  {
+    "id": "RC-00473",
+    "direction": "inbound",
+    "from_number": "+16165553128",
+    "duration_sec": 113,
+    "result": "booked",
+    "started_at": "2026-06-05T15:03:00Z"
+  },
+  {
+    "id": "RC-00474",
+    "direction": "inbound",
+    "from_number": "+16165559171",
+    "duration_sec": 69,
+    "result": "booked",
+    "started_at": "2026-06-05T13:46:00Z"
+  },
+  {
+    "id": "RC-00475",
+    "direction": "outbound",
+    "from_number": "+16165559765",
+    "duration_sec": 178,
+    "result": "booked",
+    "started_at": "2026-06-05T14:07:00Z"
+  },
+  {
+    "id": "RC-00476",
+    "direction": "outbound",
+    "from_number": "+16165558057",
+    "duration_sec": 217,
+    "result": "info",
+    "started_at": "2026-06-05T15:56:00Z"
+  },
+  {
+    "id": "RC-00477",
+    "direction": "outbound",
+    "from_number": "+16165554320",
+    "duration_sec": 301,
+    "result": "booked",
+    "started_at": "2026-06-05T18:48:00Z"
+  },
+  {
+    "id": "RC-00478",
+    "direction": "inbound",
+    "from_number": "+16165551137",
+    "duration_sec": 120,
+    "result": "voicemail",
+    "started_at": "2026-06-05T11:24:00Z"
+  },
+  {
+    "id": "RC-00479",
+    "direction": "outbound",
+    "from_number": "+16165557925",
+    "duration_sec": 239,
+    "result": "booked",
+    "started_at": "2026-06-05T17:29:00Z"
+  },
+  {
+    "id": "RC-00480",
+    "direction": "inbound",
+    "from_number": "+16165551970",
+    "duration_sec": 134,
+    "result": "missed",
+    "started_at": "2026-06-05T11:04:00Z"
+  },
+  {
+    "id": "RC-00481",
+    "direction": "outbound",
+    "from_number": "+16165555090",
+    "duration_sec": 297,
+    "result": "booked",
+    "started_at": "2026-06-05T16:35:00Z"
+  },
+  {
+    "id": "RC-00482",
+    "direction": "inbound",
+    "from_number": "+16165553314",
+    "duration_sec": 81,
+    "result": "booked",
+    "started_at": "2026-06-05T12:22:00Z"
+  },
+  {
+    "id": "RC-00483",
+    "direction": "inbound",
+    "from_number": "+16165553644",
+    "duration_sec": 220,
+    "result": "missed",
+    "started_at": "2026-06-05T16:49:00Z"
+  },
+  {
+    "id": "RC-00484",
+    "direction": "inbound",
+    "from_number": "+16165551203",
+    "duration_sec": 204,
+    "result": "info",
+    "started_at": "2026-06-05T16:32:00Z"
+  },
+  {
+    "id": "RC-00485",
+    "direction": "inbound",
+    "from_number": "+16165557023",
+    "duration_sec": 343,
+    "result": "booked",
+    "started_at": "2026-06-05T09:00:00Z"
+  },
+  {
+    "id": "RC-00486",
+    "direction": "inbound",
+    "from_number": "+16165552784",
+    "duration_sec": 222,
+    "result": "booked",
+    "started_at": "2026-06-05T08:36:00Z"
+  },
+  {
+    "id": "RC-00487",
+    "direction": "outbound",
+    "from_number": "+16165559357",
+    "duration_sec": 134,
+    "result": "info",
+    "started_at": "2026-06-05T12:51:00Z"
+  },
+  {
+    "id": "RC-00488",
+    "direction": "inbound",
+    "from_number": "+16165551816",
+    "duration_sec": 198,
+    "result": "booked",
+    "started_at": "2026-06-05T18:07:00Z"
+  },
+  {
+    "id": "RC-00489",
+    "direction": "outbound",
+    "from_number": "+16165552730",
+    "duration_sec": 347,
+    "result": "booked",
+    "started_at": "2026-06-05T18:51:00Z"
+  },
+  {
+    "id": "RC-00490",
+    "direction": "inbound",
+    "from_number": "+16165555503",
+    "duration_sec": 248,
+    "result": "voicemail",
+    "started_at": "2026-06-05T13:20:00Z"
+  },
+  {
+    "id": "RC-00491",
+    "direction": "inbound",
+    "from_number": "+16165553078",
+    "duration_sec": 271,
+    "result": "info",
+    "started_at": "2026-06-05T16:35:00Z"
+  },
+  {
+    "id": "RC-00492",
+    "direction": "outbound",
+    "from_number": "+16165552854",
+    "duration_sec": 142,
+    "result": "missed",
+    "started_at": "2026-06-05T14:50:00Z"
+  },
+  {
+    "id": "RC-00493",
+    "direction": "outbound",
+    "from_number": "+16165558989",
+    "duration_sec": 178,
+    "result": "booked",
+    "started_at": "2026-06-05T17:28:00Z"
+  },
+  {
+    "id": "RC-00494",
+    "direction": "inbound",
+    "from_number": "+16165557624",
+    "duration_sec": 15,
+    "result": "booked",
+    "started_at": "2026-06-05T15:07:00Z"
+  },
+  {
+    "id": "RC-00495",
+    "direction": "inbound",
+    "from_number": "+16165559955",
+    "duration_sec": 143,
+    "result": "booked",
+    "started_at": "2026-06-05T15:28:00Z"
+  },
+  {
+    "id": "RC-00496",
+    "direction": "inbound",
+    "from_number": "+16165555801",
+    "duration_sec": 126,
+    "result": "info",
+    "started_at": "2026-06-05T13:35:00Z"
+  },
+  {
+    "id": "RC-00497",
+    "direction": "inbound",
+    "from_number": "+16165557791",
+    "duration_sec": 241,
+    "result": "info",
+    "started_at": "2026-06-05T18:28:00Z"
+  },
+  {
+    "id": "RC-00498",
+    "direction": "inbound",
+    "from_number": "+16165554741",
+    "duration_sec": 205,
+    "result": "booked",
+    "started_at": "2026-06-06T08:19:00Z"
+  },
+  {
+    "id": "RC-00499",
+    "direction": "inbound",
+    "from_number": "+16165555225",
+    "duration_sec": 169,
+    "result": "voicemail",
+    "started_at": "2026-06-06T10:04:00Z"
+  },
+  {
+    "id": "RC-00500",
+    "direction": "inbound",
+    "from_number": "+16165559550",
+    "duration_sec": 294,
+    "result": "voicemail",
+    "started_at": "2026-06-06T09:42:00Z"
+  },
+  {
+    "id": "RC-00501",
+    "direction": "inbound",
+    "from_number": "+16165551177",
+    "duration_sec": 86,
+    "result": "info",
+    "started_at": "2026-06-06T15:59:00Z"
+  },
+  {
+    "id": "RC-00502",
+    "direction": "inbound",
+    "from_number": "+16165553549",
+    "duration_sec": 239,
+    "result": "info",
+    "started_at": "2026-06-06T18:31:00Z"
+  },
+  {
+    "id": "RC-00503",
+    "direction": "outbound",
+    "from_number": "+16165552464",
+    "duration_sec": 302,
+    "result": "booked",
+    "started_at": "2026-06-06T14:43:00Z"
+  },
+  {
+    "id": "RC-00504",
+    "direction": "outbound",
+    "from_number": "+16165553738",
+    "duration_sec": 235,
+    "result": "missed",
+    "started_at": "2026-06-06T07:23:00Z"
+  },
+  {
+    "id": "RC-00505",
+    "direction": "inbound",
+    "from_number": "+16165559474",
+    "duration_sec": 154,
+    "result": "booked",
+    "started_at": "2026-06-06T16:28:00Z"
+  },
+  {
+    "id": "RC-00506",
+    "direction": "inbound",
+    "from_number": "+16165556426",
+    "duration_sec": 189,
+    "result": "info",
+    "started_at": "2026-06-06T07:13:00Z"
+  },
+  {
+    "id": "RC-00507",
+    "direction": "outbound",
+    "from_number": "+16165551359",
+    "duration_sec": 97,
+    "result": "booked",
+    "started_at": "2026-06-06T11:02:00Z"
+  },
+  {
+    "id": "RC-00508",
+    "direction": "inbound",
+    "from_number": "+16165554454",
+    "duration_sec": 129,
+    "result": "booked",
+    "started_at": "2026-06-06T16:50:00Z"
+  },
+  {
+    "id": "RC-00509",
+    "direction": "inbound",
+    "from_number": "+16165554446",
+    "duration_sec": 176,
+    "result": "booked",
+    "started_at": "2026-06-06T16:32:00Z"
+  },
+  {
+    "id": "RC-00510",
+    "direction": "inbound",
+    "from_number": "+16165559135",
+    "duration_sec": 220,
+    "result": "voicemail",
+    "started_at": "2026-06-07T17:28:00Z"
+  },
+  {
+    "id": "RC-00511",
+    "direction": "outbound",
+    "from_number": "+16165556439",
+    "duration_sec": 138,
+    "result": "voicemail",
+    "started_at": "2026-06-07T17:38:00Z"
+  },
+  {
+    "id": "RC-00512",
+    "direction": "outbound",
+    "from_number": "+16165553290",
+    "duration_sec": 377,
+    "result": "voicemail",
+    "started_at": "2026-06-07T09:12:00Z"
+  },
+  {
+    "id": "RC-00513",
+    "direction": "inbound",
+    "from_number": "+16165559987",
+    "duration_sec": 194,
+    "result": "missed",
+    "started_at": "2026-06-07T15:04:00Z"
+  },
+  {
+    "id": "RC-00514",
+    "direction": "outbound",
+    "from_number": "+16165556454",
+    "duration_sec": 198,
+    "result": "info",
+    "started_at": "2026-06-07T16:42:00Z"
+  },
+  {
+    "id": "RC-00515",
+    "direction": "inbound",
+    "from_number": "+16165559794",
+    "duration_sec": 162,
+    "result": "voicemail",
+    "started_at": "2026-06-07T12:19:00Z"
+  },
+  {
+    "id": "RC-00516",
+    "direction": "inbound",
+    "from_number": "+16165557602",
+    "duration_sec": 196,
+    "result": "booked",
+    "started_at": "2026-06-07T13:28:00Z"
+  },
+  {
+    "id": "RC-00517",
+    "direction": "inbound",
+    "from_number": "+16165552575",
+    "duration_sec": 140,
+    "result": "voicemail",
+    "started_at": "2026-06-07T08:28:00Z"
+  },
+  {
+    "id": "RC-00518",
+    "direction": "inbound",
+    "from_number": "+16165553593",
+    "duration_sec": 125,
+    "result": "info",
+    "started_at": "2026-06-07T17:11:00Z"
+  },
+  {
+    "id": "RC-00519",
+    "direction": "inbound",
+    "from_number": "+16165554988",
+    "duration_sec": 38,
+    "result": "booked",
+    "started_at": "2026-06-07T15:31:00Z"
+  },
+  {
+    "id": "RC-00520",
+    "direction": "outbound",
+    "from_number": "+16165554329",
+    "duration_sec": 277,
+    "result": "missed",
+    "started_at": "2026-06-08T10:21:00Z"
+  },
+  {
+    "id": "RC-00521",
+    "direction": "outbound",
+    "from_number": "+16165557453",
+    "duration_sec": 154,
+    "result": "booked",
+    "started_at": "2026-06-08T10:01:00Z"
+  },
+  {
+    "id": "RC-00522",
+    "direction": "inbound",
+    "from_number": "+16165551953",
+    "duration_sec": 315,
+    "result": "booked",
+    "started_at": "2026-06-08T11:46:00Z"
+  },
+  {
+    "id": "RC-00523",
+    "direction": "inbound",
+    "from_number": "+16165557093",
+    "duration_sec": 133,
+    "result": "booked",
+    "started_at": "2026-06-08T10:33:00Z"
+  },
+  {
+    "id": "RC-00524",
+    "direction": "outbound",
+    "from_number": "+16165554994",
+    "duration_sec": 210,
+    "result": "booked",
+    "started_at": "2026-06-08T13:15:00Z"
+  },
+  {
+    "id": "RC-00525",
+    "direction": "outbound",
+    "from_number": "+16165555407",
+    "duration_sec": 312,
+    "result": "booked",
+    "started_at": "2026-06-08T10:33:00Z"
+  },
+  {
+    "id": "RC-00526",
+    "direction": "outbound",
+    "from_number": "+16165552672",
+    "duration_sec": 221,
+    "result": "booked",
+    "started_at": "2026-06-08T18:36:00Z"
+  },
+  {
+    "id": "RC-00527",
+    "direction": "inbound",
+    "from_number": "+16165557240",
+    "duration_sec": 102,
+    "result": "booked",
+    "started_at": "2026-06-08T16:28:00Z"
+  },
+  {
+    "id": "RC-00528",
+    "direction": "inbound",
+    "from_number": "+16165553773",
+    "duration_sec": 309,
+    "result": "booked",
+    "started_at": "2026-06-08T09:27:00Z"
+  },
+  {
+    "id": "RC-00529",
+    "direction": "inbound",
+    "from_number": "+16165558460",
+    "duration_sec": 194,
+    "result": "missed",
+    "started_at": "2026-06-08T12:44:00Z"
+  },
+  {
+    "id": "RC-00530",
+    "direction": "inbound",
+    "from_number": "+16165554522",
+    "duration_sec": 138,
+    "result": "info",
+    "started_at": "2026-06-08T10:53:00Z"
+  },
+  {
+    "id": "RC-00531",
+    "direction": "inbound",
+    "from_number": "+16165557809",
+    "duration_sec": 83,
+    "result": "booked",
+    "started_at": "2026-06-08T15:28:00Z"
+  },
+  {
+    "id": "RC-00532",
+    "direction": "inbound",
+    "from_number": "+16165559490",
+    "duration_sec": 204,
+    "result": "missed",
+    "started_at": "2026-06-08T08:15:00Z"
+  },
+  {
+    "id": "RC-00533",
+    "direction": "inbound",
+    "from_number": "+16165557697",
+    "duration_sec": 151,
+    "result": "voicemail",
+    "started_at": "2026-06-08T18:17:00Z"
+  },
+  {
+    "id": "RC-00534",
+    "direction": "inbound",
+    "from_number": "+16165558546",
+    "duration_sec": 128,
+    "result": "booked",
+    "started_at": "2026-06-08T17:57:00Z"
+  },
+  {
+    "id": "RC-00535",
+    "direction": "inbound",
+    "from_number": "+16165551069",
+    "duration_sec": 330,
+    "result": "missed",
+    "started_at": "2026-06-08T17:24:00Z"
+  },
+  {
+    "id": "RC-00536",
+    "direction": "inbound",
+    "from_number": "+16165557428",
+    "duration_sec": 233,
+    "result": "booked",
+    "started_at": "2026-06-09T13:51:00Z"
+  },
+  {
+    "id": "RC-00537",
+    "direction": "outbound",
+    "from_number": "+16165555706",
+    "duration_sec": 157,
+    "result": "booked",
+    "started_at": "2026-06-09T13:09:00Z"
+  },
+  {
+    "id": "RC-00538",
+    "direction": "inbound",
+    "from_number": "+16165558905",
+    "duration_sec": 260,
+    "result": "info",
+    "started_at": "2026-06-09T15:23:00Z"
+  },
+  {
+    "id": "RC-00539",
+    "direction": "outbound",
+    "from_number": "+16165552050",
+    "duration_sec": 113,
+    "result": "booked",
+    "started_at": "2026-06-09T09:32:00Z"
+  },
+  {
+    "id": "RC-00540",
+    "direction": "inbound",
+    "from_number": "+16165557623",
+    "duration_sec": 256,
+    "result": "booked",
+    "started_at": "2026-06-09T15:43:00Z"
+  },
+  {
+    "id": "RC-00541",
+    "direction": "outbound",
+    "from_number": "+16165553341",
+    "duration_sec": 98,
+    "result": "voicemail",
+    "started_at": "2026-06-09T10:19:00Z"
+  },
+  {
+    "id": "RC-00542",
+    "direction": "inbound",
+    "from_number": "+16165559326",
+    "duration_sec": 241,
+    "result": "booked",
+    "started_at": "2026-06-09T17:10:00Z"
+  },
+  {
+    "id": "RC-00543",
+    "direction": "outbound",
+    "from_number": "+16165557373",
+    "duration_sec": 233,
+    "result": "booked",
+    "started_at": "2026-06-09T09:29:00Z"
+  },
+  {
+    "id": "RC-00544",
+    "direction": "inbound",
+    "from_number": "+16165557408",
+    "duration_sec": 240,
+    "result": "booked",
+    "started_at": "2026-06-09T14:03:00Z"
+  },
+  {
+    "id": "RC-00545",
+    "direction": "inbound",
+    "from_number": "+16165551842",
+    "duration_sec": 85,
+    "result": "missed",
+    "started_at": "2026-06-09T09:43:00Z"
+  },
+  {
+    "id": "RC-00546",
+    "direction": "inbound",
+    "from_number": "+16165557093",
+    "duration_sec": 106,
+    "result": "booked",
+    "started_at": "2026-06-09T09:48:00Z"
+  },
+  {
+    "id": "RC-00547",
+    "direction": "inbound",
+    "from_number": "+16165555536",
+    "duration_sec": 202,
+    "result": "voicemail",
+    "started_at": "2026-06-09T13:17:00Z"
+  },
+  {
+    "id": "RC-00548",
+    "direction": "inbound",
+    "from_number": "+16165554791",
+    "duration_sec": 59,
+    "result": "voicemail",
+    "started_at": "2026-06-09T11:27:00Z"
+  },
+  {
+    "id": "RC-00549",
+    "direction": "inbound",
+    "from_number": "+16165556281",
+    "duration_sec": 103,
+    "result": "missed",
+    "started_at": "2026-06-09T12:31:00Z"
+  },
+  {
+    "id": "RC-00550",
+    "direction": "inbound",
+    "from_number": "+16165554567",
+    "duration_sec": 294,
+    "result": "booked",
+    "started_at": "2026-06-09T16:12:00Z"
+  },
+  {
+    "id": "RC-00551",
+    "direction": "outbound",
+    "from_number": "+16165559177",
+    "duration_sec": 210,
+    "result": "voicemail",
+    "started_at": "2026-06-09T10:39:00Z"
+  },
+  {
+    "id": "RC-00552",
+    "direction": "outbound",
+    "from_number": "+16165553089",
+    "duration_sec": 157,
+    "result": "booked",
+    "started_at": "2026-06-09T18:13:00Z"
+  },
+  {
+    "id": "RC-00553",
+    "direction": "inbound",
+    "from_number": "+16165557775",
+    "duration_sec": 172,
+    "result": "booked",
+    "started_at": "2026-06-09T15:47:00Z"
+  },
+  {
+    "id": "RC-00554",
+    "direction": "inbound",
+    "from_number": "+16165555617",
+    "duration_sec": 247,
+    "result": "voicemail",
+    "started_at": "2026-06-09T18:06:00Z"
+  },
+  {
+    "id": "RC-00555",
+    "direction": "inbound",
+    "from_number": "+16165558704",
+    "duration_sec": 130,
+    "result": "booked",
+    "started_at": "2026-06-09T12:18:00Z"
+  },
+  {
+    "id": "RC-00556",
+    "direction": "inbound",
+    "from_number": "+16165551172",
+    "duration_sec": 123,
+    "result": "voicemail",
+    "started_at": "2026-06-09T13:25:00Z"
+  },
+  {
+    "id": "RC-00557",
+    "direction": "inbound",
+    "from_number": "+16165555516",
+    "duration_sec": 282,
+    "result": "info",
+    "started_at": "2026-06-09T11:10:00Z"
+  },
+  {
+    "id": "RC-00558",
+    "direction": "inbound",
+    "from_number": "+16165553744",
+    "duration_sec": 101,
+    "result": "booked",
+    "started_at": "2026-06-09T18:41:00Z"
+  },
+  {
+    "id": "RC-00559",
+    "direction": "inbound",
+    "from_number": "+16165559859",
+    "duration_sec": 272,
+    "result": "booked",
+    "started_at": "2026-06-09T10:39:00Z"
+  },
+  {
+    "id": "RC-00560",
+    "direction": "outbound",
+    "from_number": "+16165559688",
+    "duration_sec": 209,
+    "result": "info",
+    "started_at": "2026-06-10T11:58:00Z"
+  },
+  {
+    "id": "RC-00561",
+    "direction": "outbound",
+    "from_number": "+16165554385",
+    "duration_sec": 354,
+    "result": "voicemail",
+    "started_at": "2026-06-10T15:37:00Z"
+  },
+  {
+    "id": "RC-00562",
+    "direction": "outbound",
+    "from_number": "+16165552453",
+    "duration_sec": 188,
+    "result": "info",
+    "started_at": "2026-06-10T13:11:00Z"
+  },
+  {
+    "id": "RC-00563",
+    "direction": "inbound",
+    "from_number": "+16165559526",
+    "duration_sec": 206,
+    "result": "missed",
+    "started_at": "2026-06-10T16:08:00Z"
+  },
+  {
+    "id": "RC-00564",
+    "direction": "inbound",
+    "from_number": "+16165554801",
+    "duration_sec": 221,
+    "result": "missed",
+    "started_at": "2026-06-10T18:31:00Z"
+  },
+  {
+    "id": "RC-00565",
+    "direction": "inbound",
+    "from_number": "+16165555539",
+    "duration_sec": 193,
+    "result": "voicemail",
+    "started_at": "2026-06-10T09:43:00Z"
+  },
+  {
+    "id": "RC-00566",
+    "direction": "inbound",
+    "from_number": "+16165553809",
+    "duration_sec": 142,
+    "result": "booked",
+    "started_at": "2026-06-10T10:00:00Z"
+  },
+  {
+    "id": "RC-00567",
+    "direction": "inbound",
+    "from_number": "+16165551286",
+    "duration_sec": 119,
+    "result": "booked",
+    "started_at": "2026-06-10T15:41:00Z"
+  },
+  {
+    "id": "RC-00568",
+    "direction": "inbound",
+    "from_number": "+16165559194",
+    "duration_sec": 98,
+    "result": "missed",
+    "started_at": "2026-06-10T08:44:00Z"
+  },
+  {
+    "id": "RC-00569",
+    "direction": "inbound",
+    "from_number": "+16165552694",
+    "duration_sec": 151,
+    "result": "info",
+    "started_at": "2026-06-10T09:57:00Z"
+  },
+  {
+    "id": "RC-00570",
+    "direction": "outbound",
+    "from_number": "+16165552631",
+    "duration_sec": 346,
+    "result": "booked",
+    "started_at": "2026-06-10T12:35:00Z"
+  },
+  {
+    "id": "RC-00571",
+    "direction": "inbound",
+    "from_number": "+16165558952",
+    "duration_sec": 110,
+    "result": "booked",
+    "started_at": "2026-06-10T11:11:00Z"
+  },
+  {
+    "id": "RC-00572",
+    "direction": "outbound",
+    "from_number": "+16165553919",
+    "duration_sec": 211,
+    "result": "voicemail",
+    "started_at": "2026-06-10T16:17:00Z"
+  },
+  {
+    "id": "RC-00573",
+    "direction": "inbound",
+    "from_number": "+16165558293",
+    "duration_sec": 215,
+    "result": "booked",
+    "started_at": "2026-06-10T10:56:00Z"
+  },
+  {
+    "id": "RC-00574",
+    "direction": "inbound",
+    "from_number": "+16165559979",
+    "duration_sec": 301,
+    "result": "voicemail",
+    "started_at": "2026-06-10T14:14:00Z"
+  },
+  {
+    "id": "RC-00575",
+    "direction": "outbound",
+    "from_number": "+16165558927",
+    "duration_sec": 123,
+    "result": "booked",
+    "started_at": "2026-06-10T16:51:00Z"
+  },
+  {
+    "id": "RC-00576",
+    "direction": "outbound",
+    "from_number": "+16165556737",
+    "duration_sec": 199,
+    "result": "voicemail",
+    "started_at": "2026-06-10T11:11:00Z"
+  },
+  {
+    "id": "RC-00577",
+    "direction": "inbound",
+    "from_number": "+16165555103",
+    "duration_sec": 15,
+    "result": "missed",
+    "started_at": "2026-06-10T13:48:00Z"
+  },
+  {
+    "id": "RC-00578",
+    "direction": "inbound",
+    "from_number": "+16165554080",
+    "duration_sec": 320,
+    "result": "info",
+    "started_at": "2026-06-10T16:08:00Z"
+  },
+  {
+    "id": "RC-00579",
+    "direction": "inbound",
+    "from_number": "+16165555800",
+    "duration_sec": 60,
+    "result": "booked",
+    "started_at": "2026-06-10T18:29:00Z"
+  },
+  {
+    "id": "RC-00580",
+    "direction": "inbound",
+    "from_number": "+16165557299",
+    "duration_sec": 334,
+    "result": "missed",
+    "started_at": "2026-06-10T16:25:00Z"
+  },
+  {
+    "id": "RC-00581",
+    "direction": "inbound",
+    "from_number": "+16165554340",
+    "duration_sec": 158,
+    "result": "booked",
+    "started_at": "2026-06-10T17:50:00Z"
+  },
+  {
+    "id": "RC-00582",
+    "direction": "inbound",
+    "from_number": "+16165554847",
+    "duration_sec": 217,
+    "result": "booked",
+    "started_at": "2026-06-10T14:44:00Z"
+  },
+  {
+    "id": "RC-00583",
+    "direction": "inbound",
+    "from_number": "+16165553460",
+    "duration_sec": 172,
+    "result": "info",
+    "started_at": "2026-06-10T11:49:00Z"
+  },
+  {
+    "id": "RC-00584",
+    "direction": "inbound",
+    "from_number": "+16165557217",
+    "duration_sec": 224,
+    "result": "voicemail",
+    "started_at": "2026-06-10T11:27:00Z"
+  },
+  {
+    "id": "RC-00585",
+    "direction": "inbound",
+    "from_number": "+16165558900",
+    "duration_sec": 220,
+    "result": "missed",
+    "started_at": "2026-06-10T11:01:00Z"
+  },
+  {
+    "id": "RC-00586",
+    "direction": "inbound",
+    "from_number": "+16165553370",
+    "duration_sec": 222,
+    "result": "booked",
+    "started_at": "2026-06-10T17:03:00Z"
+  },
+  {
+    "id": "RC-00587",
+    "direction": "inbound",
+    "from_number": "+16165551763",
+    "duration_sec": 321,
+    "result": "voicemail",
+    "started_at": "2026-06-10T18:52:00Z"
+  },
+  {
+    "id": "RC-00588",
+    "direction": "inbound",
+    "from_number": "+16165558922",
+    "duration_sec": 177,
+    "result": "booked",
+    "started_at": "2026-06-10T12:15:00Z"
+  },
+  {
+    "id": "RC-00589",
+    "direction": "inbound",
+    "from_number": "+16165553635",
+    "duration_sec": 34,
+    "result": "info",
+    "started_at": "2026-06-11T18:44:00Z"
+  },
+  {
+    "id": "RC-00590",
+    "direction": "outbound",
+    "from_number": "+16165552695",
+    "duration_sec": 256,
+    "result": "info",
+    "started_at": "2026-06-11T09:57:00Z"
+  },
+  {
+    "id": "RC-00591",
+    "direction": "inbound",
+    "from_number": "+16165553828",
+    "duration_sec": 159,
+    "result": "booked",
+    "started_at": "2026-06-11T13:41:00Z"
+  },
+  {
+    "id": "RC-00592",
+    "direction": "outbound",
+    "from_number": "+16165553832",
+    "duration_sec": 136,
+    "result": "voicemail",
+    "started_at": "2026-06-11T09:29:00Z"
+  },
+  {
+    "id": "RC-00593",
+    "direction": "inbound",
+    "from_number": "+16165558907",
+    "duration_sec": 123,
+    "result": "booked",
+    "started_at": "2026-06-11T08:42:00Z"
+  },
+  {
+    "id": "RC-00594",
+    "direction": "inbound",
+    "from_number": "+16165557966",
+    "duration_sec": 190,
+    "result": "missed",
+    "started_at": "2026-06-11T09:26:00Z"
+  },
+  {
+    "id": "RC-00595",
+    "direction": "inbound",
+    "from_number": "+16165552973",
+    "duration_sec": 174,
+    "result": "info",
+    "started_at": "2026-06-11T09:46:00Z"
+  },
+  {
+    "id": "RC-00596",
+    "direction": "outbound",
+    "from_number": "+16165559305",
+    "duration_sec": 140,
+    "result": "missed",
+    "started_at": "2026-06-11T17:38:00Z"
+  },
+  {
+    "id": "RC-00597",
+    "direction": "inbound",
+    "from_number": "+16165555702",
+    "duration_sec": 136,
+    "result": "missed",
+    "started_at": "2026-06-11T11:29:00Z"
+  },
+  {
+    "id": "RC-00598",
+    "direction": "inbound",
+    "from_number": "+16165555445",
+    "duration_sec": 119,
+    "result": "info",
+    "started_at": "2026-06-11T17:37:00Z"
+  },
+  {
+    "id": "RC-00599",
+    "direction": "inbound",
+    "from_number": "+16165551134",
+    "duration_sec": 166,
+    "result": "missed",
+    "started_at": "2026-06-11T09:10:00Z"
+  },
+  {
+    "id": "RC-00600",
+    "direction": "inbound",
+    "from_number": "+16165554696",
+    "duration_sec": 139,
+    "result": "booked",
+    "started_at": "2026-06-11T12:44:00Z"
+  },
+  {
+    "id": "RC-00601",
+    "direction": "inbound",
+    "from_number": "+16165554126",
+    "duration_sec": 320,
+    "result": "info",
+    "started_at": "2026-06-11T18:14:00Z"
+  },
+  {
+    "id": "RC-00602",
+    "direction": "inbound",
+    "from_number": "+16165556436",
+    "duration_sec": 188,
+    "result": "missed",
+    "started_at": "2026-06-11T07:03:00Z"
+  },
+  {
+    "id": "RC-00603",
+    "direction": "inbound",
+    "from_number": "+16165558021",
+    "duration_sec": 130,
+    "result": "booked",
+    "started_at": "2026-06-11T10:56:00Z"
+  },
+  {
+    "id": "RC-00604",
+    "direction": "inbound",
+    "from_number": "+16165556537",
+    "duration_sec": 168,
+    "result": "booked",
+    "started_at": "2026-06-11T10:12:00Z"
+  },
+  {
+    "id": "RC-00605",
+    "direction": "outbound",
+    "from_number": "+16165555412",
+    "duration_sec": 236,
+    "result": "booked",
+    "started_at": "2026-06-11T11:45:00Z"
+  },
+  {
+    "id": "RC-00606",
+    "direction": "inbound",
+    "from_number": "+16165552168",
+    "duration_sec": 102,
+    "result": "info",
+    "started_at": "2026-06-11T12:11:00Z"
+  },
+  {
+    "id": "RC-00607",
+    "direction": "inbound",
+    "from_number": "+16165552180",
+    "duration_sec": 304,
+    "result": "missed",
+    "started_at": "2026-06-11T10:12:00Z"
+  },
+  {
+    "id": "RC-00608",
+    "direction": "inbound",
+    "from_number": "+16165559652",
+    "duration_sec": 261,
+    "result": "booked",
+    "started_at": "2026-06-11T15:15:00Z"
+  },
+  {
+    "id": "RC-00609",
+    "direction": "inbound",
+    "from_number": "+16165551329",
+    "duration_sec": 164,
+    "result": "missed",
+    "started_at": "2026-06-11T07:24:00Z"
+  },
+  {
+    "id": "RC-00610",
+    "direction": "outbound",
+    "from_number": "+16165553400",
+    "duration_sec": 49,
+    "result": "voicemail",
+    "started_at": "2026-06-11T08:50:00Z"
+  },
+  {
+    "id": "RC-00611",
+    "direction": "inbound",
+    "from_number": "+16165553286",
+    "duration_sec": 151,
+    "result": "voicemail",
+    "started_at": "2026-06-11T07:14:00Z"
+  },
+  {
+    "id": "RC-00612",
+    "direction": "inbound",
+    "from_number": "+16165556904",
+    "duration_sec": 226,
+    "result": "missed",
+    "started_at": "2026-06-11T16:54:00Z"
+  },
+  {
+    "id": "RC-00613",
+    "direction": "inbound",
+    "from_number": "+16165551239",
+    "duration_sec": 117,
+    "result": "booked",
+    "started_at": "2026-06-11T07:42:00Z"
+  },
+  {
+    "id": "RC-00614",
+    "direction": "inbound",
+    "from_number": "+16165551521",
+    "duration_sec": 133,
+    "result": "info",
+    "started_at": "2026-06-12T15:50:00Z"
+  },
+  {
+    "id": "RC-00615",
+    "direction": "inbound",
+    "from_number": "+16165554153",
+    "duration_sec": 179,
+    "result": "booked",
+    "started_at": "2026-06-12T18:43:00Z"
+  },
+  {
+    "id": "RC-00616",
+    "direction": "inbound",
+    "from_number": "+16165552127",
+    "duration_sec": 142,
+    "result": "booked",
+    "started_at": "2026-06-12T18:21:00Z"
+  },
+  {
+    "id": "RC-00617",
+    "direction": "inbound",
+    "from_number": "+16165553133",
+    "duration_sec": 347,
+    "result": "booked",
+    "started_at": "2026-06-12T18:44:00Z"
+  },
+  {
+    "id": "RC-00618",
+    "direction": "inbound",
+    "from_number": "+16165557632",
+    "duration_sec": 54,
+    "result": "info",
+    "started_at": "2026-06-12T11:42:00Z"
+  },
+  {
+    "id": "RC-00619",
+    "direction": "inbound",
+    "from_number": "+16165555181",
+    "duration_sec": 69,
+    "result": "voicemail",
+    "started_at": "2026-06-12T14:32:00Z"
+  },
+  {
+    "id": "RC-00620",
+    "direction": "inbound",
+    "from_number": "+16165553568",
+    "duration_sec": 188,
+    "result": "booked",
+    "started_at": "2026-06-12T10:03:00Z"
+  },
+  {
+    "id": "RC-00621",
+    "direction": "outbound",
+    "from_number": "+16165558704",
+    "duration_sec": 408,
+    "result": "info",
+    "started_at": "2026-06-12T18:26:00Z"
+  },
+  {
+    "id": "RC-00622",
+    "direction": "inbound",
+    "from_number": "+16165559170",
+    "duration_sec": 162,
+    "result": "missed",
+    "started_at": "2026-06-12T12:37:00Z"
+  },
+  {
+    "id": "RC-00623",
+    "direction": "inbound",
+    "from_number": "+16165552461",
+    "duration_sec": 158,
+    "result": "missed",
+    "started_at": "2026-06-12T16:49:00Z"
+  },
+  {
+    "id": "RC-00624",
+    "direction": "outbound",
+    "from_number": "+16165552560",
+    "duration_sec": 187,
+    "result": "booked",
+    "started_at": "2026-06-12T12:28:00Z"
+  },
+  {
+    "id": "RC-00625",
+    "direction": "outbound",
+    "from_number": "+16165556234",
+    "duration_sec": 135,
+    "result": "info",
+    "started_at": "2026-06-12T16:49:00Z"
+  },
+  {
+    "id": "RC-00626",
+    "direction": "outbound",
+    "from_number": "+16165558983",
+    "duration_sec": 248,
+    "result": "booked",
+    "started_at": "2026-06-12T13:28:00Z"
+  },
+  {
+    "id": "RC-00627",
+    "direction": "inbound",
+    "from_number": "+16165552615",
+    "duration_sec": 242,
+    "result": "booked",
+    "started_at": "2026-06-12T15:48:00Z"
+  },
+  {
+    "id": "RC-00628",
+    "direction": "inbound",
+    "from_number": "+16165559820",
+    "duration_sec": 181,
+    "result": "booked",
+    "started_at": "2026-06-12T13:39:00Z"
+  },
+  {
+    "id": "RC-00629",
+    "direction": "inbound",
+    "from_number": "+16165551527",
+    "duration_sec": 80,
+    "result": "missed",
+    "started_at": "2026-06-12T08:28:00Z"
+  },
+  {
+    "id": "RC-00630",
+    "direction": "inbound",
+    "from_number": "+16165554772",
+    "duration_sec": 202,
+    "result": "booked",
+    "started_at": "2026-06-12T09:09:00Z"
+  },
+  {
+    "id": "RC-00631",
+    "direction": "inbound",
+    "from_number": "+16165556459",
+    "duration_sec": 255,
+    "result": "booked",
+    "started_at": "2026-06-12T17:19:00Z"
+  },
+  {
+    "id": "RC-00632",
+    "direction": "inbound",
+    "from_number": "+16165557657",
+    "duration_sec": 155,
+    "result": "voicemail",
+    "started_at": "2026-06-12T18:28:00Z"
+  },
+  {
+    "id": "RC-00633",
+    "direction": "outbound",
+    "from_number": "+16165553517",
+    "duration_sec": 329,
+    "result": "booked",
+    "started_at": "2026-06-13T15:13:00Z"
+  },
+  {
+    "id": "RC-00634",
+    "direction": "inbound",
+    "from_number": "+16165556285",
+    "duration_sec": 165,
+    "result": "booked",
+    "started_at": "2026-06-13T12:56:00Z"
+  },
+  {
+    "id": "RC-00635",
+    "direction": "inbound",
+    "from_number": "+16165558088",
+    "duration_sec": 294,
+    "result": "info",
+    "started_at": "2026-06-13T18:10:00Z"
+  },
+  {
+    "id": "RC-00636",
+    "direction": "inbound",
+    "from_number": "+16165555565",
+    "duration_sec": 100,
+    "result": "booked",
+    "started_at": "2026-06-13T07:33:00Z"
+  },
+  {
+    "id": "RC-00637",
+    "direction": "inbound",
+    "from_number": "+16165559213",
+    "duration_sec": 243,
+    "result": "booked",
+    "started_at": "2026-06-13T12:28:00Z"
+  },
+  {
+    "id": "RC-00638",
+    "direction": "inbound",
+    "from_number": "+16165552588",
+    "duration_sec": 169,
+    "result": "missed",
+    "started_at": "2026-06-13T07:09:00Z"
+  },
+  {
+    "id": "RC-00639",
+    "direction": "inbound",
+    "from_number": "+16165553086",
+    "duration_sec": 248,
+    "result": "booked",
+    "started_at": "2026-06-14T12:36:00Z"
+  },
+  {
+    "id": "RC-00640",
+    "direction": "inbound",
+    "from_number": "+16165557479",
+    "duration_sec": 221,
+    "result": "voicemail",
+    "started_at": "2026-06-14T12:01:00Z"
+  },
+  {
+    "id": "RC-00641",
+    "direction": "inbound",
+    "from_number": "+16165551115",
+    "duration_sec": 354,
+    "result": "info",
+    "started_at": "2026-06-14T13:03:00Z"
+  },
+  {
+    "id": "RC-00642",
+    "direction": "inbound",
+    "from_number": "+16165557054",
+    "duration_sec": 86,
+    "result": "booked",
+    "started_at": "2026-06-14T10:00:00Z"
+  },
+  {
+    "id": "RC-00643",
+    "direction": "inbound",
+    "from_number": "+16165558521",
+    "duration_sec": 135,
+    "result": "missed",
+    "started_at": "2026-06-14T07:31:00Z"
+  },
+  {
+    "id": "RC-00644",
+    "direction": "inbound",
+    "from_number": "+16165558490",
+    "duration_sec": 273,
+    "result": "info",
+    "started_at": "2026-06-14T14:15:00Z"
+  },
+  {
+    "id": "RC-00645",
+    "direction": "inbound",
+    "from_number": "+16165558776",
+    "duration_sec": 191,
+    "result": "info",
+    "started_at": "2026-06-14T11:19:00Z"
+  },
+  {
+    "id": "RC-00646",
+    "direction": "inbound",
+    "from_number": "+16165554371",
+    "duration_sec": 216,
+    "result": "voicemail",
+    "started_at": "2026-06-15T07:39:00Z"
+  },
+  {
+    "id": "RC-00647",
+    "direction": "inbound",
+    "from_number": "+16165555922",
+    "duration_sec": 203,
+    "result": "voicemail",
+    "started_at": "2026-06-15T12:19:00Z"
+  },
+  {
+    "id": "RC-00648",
+    "direction": "inbound",
+    "from_number": "+16165559777",
+    "duration_sec": 161,
+    "result": "booked",
+    "started_at": "2026-06-15T16:49:00Z"
+  },
+  {
+    "id": "RC-00649",
+    "direction": "inbound",
+    "from_number": "+16165558614",
+    "duration_sec": 126,
+    "result": "booked",
+    "started_at": "2026-06-15T08:38:00Z"
+  },
+  {
+    "id": "RC-00650",
+    "direction": "inbound",
+    "from_number": "+16165554602",
+    "duration_sec": 80,
+    "result": "booked",
+    "started_at": "2026-06-15T14:01:00Z"
+  },
+  {
+    "id": "RC-00651",
+    "direction": "outbound",
+    "from_number": "+16165554275",
+    "duration_sec": 139,
+    "result": "booked",
+    "started_at": "2026-06-15T18:53:00Z"
+  },
+  {
+    "id": "RC-00652",
+    "direction": "outbound",
+    "from_number": "+16165553043",
+    "duration_sec": 194,
+    "result": "booked",
+    "started_at": "2026-06-15T17:48:00Z"
+  },
+  {
+    "id": "RC-00653",
+    "direction": "inbound",
+    "from_number": "+16165552818",
+    "duration_sec": 252,
+    "result": "missed",
+    "started_at": "2026-06-15T07:15:00Z"
+  },
+  {
+    "id": "RC-00654",
+    "direction": "inbound",
+    "from_number": "+16165558151",
+    "duration_sec": 148,
+    "result": "booked",
+    "started_at": "2026-06-15T15:26:00Z"
+  },
+  {
+    "id": "RC-00655",
+    "direction": "inbound",
+    "from_number": "+16165555960",
+    "duration_sec": 190,
+    "result": "voicemail",
+    "started_at": "2026-06-15T15:50:00Z"
+  },
+  {
+    "id": "RC-00656",
+    "direction": "inbound",
+    "from_number": "+16165557552",
+    "duration_sec": 134,
+    "result": "info",
+    "started_at": "2026-06-15T13:02:00Z"
+  },
+  {
+    "id": "RC-00657",
+    "direction": "inbound",
+    "from_number": "+16165555128",
+    "duration_sec": 314,
+    "result": "info",
+    "started_at": "2026-06-15T17:15:00Z"
+  },
+  {
+    "id": "RC-00658",
+    "direction": "inbound",
+    "from_number": "+16165558435",
+    "duration_sec": 235,
+    "result": "booked",
+    "started_at": "2026-06-15T12:06:00Z"
+  },
+  {
+    "id": "RC-00659",
+    "direction": "inbound",
+    "from_number": "+16165553052",
+    "duration_sec": 251,
+    "result": "booked",
+    "started_at": "2026-06-15T13:18:00Z"
+  },
+  {
+    "id": "RC-00660",
+    "direction": "outbound",
+    "from_number": "+16165555746",
+    "duration_sec": 117,
+    "result": "missed",
+    "started_at": "2026-06-15T14:03:00Z"
+  },
+  {
+    "id": "RC-00661",
+    "direction": "inbound",
+    "from_number": "+16165551658",
+    "duration_sec": 260,
+    "result": "missed",
+    "started_at": "2026-06-15T18:39:00Z"
+  },
+  {
+    "id": "RC-00662",
+    "direction": "inbound",
+    "from_number": "+16165555075",
+    "duration_sec": 220,
+    "result": "booked",
+    "started_at": "2026-06-15T08:09:00Z"
+  },
+  {
+    "id": "RC-00663",
+    "direction": "inbound",
+    "from_number": "+16165553264",
+    "duration_sec": 290,
+    "result": "booked",
+    "started_at": "2026-06-15T11:47:00Z"
+  },
+  {
+    "id": "RC-00664",
+    "direction": "inbound",
+    "from_number": "+16165558563",
+    "duration_sec": 309,
+    "result": "voicemail",
+    "started_at": "2026-06-15T09:35:00Z"
+  },
+  {
+    "id": "RC-00665",
+    "direction": "inbound",
+    "from_number": "+16165552172",
+    "duration_sec": 74,
+    "result": "booked",
+    "started_at": "2026-06-15T15:31:00Z"
+  },
+  {
+    "id": "RC-00666",
+    "direction": "inbound",
+    "from_number": "+16165553824",
+    "duration_sec": 114,
+    "result": "booked",
+    "started_at": "2026-06-15T12:40:00Z"
+  },
+  {
+    "id": "RC-00667",
+    "direction": "inbound",
+    "from_number": "+16165559562",
+    "duration_sec": 175,
+    "result": "missed",
+    "started_at": "2026-06-15T07:01:00Z"
+  }
+]

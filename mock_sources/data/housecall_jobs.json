@@ -1,0 +1,3647 @@
+[
+  {
+    "id": "HCP-J-00001",
+    "customer_name": "C. Maddox",
+    "service": "Leak Repair",
+    "technician": "Sam Olsen",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-11T08:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00002",
+    "customer_name": "E. Frost",
+    "service": "Water Heater Repair",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-11T13:00:00Z",
+    "line_total": 347.93
+  },
+  {
+    "id": "HCP-J-00003",
+    "customer_name": "D. Maddox",
+    "service": "Water Heater Repair",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-11T08:30:00Z",
+    "line_total": 394.28
+  },
+  {
+    "id": "HCP-J-00004",
+    "customer_name": "B. Frost",
+    "service": "Water Heater Repair",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-11T09:00:00Z",
+    "line_total": 404.23
+  },
+  {
+    "id": "HCP-J-00005",
+    "customer_name": "B. Maddox",
+    "service": "Water Heater Repair",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-11T10:30:00Z",
+    "line_total": 416.91
+  },
+  {
+    "id": "HCP-J-00006",
+    "customer_name": "D. Pope",
+    "service": "Faucet & Fixture",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-11T14:30:00Z",
+    "line_total": 256.6
+  },
+  {
+    "id": "HCP-J-00007",
+    "customer_name": "A. Vance",
+    "service": "Sump Pump Install",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-11T12:30:00Z",
+    "line_total": 1353.93
+  },
+  {
+    "id": "HCP-J-00008",
+    "customer_name": "B. Vance",
+    "service": "Leak Repair",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-11T13:00:00Z",
+    "line_total": 322.23
+  },
+  {
+    "id": "HCP-J-00009",
+    "customer_name": "D. Frost",
+    "service": "Water Heater Repair",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-11T10:30:00Z",
+    "line_total": 341.32
+  },
+  {
+    "id": "HCP-J-00010",
+    "customer_name": "D. Vance",
+    "service": "Leak Repair",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-11T08:30:00Z",
+    "line_total": 310.94
+  },
+  {
+    "id": "HCP-J-00011",
+    "customer_name": "D. Reed",
+    "service": "Faucet & Fixture",
+    "technician": "Tara Quinn",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-11T11:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00012",
+    "customer_name": "D. Vance",
+    "service": "Leak Repair",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-11T12:00:00Z",
+    "line_total": 369.47
+  },
+  {
+    "id": "HCP-J-00013",
+    "customer_name": "E. Vance",
+    "service": "Leak Repair",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-11T16:30:00Z",
+    "line_total": 359.09
+  },
+  {
+    "id": "HCP-J-00014",
+    "customer_name": "A. Pope",
+    "service": "Emergency Call-Out",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-05-11T13:00:00Z",
+    "line_total": 553.32
+  },
+  {
+    "id": "HCP-J-00015",
+    "customer_name": "A. Frost",
+    "service": "Emergency Call-Out",
+    "technician": "Sam Olsen",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-12T15:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00016",
+    "customer_name": "B. Cole",
+    "service": "Faucet & Fixture",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-05-12T10:30:00Z",
+    "line_total": 173.58
+  },
+  {
+    "id": "HCP-J-00017",
+    "customer_name": "A. Frost",
+    "service": "Sump Pump Install",
+    "technician": "Tara Quinn",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-12T14:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00018",
+    "customer_name": "A. Frost",
+    "service": "Water Heater Repair",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-12T11:30:00Z",
+    "line_total": 418.24
+  },
+  {
+    "id": "HCP-J-00019",
+    "customer_name": "A. Pope",
+    "service": "Drain Cleaning",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-12T12:00:00Z",
+    "line_total": 225.33
+  },
+  {
+    "id": "HCP-J-00020",
+    "customer_name": "D. Reed",
+    "service": "Drain Cleaning",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-12T10:00:00Z",
+    "line_total": 202.78
+  },
+  {
+    "id": "HCP-J-00021",
+    "customer_name": "A. Pope",
+    "service": "Faucet & Fixture",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-12T16:00:00Z",
+    "line_total": 230.2
+  },
+  {
+    "id": "HCP-J-00022",
+    "customer_name": "D. Vance",
+    "service": "Emergency Call-Out",
+    "technician": "Priya Nair",
+    "status": "canceled",
+    "scheduled_at": "2026-05-12T15:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00023",
+    "customer_name": "A. Vance",
+    "service": "Emergency Call-Out",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-12T11:00:00Z",
+    "line_total": 599.57
+  },
+  {
+    "id": "HCP-J-00024",
+    "customer_name": "B. Reed",
+    "service": "Drain Cleaning",
+    "technician": "Sam Olsen",
+    "status": "canceled",
+    "scheduled_at": "2026-05-12T08:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00025",
+    "customer_name": "D. Pope",
+    "service": "Leak Repair",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-12T10:30:00Z",
+    "line_total": 356.46
+  },
+  {
+    "id": "HCP-J-00026",
+    "customer_name": "B. Cole",
+    "service": "Sump Pump Install",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-12T10:00:00Z",
+    "line_total": 1257.46
+  },
+  {
+    "id": "HCP-J-00027",
+    "customer_name": "C. Maddox",
+    "service": "Emergency Call-Out",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-12T12:30:00Z",
+    "line_total": 473.92
+  },
+  {
+    "id": "HCP-J-00028",
+    "customer_name": "B. Pope",
+    "service": "Sump Pump Install",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-05-13T13:30:00Z",
+    "line_total": 1222.59
+  },
+  {
+    "id": "HCP-J-00029",
+    "customer_name": "B. Maddox",
+    "service": "Leak Repair",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-13T08:30:00Z",
+    "line_total": 272.1
+  },
+  {
+    "id": "HCP-J-00030",
+    "customer_name": "D. Maddox",
+    "service": "Water Heater Repair",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-13T14:00:00Z",
+    "line_total": 488.43
+  },
+  {
+    "id": "HCP-J-00031",
+    "customer_name": "B. Maddox",
+    "service": "Faucet & Fixture",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-13T11:30:00Z",
+    "line_total": 304.9
+  },
+  {
+    "id": "HCP-J-00032",
+    "customer_name": "C. Maddox",
+    "service": "Sump Pump Install",
+    "technician": "Sam Olsen",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-13T12:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00033",
+    "customer_name": "D. Vance",
+    "service": "Drain Cleaning",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-13T10:30:00Z",
+    "line_total": 228.59
+  },
+  {
+    "id": "HCP-J-00034",
+    "customer_name": "E. Cole",
+    "service": "Faucet & Fixture",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-13T15:30:00Z",
+    "line_total": 203.4
+  },
+  {
+    "id": "HCP-J-00035",
+    "customer_name": "D. Pope",
+    "service": "Faucet & Fixture",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-13T16:30:00Z",
+    "line_total": 188.4
+  },
+  {
+    "id": "HCP-J-00036",
+    "customer_name": "A. Reed",
+    "service": "Emergency Call-Out",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-13T16:00:00Z",
+    "line_total": 359.65
+  },
+  {
+    "id": "HCP-J-00037",
+    "customer_name": "D. Frost",
+    "service": "Sump Pump Install",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-05-13T15:30:00Z",
+    "line_total": 1422.22
+  },
+  {
+    "id": "HCP-J-00038",
+    "customer_name": "B. Reed",
+    "service": "Water Heater Repair",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-13T15:00:00Z",
+    "line_total": 515.09
+  },
+  {
+    "id": "HCP-J-00039",
+    "customer_name": "E. Vance",
+    "service": "Leak Repair",
+    "technician": "Dana Pratt",
+    "status": "canceled",
+    "scheduled_at": "2026-05-14T12:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00040",
+    "customer_name": "D. Maddox",
+    "service": "Faucet & Fixture",
+    "technician": "Dana Pratt",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-14T16:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00041",
+    "customer_name": "A. Maddox",
+    "service": "Emergency Call-Out",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-14T08:00:00Z",
+    "line_total": 509.84
+  },
+  {
+    "id": "HCP-J-00042",
+    "customer_name": "E. Reed",
+    "service": "Emergency Call-Out",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-14T16:30:00Z",
+    "line_total": 309.12
+  },
+  {
+    "id": "HCP-J-00043",
+    "customer_name": "B. Frost",
+    "service": "Leak Repair",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-14T16:00:00Z",
+    "line_total": 308.29
+  },
+  {
+    "id": "HCP-J-00044",
+    "customer_name": "E. Maddox",
+    "service": "Water Heater Repair",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-14T16:30:00Z",
+    "line_total": 525.99
+  },
+  {
+    "id": "HCP-J-00045",
+    "customer_name": "E. Pope",
+    "service": "Faucet & Fixture",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-14T15:30:00Z",
+    "line_total": 201.53
+  },
+  {
+    "id": "HCP-J-00046",
+    "customer_name": "B. Cole",
+    "service": "Drain Cleaning",
+    "technician": "Marco Ruiz",
+    "status": "canceled",
+    "scheduled_at": "2026-05-14T10:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00047",
+    "customer_name": "C. Frost",
+    "service": "Emergency Call-Out",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-14T13:30:00Z",
+    "line_total": 432.3
+  },
+  {
+    "id": "HCP-J-00048",
+    "customer_name": "C. Cole",
+    "service": "Emergency Call-Out",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-14T11:00:00Z",
+    "line_total": 321.72
+  },
+  {
+    "id": "HCP-J-00049",
+    "customer_name": "D. Frost",
+    "service": "Sump Pump Install",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-14T08:00:00Z",
+    "line_total": 990.84
+  },
+  {
+    "id": "HCP-J-00050",
+    "customer_name": "E. Reed",
+    "service": "Emergency Call-Out",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-14T14:30:00Z",
+    "line_total": 534.82
+  },
+  {
+    "id": "HCP-J-00051",
+    "customer_name": "B. Maddox",
+    "service": "Sump Pump Install",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-14T14:00:00Z",
+    "line_total": 1182.1
+  },
+  {
+    "id": "HCP-J-00052",
+    "customer_name": "E. Pope",
+    "service": "Leak Repair",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-14T16:00:00Z",
+    "line_total": 296.02
+  },
+  {
+    "id": "HCP-J-00053",
+    "customer_name": "A. Cole",
+    "service": "Water Heater Repair",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-14T10:30:00Z",
+    "line_total": 334.69
+  },
+  {
+    "id": "HCP-J-00054",
+    "customer_name": "E. Frost",
+    "service": "Drain Cleaning",
+    "technician": "Tara Quinn",
+    "status": "canceled",
+    "scheduled_at": "2026-05-14T14:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00055",
+    "customer_name": "E. Pope",
+    "service": "Drain Cleaning",
+    "technician": "Tara Quinn",
+    "status": "canceled",
+    "scheduled_at": "2026-05-15T16:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00056",
+    "customer_name": "A. Maddox",
+    "service": "Faucet & Fixture",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-15T12:30:00Z",
+    "line_total": 240.41
+  },
+  {
+    "id": "HCP-J-00057",
+    "customer_name": "C. Cole",
+    "service": "Faucet & Fixture",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-15T08:00:00Z",
+    "line_total": 197.84
+  },
+  {
+    "id": "HCP-J-00058",
+    "customer_name": "C. Cole",
+    "service": "Sump Pump Install",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-15T11:30:00Z",
+    "line_total": 1050.05
+  },
+  {
+    "id": "HCP-J-00059",
+    "customer_name": "D. Cole",
+    "service": "Faucet & Fixture",
+    "technician": "Lewis Kang",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-15T09:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00060",
+    "customer_name": "D. Vance",
+    "service": "Faucet & Fixture",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-15T12:30:00Z",
+    "line_total": 185.28
+  },
+  {
+    "id": "HCP-J-00061",
+    "customer_name": "D. Frost",
+    "service": "Leak Repair",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-15T12:30:00Z",
+    "line_total": 256.6
+  },
+  {
+    "id": "HCP-J-00062",
+    "customer_name": "E. Vance",
+    "service": "Faucet & Fixture",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-15T13:00:00Z",
+    "line_total": 188.33
+  },
+  {
+    "id": "HCP-J-00063",
+    "customer_name": "D. Reed",
+    "service": "Drain Cleaning",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-15T08:30:00Z",
+    "line_total": 222.07
+  },
+  {
+    "id": "HCP-J-00064",
+    "customer_name": "D. Maddox",
+    "service": "Water Heater Repair",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-15T15:00:00Z",
+    "line_total": 480.84
+  },
+  {
+    "id": "HCP-J-00065",
+    "customer_name": "B. Cole",
+    "service": "Sump Pump Install",
+    "technician": "Marco Ruiz",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-15T16:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00066",
+    "customer_name": "B. Cole",
+    "service": "Emergency Call-Out",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-15T13:00:00Z",
+    "line_total": 576.98
+  },
+  {
+    "id": "HCP-J-00067",
+    "customer_name": "A. Reed",
+    "service": "Leak Repair",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-15T14:00:00Z",
+    "line_total": 374.34
+  },
+  {
+    "id": "HCP-J-00068",
+    "customer_name": "E. Cole",
+    "service": "Leak Repair",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-15T15:00:00Z",
+    "line_total": 335.91
+  },
+  {
+    "id": "HCP-J-00069",
+    "customer_name": "A. Frost",
+    "service": "Drain Cleaning",
+    "technician": "Lewis Kang",
+    "status": "canceled",
+    "scheduled_at": "2026-05-15T12:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00070",
+    "customer_name": "D. Maddox",
+    "service": "Drain Cleaning",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-15T14:00:00Z",
+    "line_total": 204.18
+  },
+  {
+    "id": "HCP-J-00071",
+    "customer_name": "B. Cole",
+    "service": "Emergency Call-Out",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-16T08:30:00Z",
+    "line_total": 579.73
+  },
+  {
+    "id": "HCP-J-00072",
+    "customer_name": "A. Maddox",
+    "service": "Water Heater Repair",
+    "technician": "Sam Olsen",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-16T12:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00073",
+    "customer_name": "B. Reed",
+    "service": "Drain Cleaning",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-16T14:00:00Z",
+    "line_total": 217.05
+  },
+  {
+    "id": "HCP-J-00074",
+    "customer_name": "C. Maddox",
+    "service": "Drain Cleaning",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-16T10:00:00Z",
+    "line_total": 204.78
+  },
+  {
+    "id": "HCP-J-00075",
+    "customer_name": "E. Cole",
+    "service": "Water Heater Repair",
+    "technician": "Sam Olsen",
+    "status": "canceled",
+    "scheduled_at": "2026-05-16T08:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00076",
+    "customer_name": "B. Reed",
+    "service": "Faucet & Fixture",
+    "technician": "Tara Quinn",
+    "status": "canceled",
+    "scheduled_at": "2026-05-16T10:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00077",
+    "customer_name": "A. Vance",
+    "service": "Sump Pump Install",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-05-17T10:00:00Z",
+    "line_total": 1325.8
+  },
+  {
+    "id": "HCP-J-00078",
+    "customer_name": "D. Vance",
+    "service": "Emergency Call-Out",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-17T13:30:00Z",
+    "line_total": 356.88
+  },
+  {
+    "id": "HCP-J-00079",
+    "customer_name": "B. Maddox",
+    "service": "Faucet & Fixture",
+    "technician": "Priya Nair",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-17T16:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00080",
+    "customer_name": "C. Maddox",
+    "service": "Emergency Call-Out",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-17T15:30:00Z",
+    "line_total": 477.4
+  },
+  {
+    "id": "HCP-J-00081",
+    "customer_name": "D. Pope",
+    "service": "Water Heater Repair",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-18T13:30:00Z",
+    "line_total": 461.11
+  },
+  {
+    "id": "HCP-J-00082",
+    "customer_name": "E. Reed",
+    "service": "Drain Cleaning",
+    "technician": "Priya Nair",
+    "status": "canceled",
+    "scheduled_at": "2026-05-18T09:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00083",
+    "customer_name": "D. Cole",
+    "service": "Faucet & Fixture",
+    "technician": "Tara Quinn",
+    "status": "canceled",
+    "scheduled_at": "2026-05-18T13:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00084",
+    "customer_name": "B. Pope",
+    "service": "Faucet & Fixture",
+    "technician": "Dana Pratt",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-18T08:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00085",
+    "customer_name": "A. Pope",
+    "service": "Water Heater Repair",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-18T11:00:00Z",
+    "line_total": 339.93
+  },
+  {
+    "id": "HCP-J-00086",
+    "customer_name": "D. Frost",
+    "service": "Faucet & Fixture",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-18T15:30:00Z",
+    "line_total": 171.95
+  },
+  {
+    "id": "HCP-J-00087",
+    "customer_name": "D. Reed",
+    "service": "Faucet & Fixture",
+    "technician": "Dana Pratt",
+    "status": "canceled",
+    "scheduled_at": "2026-05-18T15:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00088",
+    "customer_name": "A. Frost",
+    "service": "Emergency Call-Out",
+    "technician": "Sam Olsen",
+    "status": "canceled",
+    "scheduled_at": "2026-05-18T11:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00089",
+    "customer_name": "D. Vance",
+    "service": "Water Heater Repair",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-18T15:00:00Z",
+    "line_total": 326.89
+  },
+  {
+    "id": "HCP-J-00090",
+    "customer_name": "A. Reed",
+    "service": "Leak Repair",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-18T10:00:00Z",
+    "line_total": 289.81
+  },
+  {
+    "id": "HCP-J-00091",
+    "customer_name": "E. Pope",
+    "service": "Emergency Call-Out",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-19T11:30:00Z",
+    "line_total": 346.18
+  },
+  {
+    "id": "HCP-J-00092",
+    "customer_name": "C. Vance",
+    "service": "Emergency Call-Out",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-19T10:00:00Z",
+    "line_total": 498.9
+  },
+  {
+    "id": "HCP-J-00093",
+    "customer_name": "C. Cole",
+    "service": "Water Heater Repair",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-19T16:00:00Z",
+    "line_total": 458.86
+  },
+  {
+    "id": "HCP-J-00094",
+    "customer_name": "A. Maddox",
+    "service": "Sump Pump Install",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-19T09:30:00Z",
+    "line_total": 1307.74
+  },
+  {
+    "id": "HCP-J-00095",
+    "customer_name": "B. Vance",
+    "service": "Emergency Call-Out",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-19T15:00:00Z",
+    "line_total": 358.44
+  },
+  {
+    "id": "HCP-J-00096",
+    "customer_name": "B. Pope",
+    "service": "Leak Repair",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-19T15:00:00Z",
+    "line_total": 246.71
+  },
+  {
+    "id": "HCP-J-00097",
+    "customer_name": "B. Cole",
+    "service": "Leak Repair",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-05-19T11:30:00Z",
+    "line_total": 343.85
+  },
+  {
+    "id": "HCP-J-00098",
+    "customer_name": "E. Maddox",
+    "service": "Faucet & Fixture",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-05-19T08:30:00Z",
+    "line_total": 242.1
+  },
+  {
+    "id": "HCP-J-00099",
+    "customer_name": "D. Frost",
+    "service": "Leak Repair",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-19T16:30:00Z",
+    "line_total": 381.19
+  },
+  {
+    "id": "HCP-J-00100",
+    "customer_name": "E. Frost",
+    "service": "Sump Pump Install",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-19T10:30:00Z",
+    "line_total": 1133.98
+  },
+  {
+    "id": "HCP-J-00101",
+    "customer_name": "C. Maddox",
+    "service": "Emergency Call-Out",
+    "technician": "Priya Nair",
+    "status": "canceled",
+    "scheduled_at": "2026-05-19T09:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00102",
+    "customer_name": "A. Frost",
+    "service": "Drain Cleaning",
+    "technician": "Tara Quinn",
+    "status": "canceled",
+    "scheduled_at": "2026-05-19T11:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00103",
+    "customer_name": "D. Frost",
+    "service": "Emergency Call-Out",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-19T09:30:00Z",
+    "line_total": 442.08
+  },
+  {
+    "id": "HCP-J-00104",
+    "customer_name": "B. Pope",
+    "service": "Leak Repair",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-19T14:00:00Z",
+    "line_total": 276.81
+  },
+  {
+    "id": "HCP-J-00105",
+    "customer_name": "B. Cole",
+    "service": "Leak Repair",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-19T14:30:00Z",
+    "line_total": 276.3
+  },
+  {
+    "id": "HCP-J-00106",
+    "customer_name": "C. Vance",
+    "service": "Drain Cleaning",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-20T15:30:00Z",
+    "line_total": 199.87
+  },
+  {
+    "id": "HCP-J-00107",
+    "customer_name": "C. Vance",
+    "service": "Emergency Call-Out",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-05-20T16:00:00Z",
+    "line_total": 607.52
+  },
+  {
+    "id": "HCP-J-00108",
+    "customer_name": "D. Pope",
+    "service": "Sump Pump Install",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-20T09:00:00Z",
+    "line_total": 1101.3
+  },
+  {
+    "id": "HCP-J-00109",
+    "customer_name": "B. Cole",
+    "service": "Drain Cleaning",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-20T13:30:00Z",
+    "line_total": 230.32
+  },
+  {
+    "id": "HCP-J-00110",
+    "customer_name": "B. Vance",
+    "service": "Faucet & Fixture",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-05-20T15:30:00Z",
+    "line_total": 252.5
+  },
+  {
+    "id": "HCP-J-00111",
+    "customer_name": "A. Vance",
+    "service": "Sump Pump Install",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-20T15:00:00Z",
+    "line_total": 1027.15
+  },
+  {
+    "id": "HCP-J-00112",
+    "customer_name": "A. Maddox",
+    "service": "Leak Repair",
+    "technician": "Sam Olsen",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-20T09:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00113",
+    "customer_name": "D. Pope",
+    "service": "Drain Cleaning",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-20T16:30:00Z",
+    "line_total": 216.79
+  },
+  {
+    "id": "HCP-J-00114",
+    "customer_name": "C. Cole",
+    "service": "Leak Repair",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-20T13:30:00Z",
+    "line_total": 241.73
+  },
+  {
+    "id": "HCP-J-00115",
+    "customer_name": "B. Reed",
+    "service": "Faucet & Fixture",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-20T14:30:00Z",
+    "line_total": 177.4
+  },
+  {
+    "id": "HCP-J-00116",
+    "customer_name": "E. Maddox",
+    "service": "Leak Repair",
+    "technician": "Sam Olsen",
+    "status": "canceled",
+    "scheduled_at": "2026-05-20T08:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00117",
+    "customer_name": "D. Vance",
+    "service": "Sump Pump Install",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-21T09:00:00Z",
+    "line_total": 1346.98
+  },
+  {
+    "id": "HCP-J-00118",
+    "customer_name": "A. Vance",
+    "service": "Drain Cleaning",
+    "technician": "Priya Nair",
+    "status": "canceled",
+    "scheduled_at": "2026-05-21T14:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00119",
+    "customer_name": "A. Vance",
+    "service": "Leak Repair",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-21T08:00:00Z",
+    "line_total": 328.14
+  },
+  {
+    "id": "HCP-J-00120",
+    "customer_name": "E. Pope",
+    "service": "Leak Repair",
+    "technician": "Priya Nair",
+    "status": "canceled",
+    "scheduled_at": "2026-05-21T13:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00121",
+    "customer_name": "A. Vance",
+    "service": "Emergency Call-Out",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-21T08:30:00Z",
+    "line_total": 399.09
+  },
+  {
+    "id": "HCP-J-00122",
+    "customer_name": "A. Cole",
+    "service": "Faucet & Fixture",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-21T16:30:00Z",
+    "line_total": 305.29
+  },
+  {
+    "id": "HCP-J-00123",
+    "customer_name": "B. Cole",
+    "service": "Water Heater Repair",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-21T08:00:00Z",
+    "line_total": 442.84
+  },
+  {
+    "id": "HCP-J-00124",
+    "customer_name": "D. Maddox",
+    "service": "Drain Cleaning",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-05-21T11:00:00Z",
+    "line_total": 231.56
+  },
+  {
+    "id": "HCP-J-00125",
+    "customer_name": "C. Reed",
+    "service": "Water Heater Repair",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-21T11:00:00Z",
+    "line_total": 343.12
+  },
+  {
+    "id": "HCP-J-00126",
+    "customer_name": "A. Pope",
+    "service": "Faucet & Fixture",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-21T15:30:00Z",
+    "line_total": 276.69
+  },
+  {
+    "id": "HCP-J-00127",
+    "customer_name": "D. Maddox",
+    "service": "Drain Cleaning",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-21T15:00:00Z",
+    "line_total": 229.67
+  },
+  {
+    "id": "HCP-J-00128",
+    "customer_name": "D. Vance",
+    "service": "Water Heater Repair",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-21T11:00:00Z",
+    "line_total": 513.49
+  },
+  {
+    "id": "HCP-J-00129",
+    "customer_name": "E. Vance",
+    "service": "Water Heater Repair",
+    "technician": "Dana Pratt",
+    "status": "canceled",
+    "scheduled_at": "2026-05-21T15:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00130",
+    "customer_name": "D. Reed",
+    "service": "Sump Pump Install",
+    "technician": "Sam Olsen",
+    "status": "canceled",
+    "scheduled_at": "2026-05-21T16:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00131",
+    "customer_name": "C. Cole",
+    "service": "Water Heater Repair",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-21T15:00:00Z",
+    "line_total": 446.52
+  },
+  {
+    "id": "HCP-J-00132",
+    "customer_name": "E. Pope",
+    "service": "Drain Cleaning",
+    "technician": "Sam Olsen",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-22T15:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00133",
+    "customer_name": "C. Maddox",
+    "service": "Leak Repair",
+    "technician": "Priya Nair",
+    "status": "canceled",
+    "scheduled_at": "2026-05-22T16:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00134",
+    "customer_name": "B. Pope",
+    "service": "Emergency Call-Out",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-22T14:30:00Z",
+    "line_total": 459.75
+  },
+  {
+    "id": "HCP-J-00135",
+    "customer_name": "B. Frost",
+    "service": "Emergency Call-Out",
+    "technician": "Dana Pratt",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-22T12:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00136",
+    "customer_name": "C. Cole",
+    "service": "Water Heater Repair",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-22T09:00:00Z",
+    "line_total": 431.45
+  },
+  {
+    "id": "HCP-J-00137",
+    "customer_name": "B. Pope",
+    "service": "Faucet & Fixture",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-22T12:30:00Z",
+    "line_total": 191.93
+  },
+  {
+    "id": "HCP-J-00138",
+    "customer_name": "C. Reed",
+    "service": "Faucet & Fixture",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-22T08:00:00Z",
+    "line_total": 252.64
+  },
+  {
+    "id": "HCP-J-00139",
+    "customer_name": "C. Reed",
+    "service": "Emergency Call-Out",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-22T14:30:00Z",
+    "line_total": 476.16
+  },
+  {
+    "id": "HCP-J-00140",
+    "customer_name": "A. Frost",
+    "service": "Water Heater Repair",
+    "technician": "Priya Nair",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-22T11:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00141",
+    "customer_name": "E. Cole",
+    "service": "Faucet & Fixture",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-22T16:30:00Z",
+    "line_total": 293.67
+  },
+  {
+    "id": "HCP-J-00142",
+    "customer_name": "D. Maddox",
+    "service": "Water Heater Repair",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-22T13:00:00Z",
+    "line_total": 409.95
+  },
+  {
+    "id": "HCP-J-00143",
+    "customer_name": "E. Maddox",
+    "service": "Water Heater Repair",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-22T12:00:00Z",
+    "line_total": 516.13
+  },
+  {
+    "id": "HCP-J-00144",
+    "customer_name": "B. Vance",
+    "service": "Faucet & Fixture",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-22T12:00:00Z",
+    "line_total": 193.77
+  },
+  {
+    "id": "HCP-J-00145",
+    "customer_name": "B. Reed",
+    "service": "Emergency Call-Out",
+    "technician": "Sam Olsen",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-22T15:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00146",
+    "customer_name": "C. Vance",
+    "service": "Sump Pump Install",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-05-22T12:00:00Z",
+    "line_total": 995.03
+  },
+  {
+    "id": "HCP-J-00147",
+    "customer_name": "A. Reed",
+    "service": "Faucet & Fixture",
+    "technician": "Dana Pratt",
+    "status": "canceled",
+    "scheduled_at": "2026-05-22T16:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00148",
+    "customer_name": "C. Reed",
+    "service": "Emergency Call-Out",
+    "technician": "Lewis Kang",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-23T13:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00149",
+    "customer_name": "E. Vance",
+    "service": "Sump Pump Install",
+    "technician": "Dana Pratt",
+    "status": "canceled",
+    "scheduled_at": "2026-05-23T15:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00150",
+    "customer_name": "B. Cole",
+    "service": "Emergency Call-Out",
+    "technician": "Dana Pratt",
+    "status": "canceled",
+    "scheduled_at": "2026-05-23T08:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00151",
+    "customer_name": "E. Cole",
+    "service": "Leak Repair",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-23T16:30:00Z",
+    "line_total": 288.67
+  },
+  {
+    "id": "HCP-J-00152",
+    "customer_name": "E. Frost",
+    "service": "Water Heater Repair",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-23T12:30:00Z",
+    "line_total": 517.61
+  },
+  {
+    "id": "HCP-J-00153",
+    "customer_name": "E. Maddox",
+    "service": "Water Heater Repair",
+    "technician": "Dana Pratt",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-24T14:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00154",
+    "customer_name": "A. Maddox",
+    "service": "Drain Cleaning",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-24T14:00:00Z",
+    "line_total": 208.91
+  },
+  {
+    "id": "HCP-J-00155",
+    "customer_name": "E. Maddox",
+    "service": "Water Heater Repair",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-05-24T10:30:00Z",
+    "line_total": 417.75
+  },
+  {
+    "id": "HCP-J-00156",
+    "customer_name": "C. Vance",
+    "service": "Sump Pump Install",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-24T16:30:00Z",
+    "line_total": 1253.34
+  },
+  {
+    "id": "HCP-J-00157",
+    "customer_name": "E. Reed",
+    "service": "Sump Pump Install",
+    "technician": "Dana Pratt",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-25T15:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00158",
+    "customer_name": "E. Maddox",
+    "service": "Water Heater Repair",
+    "technician": "Sam Olsen",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-25T15:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00159",
+    "customer_name": "D. Pope",
+    "service": "Emergency Call-Out",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-25T09:30:00Z",
+    "line_total": 516.26
+  },
+  {
+    "id": "HCP-J-00160",
+    "customer_name": "E. Reed",
+    "service": "Drain Cleaning",
+    "technician": "Dana Pratt",
+    "status": "canceled",
+    "scheduled_at": "2026-05-25T12:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00161",
+    "customer_name": "B. Maddox",
+    "service": "Water Heater Repair",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-25T11:30:00Z",
+    "line_total": 362.52
+  },
+  {
+    "id": "HCP-J-00162",
+    "customer_name": "B. Pope",
+    "service": "Emergency Call-Out",
+    "technician": "Marco Ruiz",
+    "status": "canceled",
+    "scheduled_at": "2026-05-25T16:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00163",
+    "customer_name": "D. Reed",
+    "service": "Sump Pump Install",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-25T15:00:00Z",
+    "line_total": 1294.63
+  },
+  {
+    "id": "HCP-J-00164",
+    "customer_name": "B. Cole",
+    "service": "Water Heater Repair",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-25T11:30:00Z",
+    "line_total": 367.95
+  },
+  {
+    "id": "HCP-J-00165",
+    "customer_name": "E. Vance",
+    "service": "Drain Cleaning",
+    "technician": "Dana Pratt",
+    "status": "canceled",
+    "scheduled_at": "2026-05-25T12:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00166",
+    "customer_name": "C. Frost",
+    "service": "Water Heater Repair",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-25T12:00:00Z",
+    "line_total": 371.27
+  },
+  {
+    "id": "HCP-J-00167",
+    "customer_name": "E. Maddox",
+    "service": "Faucet & Fixture",
+    "technician": "Priya Nair",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-25T13:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00168",
+    "customer_name": "D. Reed",
+    "service": "Drain Cleaning",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-26T11:30:00Z",
+    "line_total": 209.67
+  },
+  {
+    "id": "HCP-J-00169",
+    "customer_name": "A. Pope",
+    "service": "Leak Repair",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-26T10:00:00Z",
+    "line_total": 265.61
+  },
+  {
+    "id": "HCP-J-00170",
+    "customer_name": "A. Cole",
+    "service": "Faucet & Fixture",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-26T13:30:00Z",
+    "line_total": 250.88
+  },
+  {
+    "id": "HCP-J-00171",
+    "customer_name": "B. Cole",
+    "service": "Leak Repair",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-26T11:30:00Z",
+    "line_total": 296.44
+  },
+  {
+    "id": "HCP-J-00172",
+    "customer_name": "D. Reed",
+    "service": "Water Heater Repair",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-26T14:00:00Z",
+    "line_total": 419.76
+  },
+  {
+    "id": "HCP-J-00173",
+    "customer_name": "C. Maddox",
+    "service": "Drain Cleaning",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-26T09:00:00Z",
+    "line_total": 219.6
+  },
+  {
+    "id": "HCP-J-00174",
+    "customer_name": "B. Cole",
+    "service": "Drain Cleaning",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-26T16:00:00Z",
+    "line_total": 197.24
+  },
+  {
+    "id": "HCP-J-00175",
+    "customer_name": "A. Pope",
+    "service": "Emergency Call-Out",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-26T13:00:00Z",
+    "line_total": 569.58
+  },
+  {
+    "id": "HCP-J-00176",
+    "customer_name": "B. Reed",
+    "service": "Faucet & Fixture",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-05-26T16:00:00Z",
+    "line_total": 174.6
+  },
+  {
+    "id": "HCP-J-00177",
+    "customer_name": "B. Reed",
+    "service": "Drain Cleaning",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-26T15:00:00Z",
+    "line_total": 220.68
+  },
+  {
+    "id": "HCP-J-00178",
+    "customer_name": "D. Maddox",
+    "service": "Drain Cleaning",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-26T09:00:00Z",
+    "line_total": 212.77
+  },
+  {
+    "id": "HCP-J-00179",
+    "customer_name": "C. Reed",
+    "service": "Water Heater Repair",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-26T13:30:00Z",
+    "line_total": 513.33
+  },
+  {
+    "id": "HCP-J-00180",
+    "customer_name": "A. Cole",
+    "service": "Leak Repair",
+    "technician": "Lewis Kang",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-27T15:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00181",
+    "customer_name": "B. Cole",
+    "service": "Emergency Call-Out",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-27T16:00:00Z",
+    "line_total": 578.79
+  },
+  {
+    "id": "HCP-J-00182",
+    "customer_name": "B. Frost",
+    "service": "Drain Cleaning",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-27T15:30:00Z",
+    "line_total": 224.93
+  },
+  {
+    "id": "HCP-J-00183",
+    "customer_name": "B. Maddox",
+    "service": "Faucet & Fixture",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-27T13:30:00Z",
+    "line_total": 270.12
+  },
+  {
+    "id": "HCP-J-00184",
+    "customer_name": "C. Reed",
+    "service": "Emergency Call-Out",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-27T14:00:00Z",
+    "line_total": 304.54
+  },
+  {
+    "id": "HCP-J-00185",
+    "customer_name": "A. Pope",
+    "service": "Drain Cleaning",
+    "technician": "Tara Quinn",
+    "status": "canceled",
+    "scheduled_at": "2026-05-27T16:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00186",
+    "customer_name": "D. Frost",
+    "service": "Water Heater Repair",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-27T13:00:00Z",
+    "line_total": 467.43
+  },
+  {
+    "id": "HCP-J-00187",
+    "customer_name": "D. Reed",
+    "service": "Leak Repair",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-27T13:00:00Z",
+    "line_total": 316.61
+  },
+  {
+    "id": "HCP-J-00188",
+    "customer_name": "B. Vance",
+    "service": "Emergency Call-Out",
+    "technician": "Lewis Kang",
+    "status": "canceled",
+    "scheduled_at": "2026-05-27T14:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00189",
+    "customer_name": "C. Vance",
+    "service": "Faucet & Fixture",
+    "technician": "Dana Pratt",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-27T12:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00190",
+    "customer_name": "E. Reed",
+    "service": "Emergency Call-Out",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-27T10:00:00Z",
+    "line_total": 308.69
+  },
+  {
+    "id": "HCP-J-00191",
+    "customer_name": "E. Cole",
+    "service": "Faucet & Fixture",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-27T09:30:00Z",
+    "line_total": 312.53
+  },
+  {
+    "id": "HCP-J-00192",
+    "customer_name": "C. Vance",
+    "service": "Leak Repair",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-27T09:30:00Z",
+    "line_total": 369.41
+  },
+  {
+    "id": "HCP-J-00193",
+    "customer_name": "B. Frost",
+    "service": "Drain Cleaning",
+    "technician": "Dana Pratt",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-27T12:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00194",
+    "customer_name": "E. Cole",
+    "service": "Emergency Call-Out",
+    "technician": "Marco Ruiz",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-28T11:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00195",
+    "customer_name": "B. Reed",
+    "service": "Drain Cleaning",
+    "technician": "Dana Pratt",
+    "status": "canceled",
+    "scheduled_at": "2026-05-28T12:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00196",
+    "customer_name": "E. Pope",
+    "service": "Leak Repair",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-28T09:30:00Z",
+    "line_total": 391.41
+  },
+  {
+    "id": "HCP-J-00197",
+    "customer_name": "E. Reed",
+    "service": "Water Heater Repair",
+    "technician": "Tara Quinn",
+    "status": "canceled",
+    "scheduled_at": "2026-05-28T16:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00198",
+    "customer_name": "A. Frost",
+    "service": "Faucet & Fixture",
+    "technician": "Sam Olsen",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-28T16:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00199",
+    "customer_name": "D. Reed",
+    "service": "Drain Cleaning",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-28T13:00:00Z",
+    "line_total": 197.32
+  },
+  {
+    "id": "HCP-J-00200",
+    "customer_name": "A. Frost",
+    "service": "Emergency Call-Out",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-05-28T08:00:00Z",
+    "line_total": 603.27
+  },
+  {
+    "id": "HCP-J-00201",
+    "customer_name": "E. Maddox",
+    "service": "Sump Pump Install",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-05-28T11:30:00Z",
+    "line_total": 1029.76
+  },
+  {
+    "id": "HCP-J-00202",
+    "customer_name": "D. Maddox",
+    "service": "Leak Repair",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-28T13:30:00Z",
+    "line_total": 408.11
+  },
+  {
+    "id": "HCP-J-00203",
+    "customer_name": "A. Reed",
+    "service": "Faucet & Fixture",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-28T16:30:00Z",
+    "line_total": 235.49
+  },
+  {
+    "id": "HCP-J-00204",
+    "customer_name": "B. Frost",
+    "service": "Emergency Call-Out",
+    "technician": "Priya Nair",
+    "status": "canceled",
+    "scheduled_at": "2026-05-28T10:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00205",
+    "customer_name": "E. Maddox",
+    "service": "Emergency Call-Out",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-05-28T14:30:00Z",
+    "line_total": 502.25
+  },
+  {
+    "id": "HCP-J-00206",
+    "customer_name": "C. Maddox",
+    "service": "Leak Repair",
+    "technician": "Priya Nair",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-28T13:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00207",
+    "customer_name": "E. Cole",
+    "service": "Drain Cleaning",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-28T10:30:00Z",
+    "line_total": 239.02
+  },
+  {
+    "id": "HCP-J-00208",
+    "customer_name": "E. Cole",
+    "service": "Water Heater Repair",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-05-29T09:00:00Z",
+    "line_total": 516.18
+  },
+  {
+    "id": "HCP-J-00209",
+    "customer_name": "D. Pope",
+    "service": "Drain Cleaning",
+    "technician": "Sam Olsen",
+    "status": "canceled",
+    "scheduled_at": "2026-05-29T11:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00210",
+    "customer_name": "E. Cole",
+    "service": "Emergency Call-Out",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-29T09:00:00Z",
+    "line_total": 532.59
+  },
+  {
+    "id": "HCP-J-00211",
+    "customer_name": "A. Reed",
+    "service": "Sump Pump Install",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-29T14:30:00Z",
+    "line_total": 1264.47
+  },
+  {
+    "id": "HCP-J-00212",
+    "customer_name": "A. Reed",
+    "service": "Water Heater Repair",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-29T15:00:00Z",
+    "line_total": 529.12
+  },
+  {
+    "id": "HCP-J-00213",
+    "customer_name": "A. Cole",
+    "service": "Leak Repair",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-29T10:00:00Z",
+    "line_total": 296.12
+  },
+  {
+    "id": "HCP-J-00214",
+    "customer_name": "A. Maddox",
+    "service": "Water Heater Repair",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-29T13:00:00Z",
+    "line_total": 505.96
+  },
+  {
+    "id": "HCP-J-00215",
+    "customer_name": "B. Reed",
+    "service": "Faucet & Fixture",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-29T12:00:00Z",
+    "line_total": 272.1
+  },
+  {
+    "id": "HCP-J-00216",
+    "customer_name": "A. Reed",
+    "service": "Sump Pump Install",
+    "technician": "Dana Pratt",
+    "status": "canceled",
+    "scheduled_at": "2026-05-29T13:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00217",
+    "customer_name": "B. Maddox",
+    "service": "Sump Pump Install",
+    "technician": "Marco Ruiz",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-29T12:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00218",
+    "customer_name": "B. Maddox",
+    "service": "Emergency Call-Out",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-05-29T13:00:00Z",
+    "line_total": 469.83
+  },
+  {
+    "id": "HCP-J-00219",
+    "customer_name": "D. Frost",
+    "service": "Faucet & Fixture",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-05-29T12:30:00Z",
+    "line_total": 242.54
+  },
+  {
+    "id": "HCP-J-00220",
+    "customer_name": "C. Reed",
+    "service": "Sump Pump Install",
+    "technician": "Dana Pratt",
+    "status": "canceled",
+    "scheduled_at": "2026-05-29T14:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00221",
+    "customer_name": "A. Pope",
+    "service": "Water Heater Repair",
+    "technician": "Marco Ruiz",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-30T10:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00222",
+    "customer_name": "A. Reed",
+    "service": "Leak Repair",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-30T13:00:00Z",
+    "line_total": 314.09
+  },
+  {
+    "id": "HCP-J-00223",
+    "customer_name": "B. Vance",
+    "service": "Water Heater Repair",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-30T14:00:00Z",
+    "line_total": 427.67
+  },
+  {
+    "id": "HCP-J-00224",
+    "customer_name": "D. Pope",
+    "service": "Leak Repair",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-05-30T14:30:00Z",
+    "line_total": 241.07
+  },
+  {
+    "id": "HCP-J-00225",
+    "customer_name": "D. Maddox",
+    "service": "Emergency Call-Out",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-05-30T14:00:00Z",
+    "line_total": 325.12
+  },
+  {
+    "id": "HCP-J-00226",
+    "customer_name": "D. Cole",
+    "service": "Sump Pump Install",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-05-30T15:00:00Z",
+    "line_total": 1289.47
+  },
+  {
+    "id": "HCP-J-00227",
+    "customer_name": "C. Frost",
+    "service": "Faucet & Fixture",
+    "technician": "Sam Olsen",
+    "status": "canceled",
+    "scheduled_at": "2026-05-31T08:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00228",
+    "customer_name": "E. Cole",
+    "service": "Water Heater Repair",
+    "technician": "Priya Nair",
+    "status": "scheduled",
+    "scheduled_at": "2026-05-31T12:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00229",
+    "customer_name": "E. Pope",
+    "service": "Emergency Call-Out",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-31T13:30:00Z",
+    "line_total": 329.86
+  },
+  {
+    "id": "HCP-J-00230",
+    "customer_name": "E. Frost",
+    "service": "Leak Repair",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-05-31T09:30:00Z",
+    "line_total": 329.78
+  },
+  {
+    "id": "HCP-J-00231",
+    "customer_name": "C. Maddox",
+    "service": "Water Heater Repair",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-05-31T13:00:00Z",
+    "line_total": 494.41
+  },
+  {
+    "id": "HCP-J-00232",
+    "customer_name": "A. Vance",
+    "service": "Leak Repair",
+    "technician": "Sam Olsen",
+    "status": "canceled",
+    "scheduled_at": "2026-06-01T13:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00233",
+    "customer_name": "C. Frost",
+    "service": "Sump Pump Install",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-06-01T10:30:00Z",
+    "line_total": 989.63
+  },
+  {
+    "id": "HCP-J-00234",
+    "customer_name": "C. Reed",
+    "service": "Water Heater Repair",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-06-01T09:00:00Z",
+    "line_total": 436.92
+  },
+  {
+    "id": "HCP-J-00235",
+    "customer_name": "C. Maddox",
+    "service": "Drain Cleaning",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-01T16:30:00Z",
+    "line_total": 236.51
+  },
+  {
+    "id": "HCP-J-00236",
+    "customer_name": "B. Maddox",
+    "service": "Faucet & Fixture",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-06-01T11:30:00Z",
+    "line_total": 204.48
+  },
+  {
+    "id": "HCP-J-00237",
+    "customer_name": "B. Reed",
+    "service": "Faucet & Fixture",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-06-01T12:00:00Z",
+    "line_total": 173.88
+  },
+  {
+    "id": "HCP-J-00238",
+    "customer_name": "B. Cole",
+    "service": "Faucet & Fixture",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-06-01T10:00:00Z",
+    "line_total": 232.32
+  },
+  {
+    "id": "HCP-J-00239",
+    "customer_name": "B. Reed",
+    "service": "Faucet & Fixture",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-01T14:00:00Z",
+    "line_total": 214.18
+  },
+  {
+    "id": "HCP-J-00240",
+    "customer_name": "A. Cole",
+    "service": "Water Heater Repair",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-06-01T16:00:00Z",
+    "line_total": 359.08
+  },
+  {
+    "id": "HCP-J-00241",
+    "customer_name": "D. Cole",
+    "service": "Leak Repair",
+    "technician": "Priya Nair",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-01T09:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00242",
+    "customer_name": "B. Cole",
+    "service": "Water Heater Repair",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-01T16:30:00Z",
+    "line_total": 346.22
+  },
+  {
+    "id": "HCP-J-00243",
+    "customer_name": "E. Pope",
+    "service": "Water Heater Repair",
+    "technician": "Lewis Kang",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-01T13:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00244",
+    "customer_name": "A. Reed",
+    "service": "Emergency Call-Out",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-06-01T12:00:00Z",
+    "line_total": 540.85
+  },
+  {
+    "id": "HCP-J-00245",
+    "customer_name": "A. Maddox",
+    "service": "Water Heater Repair",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-01T11:00:00Z",
+    "line_total": 379.73
+  },
+  {
+    "id": "HCP-J-00246",
+    "customer_name": "D. Frost",
+    "service": "Sump Pump Install",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-01T13:00:00Z",
+    "line_total": 1066.98
+  },
+  {
+    "id": "HCP-J-00247",
+    "customer_name": "D. Cole",
+    "service": "Faucet & Fixture",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-06-02T08:00:00Z",
+    "line_total": 187.25
+  },
+  {
+    "id": "HCP-J-00248",
+    "customer_name": "E. Maddox",
+    "service": "Leak Repair",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-06-02T09:30:00Z",
+    "line_total": 252.23
+  },
+  {
+    "id": "HCP-J-00249",
+    "customer_name": "A. Frost",
+    "service": "Faucet & Fixture",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-06-02T10:00:00Z",
+    "line_total": 218.01
+  },
+  {
+    "id": "HCP-J-00250",
+    "customer_name": "D. Pope",
+    "service": "Water Heater Repair",
+    "technician": "Marco Ruiz",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-02T08:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00251",
+    "customer_name": "D. Reed",
+    "service": "Drain Cleaning",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-06-02T16:00:00Z",
+    "line_total": 220.98
+  },
+  {
+    "id": "HCP-J-00252",
+    "customer_name": "D. Maddox",
+    "service": "Faucet & Fixture",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-06-02T16:30:00Z",
+    "line_total": 269.34
+  },
+  {
+    "id": "HCP-J-00253",
+    "customer_name": "B. Vance",
+    "service": "Sump Pump Install",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-06-02T14:00:00Z",
+    "line_total": 1328.43
+  },
+  {
+    "id": "HCP-J-00254",
+    "customer_name": "C. Reed",
+    "service": "Water Heater Repair",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-06-02T10:00:00Z",
+    "line_total": 411.56
+  },
+  {
+    "id": "HCP-J-00255",
+    "customer_name": "A. Maddox",
+    "service": "Drain Cleaning",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-06-02T10:30:00Z",
+    "line_total": 212.69
+  },
+  {
+    "id": "HCP-J-00256",
+    "customer_name": "A. Maddox",
+    "service": "Emergency Call-Out",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-06-03T09:30:00Z",
+    "line_total": 596.35
+  },
+  {
+    "id": "HCP-J-00257",
+    "customer_name": "C. Vance",
+    "service": "Drain Cleaning",
+    "technician": "Priya Nair",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-03T10:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00258",
+    "customer_name": "B. Cole",
+    "service": "Sump Pump Install",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-03T12:30:00Z",
+    "line_total": 1180.17
+  },
+  {
+    "id": "HCP-J-00259",
+    "customer_name": "B. Vance",
+    "service": "Leak Repair",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-03T16:30:00Z",
+    "line_total": 401.98
+  },
+  {
+    "id": "HCP-J-00260",
+    "customer_name": "E. Frost",
+    "service": "Emergency Call-Out",
+    "technician": "Marco Ruiz",
+    "status": "canceled",
+    "scheduled_at": "2026-06-03T11:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00261",
+    "customer_name": "C. Cole",
+    "service": "Drain Cleaning",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-06-03T09:00:00Z",
+    "line_total": 228.03
+  },
+  {
+    "id": "HCP-J-00262",
+    "customer_name": "B. Frost",
+    "service": "Sump Pump Install",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-06-03T16:30:00Z",
+    "line_total": 1257.2
+  },
+  {
+    "id": "HCP-J-00263",
+    "customer_name": "C. Reed",
+    "service": "Leak Repair",
+    "technician": "Dana Pratt",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-03T15:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00264",
+    "customer_name": "E. Cole",
+    "service": "Faucet & Fixture",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-03T12:30:00Z",
+    "line_total": 316.61
+  },
+  {
+    "id": "HCP-J-00265",
+    "customer_name": "E. Vance",
+    "service": "Sump Pump Install",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-03T12:00:00Z",
+    "line_total": 1180.0
+  },
+  {
+    "id": "HCP-J-00266",
+    "customer_name": "E. Maddox",
+    "service": "Faucet & Fixture",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-06-03T16:00:00Z",
+    "line_total": 281.6
+  },
+  {
+    "id": "HCP-J-00267",
+    "customer_name": "A. Vance",
+    "service": "Faucet & Fixture",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-06-03T11:30:00Z",
+    "line_total": 295.75
+  },
+  {
+    "id": "HCP-J-00268",
+    "customer_name": "B. Vance",
+    "service": "Water Heater Repair",
+    "technician": "Lewis Kang",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-03T16:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00269",
+    "customer_name": "D. Frost",
+    "service": "Drain Cleaning",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-06-03T14:00:00Z",
+    "line_total": 226.3
+  },
+  {
+    "id": "HCP-J-00270",
+    "customer_name": "C. Frost",
+    "service": "Sump Pump Install",
+    "technician": "Lewis Kang",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-04T10:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00271",
+    "customer_name": "B. Maddox",
+    "service": "Water Heater Repair",
+    "technician": "Dana Pratt",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-04T14:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00272",
+    "customer_name": "D. Frost",
+    "service": "Water Heater Repair",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-06-04T16:30:00Z",
+    "line_total": 413.65
+  },
+  {
+    "id": "HCP-J-00273",
+    "customer_name": "C. Maddox",
+    "service": "Drain Cleaning",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-06-04T16:30:00Z",
+    "line_total": 218.79
+  },
+  {
+    "id": "HCP-J-00274",
+    "customer_name": "D. Frost",
+    "service": "Drain Cleaning",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-06-04T15:00:00Z",
+    "line_total": 228.46
+  },
+  {
+    "id": "HCP-J-00275",
+    "customer_name": "E. Reed",
+    "service": "Emergency Call-Out",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-06-04T10:30:00Z",
+    "line_total": 566.9
+  },
+  {
+    "id": "HCP-J-00276",
+    "customer_name": "A. Cole",
+    "service": "Water Heater Repair",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-06-04T11:30:00Z",
+    "line_total": 376.95
+  },
+  {
+    "id": "HCP-J-00277",
+    "customer_name": "E. Vance",
+    "service": "Faucet & Fixture",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-06-04T12:30:00Z",
+    "line_total": 308.65
+  },
+  {
+    "id": "HCP-J-00278",
+    "customer_name": "B. Pope",
+    "service": "Emergency Call-Out",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-06-04T13:00:00Z",
+    "line_total": 388.37
+  },
+  {
+    "id": "HCP-J-00279",
+    "customer_name": "E. Reed",
+    "service": "Leak Repair",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-04T08:30:00Z",
+    "line_total": 363.24
+  },
+  {
+    "id": "HCP-J-00280",
+    "customer_name": "B. Reed",
+    "service": "Sump Pump Install",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-06-04T15:00:00Z",
+    "line_total": 1245.3
+  },
+  {
+    "id": "HCP-J-00281",
+    "customer_name": "E. Reed",
+    "service": "Water Heater Repair",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-04T13:00:00Z",
+    "line_total": 443.92
+  },
+  {
+    "id": "HCP-J-00282",
+    "customer_name": "B. Pope",
+    "service": "Water Heater Repair",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-06-04T15:30:00Z",
+    "line_total": 361.63
+  },
+  {
+    "id": "HCP-J-00283",
+    "customer_name": "E. Cole",
+    "service": "Leak Repair",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-04T09:00:00Z",
+    "line_total": 243.42
+  },
+  {
+    "id": "HCP-J-00284",
+    "customer_name": "B. Frost",
+    "service": "Drain Cleaning",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-04T08:00:00Z",
+    "line_total": 211.84
+  },
+  {
+    "id": "HCP-J-00285",
+    "customer_name": "D. Frost",
+    "service": "Drain Cleaning",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-06-05T11:30:00Z",
+    "line_total": 201.61
+  },
+  {
+    "id": "HCP-J-00286",
+    "customer_name": "D. Pope",
+    "service": "Emergency Call-Out",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-05T11:30:00Z",
+    "line_total": 544.85
+  },
+  {
+    "id": "HCP-J-00287",
+    "customer_name": "A. Frost",
+    "service": "Faucet & Fixture",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-05T13:00:00Z",
+    "line_total": 247.0
+  },
+  {
+    "id": "HCP-J-00288",
+    "customer_name": "B. Reed",
+    "service": "Drain Cleaning",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-06-05T10:30:00Z",
+    "line_total": 228.95
+  },
+  {
+    "id": "HCP-J-00289",
+    "customer_name": "A. Frost",
+    "service": "Sump Pump Install",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-06-05T10:00:00Z",
+    "line_total": 1260.26
+  },
+  {
+    "id": "HCP-J-00290",
+    "customer_name": "D. Cole",
+    "service": "Sump Pump Install",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-05T15:00:00Z",
+    "line_total": 1202.07
+  },
+  {
+    "id": "HCP-J-00291",
+    "customer_name": "C. Frost",
+    "service": "Water Heater Repair",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-05T09:00:00Z",
+    "line_total": 373.76
+  },
+  {
+    "id": "HCP-J-00292",
+    "customer_name": "A. Frost",
+    "service": "Drain Cleaning",
+    "technician": "Marco Ruiz",
+    "status": "canceled",
+    "scheduled_at": "2026-06-05T15:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00293",
+    "customer_name": "C. Reed",
+    "service": "Drain Cleaning",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-06-05T14:30:00Z",
+    "line_total": 217.9
+  },
+  {
+    "id": "HCP-J-00294",
+    "customer_name": "D. Reed",
+    "service": "Leak Repair",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-06-05T12:00:00Z",
+    "line_total": 281.76
+  },
+  {
+    "id": "HCP-J-00295",
+    "customer_name": "A. Vance",
+    "service": "Sump Pump Install",
+    "technician": "Dana Pratt",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-05T10:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00296",
+    "customer_name": "B. Pope",
+    "service": "Leak Repair",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-06-05T12:00:00Z",
+    "line_total": 296.36
+  },
+  {
+    "id": "HCP-J-00297",
+    "customer_name": "D. Maddox",
+    "service": "Drain Cleaning",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-06-05T09:00:00Z",
+    "line_total": 237.4
+  },
+  {
+    "id": "HCP-J-00298",
+    "customer_name": "A. Maddox",
+    "service": "Faucet & Fixture",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-05T13:00:00Z",
+    "line_total": 184.43
+  },
+  {
+    "id": "HCP-J-00299",
+    "customer_name": "B. Vance",
+    "service": "Drain Cleaning",
+    "technician": "Tara Quinn",
+    "status": "canceled",
+    "scheduled_at": "2026-06-05T15:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00300",
+    "customer_name": "B. Vance",
+    "service": "Water Heater Repair",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-06-06T09:00:00Z",
+    "line_total": 350.54
+  },
+  {
+    "id": "HCP-J-00301",
+    "customer_name": "B. Cole",
+    "service": "Drain Cleaning",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-06-06T16:30:00Z",
+    "line_total": 215.25
+  },
+  {
+    "id": "HCP-J-00302",
+    "customer_name": "B. Frost",
+    "service": "Faucet & Fixture",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-06-06T11:30:00Z",
+    "line_total": 227.43
+  },
+  {
+    "id": "HCP-J-00303",
+    "customer_name": "E. Frost",
+    "service": "Faucet & Fixture",
+    "technician": "Dana Pratt",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-06T08:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00304",
+    "customer_name": "B. Vance",
+    "service": "Water Heater Repair",
+    "technician": "Lewis Kang",
+    "status": "canceled",
+    "scheduled_at": "2026-06-06T13:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00305",
+    "customer_name": "A. Vance",
+    "service": "Drain Cleaning",
+    "technician": "Sam Olsen",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-06T16:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00306",
+    "customer_name": "C. Cole",
+    "service": "Sump Pump Install",
+    "technician": "Tara Quinn",
+    "status": "canceled",
+    "scheduled_at": "2026-06-06T14:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00307",
+    "customer_name": "A. Pope",
+    "service": "Emergency Call-Out",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-07T13:00:00Z",
+    "line_total": 519.16
+  },
+  {
+    "id": "HCP-J-00308",
+    "customer_name": "D. Vance",
+    "service": "Faucet & Fixture",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-07T11:00:00Z",
+    "line_total": 221.94
+  },
+  {
+    "id": "HCP-J-00309",
+    "customer_name": "C. Vance",
+    "service": "Water Heater Repair",
+    "technician": "Dana Pratt",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-07T14:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00310",
+    "customer_name": "E. Reed",
+    "service": "Water Heater Repair",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-06-07T08:30:00Z",
+    "line_total": 523.01
+  },
+  {
+    "id": "HCP-J-00311",
+    "customer_name": "A. Pope",
+    "service": "Drain Cleaning",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-06-07T11:30:00Z",
+    "line_total": 228.85
+  },
+  {
+    "id": "HCP-J-00312",
+    "customer_name": "E. Reed",
+    "service": "Water Heater Repair",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-07T12:30:00Z",
+    "line_total": 492.92
+  },
+  {
+    "id": "HCP-J-00313",
+    "customer_name": "A. Frost",
+    "service": "Sump Pump Install",
+    "technician": "Dana Pratt",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-07T12:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00314",
+    "customer_name": "D. Cole",
+    "service": "Emergency Call-Out",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-06-08T12:30:00Z",
+    "line_total": 579.67
+  },
+  {
+    "id": "HCP-J-00315",
+    "customer_name": "C. Maddox",
+    "service": "Leak Repair",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-06-08T10:00:00Z",
+    "line_total": 364.73
+  },
+  {
+    "id": "HCP-J-00316",
+    "customer_name": "B. Maddox",
+    "service": "Drain Cleaning",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-06-08T10:00:00Z",
+    "line_total": 223.25
+  },
+  {
+    "id": "HCP-J-00317",
+    "customer_name": "C. Reed",
+    "service": "Emergency Call-Out",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-06-08T10:30:00Z",
+    "line_total": 507.79
+  },
+  {
+    "id": "HCP-J-00318",
+    "customer_name": "C. Maddox",
+    "service": "Sump Pump Install",
+    "technician": "Lewis Kang",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-08T08:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00319",
+    "customer_name": "B. Vance",
+    "service": "Sump Pump Install",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-06-08T15:00:00Z",
+    "line_total": 980.4
+  },
+  {
+    "id": "HCP-J-00320",
+    "customer_name": "B. Maddox",
+    "service": "Drain Cleaning",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-06-08T15:30:00Z",
+    "line_total": 232.19
+  },
+  {
+    "id": "HCP-J-00321",
+    "customer_name": "C. Reed",
+    "service": "Emergency Call-Out",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-08T11:00:00Z",
+    "line_total": 341.56
+  },
+  {
+    "id": "HCP-J-00322",
+    "customer_name": "C. Vance",
+    "service": "Emergency Call-Out",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-06-08T11:30:00Z",
+    "line_total": 570.46
+  },
+  {
+    "id": "HCP-J-00323",
+    "customer_name": "A. Pope",
+    "service": "Emergency Call-Out",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-08T12:00:00Z",
+    "line_total": 573.25
+  },
+  {
+    "id": "HCP-J-00324",
+    "customer_name": "C. Frost",
+    "service": "Faucet & Fixture",
+    "technician": "Marco Ruiz",
+    "status": "canceled",
+    "scheduled_at": "2026-06-09T09:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00325",
+    "customer_name": "D. Cole",
+    "service": "Leak Repair",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-09T12:30:00Z",
+    "line_total": 259.0
+  },
+  {
+    "id": "HCP-J-00326",
+    "customer_name": "C. Reed",
+    "service": "Sump Pump Install",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-06-09T16:00:00Z",
+    "line_total": 1037.63
+  },
+  {
+    "id": "HCP-J-00327",
+    "customer_name": "A. Maddox",
+    "service": "Leak Repair",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-06-09T15:30:00Z",
+    "line_total": 240.57
+  },
+  {
+    "id": "HCP-J-00328",
+    "customer_name": "A. Frost",
+    "service": "Faucet & Fixture",
+    "technician": "Priya Nair",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-09T16:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00329",
+    "customer_name": "D. Maddox",
+    "service": "Water Heater Repair",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-06-09T14:30:00Z",
+    "line_total": 451.06
+  },
+  {
+    "id": "HCP-J-00330",
+    "customer_name": "A. Frost",
+    "service": "Water Heater Repair",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-09T10:00:00Z",
+    "line_total": 429.79
+  },
+  {
+    "id": "HCP-J-00331",
+    "customer_name": "E. Reed",
+    "service": "Leak Repair",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-09T10:00:00Z",
+    "line_total": 371.6
+  },
+  {
+    "id": "HCP-J-00332",
+    "customer_name": "E. Reed",
+    "service": "Sump Pump Install",
+    "technician": "Lewis Kang",
+    "status": "canceled",
+    "scheduled_at": "2026-06-09T15:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00333",
+    "customer_name": "A. Vance",
+    "service": "Sump Pump Install",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-06-09T08:30:00Z",
+    "line_total": 1043.71
+  },
+  {
+    "id": "HCP-J-00334",
+    "customer_name": "D. Pope",
+    "service": "Emergency Call-Out",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-09T10:00:00Z",
+    "line_total": 500.8
+  },
+  {
+    "id": "HCP-J-00335",
+    "customer_name": "E. Frost",
+    "service": "Emergency Call-Out",
+    "technician": "Marco Ruiz",
+    "status": "canceled",
+    "scheduled_at": "2026-06-09T10:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00336",
+    "customer_name": "A. Reed",
+    "service": "Drain Cleaning",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-09T09:30:00Z",
+    "line_total": 204.34
+  },
+  {
+    "id": "HCP-J-00337",
+    "customer_name": "A. Vance",
+    "service": "Leak Repair",
+    "technician": "Priya Nair",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-10T16:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00338",
+    "customer_name": "B. Frost",
+    "service": "Leak Repair",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-10T10:00:00Z",
+    "line_total": 339.14
+  },
+  {
+    "id": "HCP-J-00339",
+    "customer_name": "D. Vance",
+    "service": "Drain Cleaning",
+    "technician": "Lewis Kang",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-10T10:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00340",
+    "customer_name": "B. Maddox",
+    "service": "Emergency Call-Out",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-10T16:30:00Z",
+    "line_total": 499.25
+  },
+  {
+    "id": "HCP-J-00341",
+    "customer_name": "B. Cole",
+    "service": "Emergency Call-Out",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-10T11:30:00Z",
+    "line_total": 299.18
+  },
+  {
+    "id": "HCP-J-00342",
+    "customer_name": "E. Reed",
+    "service": "Leak Repair",
+    "technician": "Priya Nair",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-10T15:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00343",
+    "customer_name": "B. Pope",
+    "service": "Sump Pump Install",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-06-10T09:30:00Z",
+    "line_total": 1193.25
+  },
+  {
+    "id": "HCP-J-00344",
+    "customer_name": "C. Reed",
+    "service": "Sump Pump Install",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-06-10T08:00:00Z",
+    "line_total": 1241.75
+  },
+  {
+    "id": "HCP-J-00345",
+    "customer_name": "B. Frost",
+    "service": "Sump Pump Install",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-10T10:30:00Z",
+    "line_total": 1441.44
+  },
+  {
+    "id": "HCP-J-00346",
+    "customer_name": "A. Vance",
+    "service": "Leak Repair",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-06-10T12:00:00Z",
+    "line_total": 320.49
+  },
+  {
+    "id": "HCP-J-00347",
+    "customer_name": "B. Frost",
+    "service": "Faucet & Fixture",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-06-10T14:00:00Z",
+    "line_total": 282.69
+  },
+  {
+    "id": "HCP-J-00348",
+    "customer_name": "D. Cole",
+    "service": "Sump Pump Install",
+    "technician": "Sam Olsen",
+    "status": "canceled",
+    "scheduled_at": "2026-06-10T16:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00349",
+    "customer_name": "E. Frost",
+    "service": "Faucet & Fixture",
+    "technician": "Dana Pratt",
+    "status": "canceled",
+    "scheduled_at": "2026-06-10T08:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00350",
+    "customer_name": "C. Maddox",
+    "service": "Emergency Call-Out",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-06-10T15:00:00Z",
+    "line_total": 348.15
+  },
+  {
+    "id": "HCP-J-00351",
+    "customer_name": "E. Vance",
+    "service": "Sump Pump Install",
+    "technician": "Dana Pratt",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-10T12:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00352",
+    "customer_name": "A. Cole",
+    "service": "Faucet & Fixture",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-06-10T15:00:00Z",
+    "line_total": 194.41
+  },
+  {
+    "id": "HCP-J-00353",
+    "customer_name": "D. Cole",
+    "service": "Water Heater Repair",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-06-11T15:00:00Z",
+    "line_total": 388.59
+  },
+  {
+    "id": "HCP-J-00354",
+    "customer_name": "A. Reed",
+    "service": "Leak Repair",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-11T10:00:00Z",
+    "line_total": 242.04
+  },
+  {
+    "id": "HCP-J-00355",
+    "customer_name": "B. Maddox",
+    "service": "Drain Cleaning",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-06-11T10:30:00Z",
+    "line_total": 222.76
+  },
+  {
+    "id": "HCP-J-00356",
+    "customer_name": "A. Frost",
+    "service": "Leak Repair",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-06-11T09:30:00Z",
+    "line_total": 340.36
+  },
+  {
+    "id": "HCP-J-00357",
+    "customer_name": "B. Frost",
+    "service": "Drain Cleaning",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-11T16:30:00Z",
+    "line_total": 198.18
+  },
+  {
+    "id": "HCP-J-00358",
+    "customer_name": "B. Vance",
+    "service": "Sump Pump Install",
+    "technician": "Sam Olsen",
+    "status": "canceled",
+    "scheduled_at": "2026-06-11T15:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00359",
+    "customer_name": "E. Reed",
+    "service": "Faucet & Fixture",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-06-11T15:30:00Z",
+    "line_total": 238.97
+  },
+  {
+    "id": "HCP-J-00360",
+    "customer_name": "B. Cole",
+    "service": "Water Heater Repair",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-06-11T14:00:00Z",
+    "line_total": 379.17
+  },
+  {
+    "id": "HCP-J-00361",
+    "customer_name": "B. Maddox",
+    "service": "Faucet & Fixture",
+    "technician": "Priya Nair",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-11T13:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00362",
+    "customer_name": "E. Cole",
+    "service": "Sump Pump Install",
+    "technician": "Sam Olsen",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-11T15:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00363",
+    "customer_name": "C. Vance",
+    "service": "Faucet & Fixture",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-06-11T11:00:00Z",
+    "line_total": 243.11
+  },
+  {
+    "id": "HCP-J-00364",
+    "customer_name": "A. Reed",
+    "service": "Drain Cleaning",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-06-11T13:30:00Z",
+    "line_total": 236.28
+  },
+  {
+    "id": "HCP-J-00365",
+    "customer_name": "B. Reed",
+    "service": "Drain Cleaning",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-06-11T15:00:00Z",
+    "line_total": 196.91
+  },
+  {
+    "id": "HCP-J-00366",
+    "customer_name": "A. Frost",
+    "service": "Emergency Call-Out",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-11T16:00:00Z",
+    "line_total": 420.76
+  },
+  {
+    "id": "HCP-J-00367",
+    "customer_name": "C. Frost",
+    "service": "Drain Cleaning",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-06-11T08:30:00Z",
+    "line_total": 195.57
+  },
+  {
+    "id": "HCP-J-00368",
+    "customer_name": "B. Reed",
+    "service": "Faucet & Fixture",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-11T13:00:00Z",
+    "line_total": 231.05
+  },
+  {
+    "id": "HCP-J-00369",
+    "customer_name": "D. Maddox",
+    "service": "Faucet & Fixture",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-12T13:00:00Z",
+    "line_total": 257.52
+  },
+  {
+    "id": "HCP-J-00370",
+    "customer_name": "C. Frost",
+    "service": "Sump Pump Install",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-12T13:00:00Z",
+    "line_total": 1172.88
+  },
+  {
+    "id": "HCP-J-00371",
+    "customer_name": "D. Maddox",
+    "service": "Emergency Call-Out",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-06-12T08:30:00Z",
+    "line_total": 286.67
+  },
+  {
+    "id": "HCP-J-00372",
+    "customer_name": "B. Maddox",
+    "service": "Sump Pump Install",
+    "technician": "Marco Ruiz",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-12T13:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00373",
+    "customer_name": "D. Pope",
+    "service": "Faucet & Fixture",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-06-12T13:30:00Z",
+    "line_total": 238.2
+  },
+  {
+    "id": "HCP-J-00374",
+    "customer_name": "A. Reed",
+    "service": "Emergency Call-Out",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-06-12T15:00:00Z",
+    "line_total": 552.91
+  },
+  {
+    "id": "HCP-J-00375",
+    "customer_name": "B. Maddox",
+    "service": "Water Heater Repair",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-12T14:00:00Z",
+    "line_total": 344.72
+  },
+  {
+    "id": "HCP-J-00376",
+    "customer_name": "D. Maddox",
+    "service": "Drain Cleaning",
+    "technician": "Marco Ruiz",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-12T16:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00377",
+    "customer_name": "D. Cole",
+    "service": "Faucet & Fixture",
+    "technician": "Dana Pratt",
+    "status": "canceled",
+    "scheduled_at": "2026-06-12T15:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00378",
+    "customer_name": "A. Maddox",
+    "service": "Faucet & Fixture",
+    "technician": "Priya Nair",
+    "status": "canceled",
+    "scheduled_at": "2026-06-12T11:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00379",
+    "customer_name": "E. Reed",
+    "service": "Faucet & Fixture",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-06-12T11:30:00Z",
+    "line_total": 192.38
+  },
+  {
+    "id": "HCP-J-00380",
+    "customer_name": "E. Cole",
+    "service": "Drain Cleaning",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-12T16:30:00Z",
+    "line_total": 220.66
+  },
+  {
+    "id": "HCP-J-00381",
+    "customer_name": "C. Vance",
+    "service": "Sump Pump Install",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-12T16:00:00Z",
+    "line_total": 1008.81
+  },
+  {
+    "id": "HCP-J-00382",
+    "customer_name": "A. Cole",
+    "service": "Sump Pump Install",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-13T13:30:00Z",
+    "line_total": 1144.75
+  },
+  {
+    "id": "HCP-J-00383",
+    "customer_name": "B. Reed",
+    "service": "Drain Cleaning",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-06-13T13:30:00Z",
+    "line_total": 236.81
+  },
+  {
+    "id": "HCP-J-00384",
+    "customer_name": "C. Pope",
+    "service": "Emergency Call-Out",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-06-13T14:00:00Z",
+    "line_total": 531.24
+  },
+  {
+    "id": "HCP-J-00385",
+    "customer_name": "D. Maddox",
+    "service": "Drain Cleaning",
+    "technician": "Lewis Kang",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-13T13:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00386",
+    "customer_name": "C. Frost",
+    "service": "Sump Pump Install",
+    "technician": "Dana Pratt",
+    "status": "canceled",
+    "scheduled_at": "2026-06-14T12:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00387",
+    "customer_name": "A. Cole",
+    "service": "Emergency Call-Out",
+    "technician": "Tara Quinn",
+    "status": "canceled",
+    "scheduled_at": "2026-06-14T11:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00388",
+    "customer_name": "E. Maddox",
+    "service": "Drain Cleaning",
+    "technician": "Priya Nair",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-14T09:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00389",
+    "customer_name": "E. Maddox",
+    "service": "Faucet & Fixture",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-06-14T08:30:00Z",
+    "line_total": 170.0
+  },
+  {
+    "id": "HCP-J-00390",
+    "customer_name": "A. Frost",
+    "service": "Sump Pump Install",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-06-14T08:30:00Z",
+    "line_total": 1133.29
+  },
+  {
+    "id": "HCP-J-00391",
+    "customer_name": "D. Maddox",
+    "service": "Leak Repair",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-15T11:00:00Z",
+    "line_total": 317.4
+  },
+  {
+    "id": "HCP-J-00392",
+    "customer_name": "C. Pope",
+    "service": "Emergency Call-Out",
+    "technician": "Priya Nair",
+    "status": "completed",
+    "scheduled_at": "2026-06-15T08:00:00Z",
+    "line_total": 539.2
+  },
+  {
+    "id": "HCP-J-00393",
+    "customer_name": "C. Maddox",
+    "service": "Water Heater Repair",
+    "technician": "Marco Ruiz",
+    "status": "completed",
+    "scheduled_at": "2026-06-15T12:00:00Z",
+    "line_total": 328.71
+  },
+  {
+    "id": "HCP-J-00394",
+    "customer_name": "A. Frost",
+    "service": "Faucet & Fixture",
+    "technician": "Lewis Kang",
+    "status": "completed",
+    "scheduled_at": "2026-06-15T13:30:00Z",
+    "line_total": 277.48
+  },
+  {
+    "id": "HCP-J-00395",
+    "customer_name": "C. Vance",
+    "service": "Emergency Call-Out",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-15T08:30:00Z",
+    "line_total": 616.44
+  },
+  {
+    "id": "HCP-J-00396",
+    "customer_name": "B. Vance",
+    "service": "Faucet & Fixture",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-15T13:30:00Z",
+    "line_total": 268.8
+  },
+  {
+    "id": "HCP-J-00397",
+    "customer_name": "A. Cole",
+    "service": "Leak Repair",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-15T14:30:00Z",
+    "line_total": 314.89
+  },
+  {
+    "id": "HCP-J-00398",
+    "customer_name": "D. Pope",
+    "service": "Drain Cleaning",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-15T08:30:00Z",
+    "line_total": 217.86
+  },
+  {
+    "id": "HCP-J-00399",
+    "customer_name": "A. Maddox",
+    "service": "Sump Pump Install",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-15T12:00:00Z",
+    "line_total": 1185.51
+  },
+  {
+    "id": "HCP-J-00400",
+    "customer_name": "C. Maddox",
+    "service": "Water Heater Repair",
+    "technician": "Dana Pratt",
+    "status": "completed",
+    "scheduled_at": "2026-06-15T10:00:00Z",
+    "line_total": 441.29
+  },
+  {
+    "id": "HCP-J-00401",
+    "customer_name": "A. Frost",
+    "service": "Emergency Call-Out",
+    "technician": "Sam Olsen",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-15T14:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00402",
+    "customer_name": "E. Maddox",
+    "service": "Sump Pump Install",
+    "technician": "Priya Nair",
+    "status": "scheduled",
+    "scheduled_at": "2026-06-15T16:30:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00403",
+    "customer_name": "C. Reed",
+    "service": "Water Heater Repair",
+    "technician": "Sam Olsen",
+    "status": "completed",
+    "scheduled_at": "2026-06-15T11:00:00Z",
+    "line_total": 322.2
+  },
+  {
+    "id": "HCP-J-00404",
+    "customer_name": "A. Maddox",
+    "service": "Emergency Call-Out",
+    "technician": "Priya Nair",
+    "status": "canceled",
+    "scheduled_at": "2026-06-15T09:00:00Z",
+    "line_total": 0.0
+  },
+  {
+    "id": "HCP-J-00405",
+    "customer_name": "A. Cole",
+    "service": "Faucet & Fixture",
+    "technician": "Tara Quinn",
+    "status": "completed",
+    "scheduled_at": "2026-06-15T08:30:00Z",
+    "line_total": 190.33
+  }
+]
