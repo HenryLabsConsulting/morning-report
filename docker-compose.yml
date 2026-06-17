@@ -1,0 +1,55 @@
+# Run the whole thing with one command: docker compose up
+#
+#   db        PostgreSQL warehouse
+#   mailhog   captures the outgoing email so you can read the report in a browser
+#   mock-api  serves the three vendor APIs from committed fixtures
+#   pipeline  runs once: extract -> validate -> transform -> load -> email
+#
+# After it runs, open http://localhost:8025 to read the delivered morning report.
+
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: morning
+      POSTGRES_PASSWORD: morning
+      POSTGRES_DB: morning
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U morning"]
+      interval: 5s
+      timeout: 3s
+      retries: 12
+
+  mailhog:
+    image: mailhog/mailhog:latest
+    ports:
+      - "8025:8025"   # web UI to read the email
+      - "1025:1025"   # SMTP
+
+  mock-api:
+    build:
+      context: .
+      dockerfile: mock_sources/Dockerfile
+    ports:
+      - "8077:8077"
+
+  pipeline:
+    build:
+      context: .
+      dockerfile: pipeline/Dockerfile
+    environment:
+      DATABASE_URL: postgresql://morning:morning@db:5432/morning
+      SOURCE_API_HOST: http://mock-api:8077
+      SMTP_HOST: mailhog
+      SMTP_PORT: "1025"
+      # Optional. With no key the summary is the committed sample text. Set a
+      # key for a live Claude-written briefing.
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
+    depends_on:
+      db:
+        condition: service_healthy
+      mock-api:
+        condition: service_healthy
+      mailhog:
+        condition: service_started
+    restart: "no"

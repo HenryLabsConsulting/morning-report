@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="560" viewBox="0 0 660 560" font-family="Segoe UI,Helvetica,Arial,sans-serif">
+  <rect width="660" height="560" fill="#eef1f6"/>
+  <g transform="translate(30,26)">
+    <text x="0" y="14" fill="#7a8699" font-size="12" letter-spacing="1">MORNING REPORT</text>
+    <text x="0" y="40" fill="#16202e" font-size="21" font-weight="700">Tri-County Plumbing · 2026-06-15</text>
+
+    <!-- summary card -->
+    <rect x="0" y="58" width="600" height="178" rx="12" fill="#16202e"/>
+    <rect x="20" y="78" width="64" height="20" rx="10" fill="#eaf1ff"/>
+    <text x="52" y="92" fill="#2a66d9" font-size="11" font-weight="700" text-anchor="middle">SAMPLE</text>
+    <text x="20" y="124" fill="#dfe5ee" font-size="13.5">Yesterday booked $5,020 in completed work, +35% against the 7-day</text>
+    <text x="20" y="145" fill="#dfe5ee" font-size="13.5">average. The team closed 12 jobs and canceled 1. Sump Pump Install</text>
+    <text x="20" y="166" fill="#dfe5ee" font-size="13.5">led the day at $1,186. The phones took 22 calls and booked 12 of</text>
+    <text x="20" y="187" fill="#dfe5ee" font-size="13.5">them, a 55% booking rate. 5 new reviews came in at 4.0 stars. Open</text>
+    <text x="20" y="208" fill="#dfe5ee" font-size="13.5">balance is $32,471. Booking rate is the lever to watch today.</text>
+
+    <!-- stat tiles -->
+    <g transform="translate(0,252)">
+      <rect x="0" y="0" width="292" height="78" rx="10" fill="#ffffff" stroke="#e6e9ef"/>
+      <text x="16" y="24" fill="#7a8699" font-size="11" letter-spacing="0.5">REVENUE</text>
+      <text x="16" y="50" fill="#16202e" font-size="23" font-weight="700">$5,020</text>
+      <text x="16" y="68" fill="#0f8a55" font-size="12">+35% vs 7-day avg</text>
+
+      <rect x="308" y="0" width="292" height="78" rx="10" fill="#ffffff" stroke="#e6e9ef"/>
+      <text x="324" y="24" fill="#7a8699" font-size="11" letter-spacing="0.5">JOBS COMPLETED</text>
+      <text x="324" y="50" fill="#16202e" font-size="23" font-weight="700">12</text>
+      <text x="324" y="68" fill="#7a8699" font-size="12">1 canceled</text>
+    </g>
+    <g transform="translate(0,342)">
+      <rect x="0" y="0" width="292" height="78" rx="10" fill="#ffffff" stroke="#e6e9ef"/>
+      <text x="16" y="24" fill="#7a8699" font-size="11" letter-spacing="0.5">CALLS BOOKED</text>
+      <text x="16" y="50" fill="#16202e" font-size="23" font-weight="700">12 / 22</text>
+      <text x="16" y="68" fill="#7a8699" font-size="12">55% booking rate</text>
+
+      <rect x="308" y="0" width="292" height="78" rx="10" fill="#ffffff" stroke="#e6e9ef"/>
+      <text x="324" y="24" fill="#7a8699" font-size="11" letter-spacing="0.5">OPEN BALANCE</text>
+      <text x="324" y="50" fill="#16202e" font-size="23" font-weight="700">$32,471</text>
+      <text x="324" y="68" fill="#7a8699" font-size="12">5 new reviews, 4.0 stars</text>
+    </g>
+
+    <text x="0" y="448" fill="#7a8699" font-size="11.5">Generated from field-service, phone, and review data. Set ANTHROPIC_API_KEY for a live Claude summary.</text>
+  </g>
+</svg>

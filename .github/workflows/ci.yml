@@ -1,0 +1,37 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install tooling
+        run: pip install ruff pytest requests flask
+
+      - name: Lint
+        run: ruff check pipeline mock_sources
+
+      - name: Unit tests
+        run: pytest -q
+
+      - name: End-to-end smoke test (mock API + dry-run pipeline)
+        run: |
+          python mock_sources/app.py &
+          for i in $(seq 1 20); do
+            curl -sf http://localhost:8077/health && break || sleep 1
+          done
+          cd pipeline
+          python run.py --dry-run --host http://localhost:8077 --out /tmp/digest.html
+          test -s /tmp/digest.html
+          grep -q "MORNING REPORT" /tmp/digest.html
