@@ -6,7 +6,7 @@ Most service companies run on three or four systems that do not talk to each oth
 
 It runs on synthetic data for a fictional plumbing company, so the whole pipeline runs end to end with no vendor accounts.
 
-![Morning report email](docs/email-preview.svg)
+![Morning report email](docs/morning_report_email.png)
 
 ## What it does for the business
 
