@@ -53,10 +53,14 @@ def main() -> None:
     parser.add_argument("--out", default=str(DEFAULT_OUT))
     parser.add_argument("--smtp-host", default=os.environ.get("SMTP_HOST"))
     parser.add_argument("--smtp-port", type=int, default=int(os.environ.get("SMTP_PORT", "1025")))
+    parser.add_argument("--since", default=os.environ.get("WINDOW_SINCE", WINDOW_SINCE),
+                        help="Window start date (YYYY-MM-DD), inclusive.")
+    parser.add_argument("--until", default=os.environ.get("WINDOW_UNTIL", WINDOW_UNTIL),
+                        help="Window end date (YYYY-MM-DD), inclusive.")
     args = parser.parse_args()
 
-    print(f"Extracting from {args.host} ...")
-    payloads = extract.extract_all(args.host, WINDOW_SINCE, WINDOW_UNTIL)
+    print(f"Extracting from {args.host} ({args.since} to {args.until}) ...")
+    payloads = extract.extract_all(args.host, args.since, args.until)
     for name, rows in payloads.items():
         print(f"  {name:<20} {len(rows):>6} records")
 

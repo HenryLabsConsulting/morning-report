@@ -23,15 +23,22 @@ def _load(name: str) -> list:
 
 
 def _window(rows: list, date_field: str) -> list:
-    """Filter rows whose date_field falls in the optional since/until window."""
+    """Filter rows whose date_field falls in the optional since/until window.
+
+    since/until are inclusive day boundaries (YYYY-MM-DD). Comparing the raw
+    ISO timestamp against a bare date string is lexicographically wrong on
+    the until side (any timestamp on the until day sorts greater than the
+    bare date and gets dropped), so both bounds compare on the date portion
+    of the timestamp instead.
+    """
     since = request.args.get("since")
     until = request.args.get("until")
     out = []
     for row in rows:
-        ts = row[date_field]
-        if since and ts < since:
+        ts_date = row[date_field][:10]
+        if since and ts_date < since:
             continue
-        if until and ts > until:
+        if until and ts_date > until:
             continue
         out.append(row)
     return out
