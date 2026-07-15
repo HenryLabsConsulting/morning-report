@@ -65,17 +65,20 @@ jobs:
 
       - name: Assert the report was delivered to MailHog
         run: |
-          count=0
+          ok=0
           for i in $(seq 1 20); do
-            count=$(curl -sf http://localhost:8025/api/v2/messages | python3 -c "import json,sys; print(json.load(sys.stdin)['total'])" 2>/dev/null || echo 0)
-            if [ "$count" -ge 1 ]; then break; fi
+            if curl -sf http://localhost:8025/api/v2/messages -o /tmp/mailhog.json.tmp; then
+              mv /tmp/mailhog.json.tmp /tmp/mailhog.json
+              count=$(python3 -c "import json; print(json.load(open('/tmp/mailhog.json'))['total'])" 2>/dev/null || echo 0)
+              if [ "$count" -ge 1 ]; then ok=1; break; fi
+            fi
             sleep 2
           done
-          test "$count" -ge 1
-          curl -sf http://localhost:8025/api/v2/messages | python3 - <<'PY'
-          import json, sys
+          test "$ok" -eq 1
+          python3 - <<'PY'
+          import json
 
-          data = json.load(sys.stdin)
+          data = json.load(open("/tmp/mailhog.json"))
           assert data["total"] >= 1, f"expected at least one delivered email, got {data['total']}"
           subjects = [item["Content"]["Headers"]["Subject"][0] for item in data["items"]]
           assert any(s.startswith("Morning Report") for s in subjects), (
