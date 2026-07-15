@@ -35,3 +35,59 @@ jobs:
           python run.py --dry-run --host http://localhost:8077 --out /tmp/digest.html
           test -s /tmp/digest.html
           grep -q "MORNING REPORT" /tmp/digest.html
+
+  compose-e2e:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # No ANTHROPIC_API_KEY is set here on purpose: the pipeline falls back to
+      # its committed demo summary with no key required, so CI never touches
+      # the Claude API or needs a secret.
+      - name: Bring up the full stack
+        run: docker compose up -d --build
+
+      - name: Wait for the pipeline container to finish
+        run: |
+          cid=$(docker compose ps -a -q pipeline)
+          status=""
+          for i in $(seq 1 90); do
+            status=$(docker inspect -f '{{.State.Status}}' "$cid")
+            if [ "$status" = "exited" ]; then break; fi
+            sleep 2
+          done
+          echo "pipeline container status: $status"
+          docker compose logs pipeline
+          exit_code=$(docker inspect -f '{{.State.ExitCode}}' "$cid")
+          echo "pipeline exit code: $exit_code"
+          test "$status" = "exited"
+          test "$exit_code" = "0"
+
+      - name: Assert the report was delivered to MailHog
+        run: |
+          count=0
+          for i in $(seq 1 20); do
+            count=$(curl -sf http://localhost:8025/api/v2/messages | python3 -c "import json,sys; print(json.load(sys.stdin)['total'])" 2>/dev/null || echo 0)
+            if [ "$count" -ge 1 ]; then break; fi
+            sleep 2
+          done
+          test "$count" -ge 1
+          curl -sf http://localhost:8025/api/v2/messages | python3 - <<'PY'
+          import json, sys
+
+          data = json.load(sys.stdin)
+          assert data["total"] >= 1, f"expected at least one delivered email, got {data['total']}"
+          subjects = [item["Content"]["Headers"]["Subject"][0] for item in data["items"]]
+          assert any(s.startswith("Morning Report") for s in subjects), (
+              f"no 'Morning Report' subject among delivered emails: {subjects}"
+          )
+          print("Delivered subjects:", subjects)
+          PY
+
+      - name: Show service logs on failure
+        if: failure()
+        run: docker compose logs
+
+      - name: Tear down
+        if: always()
+        run: docker compose down -v

@@ -83,6 +83,7 @@ GitHub Actions runs on every push:
 - **Lint** with ruff.
 - **Unit tests** for schema-drift detection, transform, and the digest math.
 - **End-to-end smoke test** that starts the mock API and runs the pipeline dry-run, then checks the report renders.
+- **Full-stack compose test** that runs `docker compose up -d --build` (warehouse, mock APIs, MailHog, and the pipeline container), then asserts the pipeline exits clean and MailHog received a "Morning Report" email. No key is set, so it exercises the demo summary path.
 
 ```bash
 ruff check pipeline mock_sources
