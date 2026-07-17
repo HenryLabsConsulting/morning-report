@@ -83,3 +83,11 @@ def test_compute_metrics_core_math():
 def test_all_sources_have_required_id():
     for src in SOURCES:
         assert "id" in src.required
+
+
+def test_jobs_upsert_refreshes_all_mutable_fields():
+    pytest.importorskip("psycopg2")
+    import load
+    sql, _ = load.UPSERTS["jobs"]
+    for field in ("customer_name", "service", "technician", "scheduled_at", "line_total", "status"):
+        assert field in sql, f"jobs upsert missing field: {field}"

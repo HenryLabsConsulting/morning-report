@@ -18,7 +18,12 @@ UPSERTS = {
         """INSERT INTO jobs (id, customer_name, service, technician, status,
                              scheduled_at, line_total) VALUES %s
            ON CONFLICT (id) DO UPDATE SET
-             status = EXCLUDED.status, line_total = EXCLUDED.line_total""",
+             customer_name = EXCLUDED.customer_name,
+             service = EXCLUDED.service,
+             technician = EXCLUDED.technician,
+             status = EXCLUDED.status,
+             scheduled_at = EXCLUDED.scheduled_at,
+             line_total = EXCLUDED.line_total""",
         lambda r: (r["id"], r["customer_name"], r["service"], r["technician"],
                    r["status"], r["scheduled_at"], r["line_total"]),
     ),
